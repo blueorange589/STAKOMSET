@@ -32,31 +32,8 @@ KEMI - second
 ...
 
 directions
-TA/NA/MA/LA/ZA/DA/KA (forward/backward/right/left/above/below/on-at)
+TA/NA/MA/LA/KA/DA/ZA (forward/backward/right/left/above/below/on-at)
 
-measurements
-VI - movement
-RI - positioning
-KI - length 
-TI - time
-SI - count, amount
-DI - size, volume
-MI - weight
-LI - temperature
-PI - angle, direction
-FI - pressure
-ZI - energy
-
-TIKI - speed
-TISAS - frequency, beat 
-DISAS - mass
-
-speciality
-NE - color
-ME - age
-PE - role
-FE - functioning
-KE - privacy
 
 
 
@@ -158,14 +135,7 @@ VINIX - static, stationary
 KINIX - touching, meet, agreement
 KIKAS - remote controlled
 KIKASI - remote controller
-KIPIT - getting away
-KIPIN - getting closer
-DIPIT - expansion, grow
-DIPIN - shrink
-SIPIT - increasing count
-SIPIN - decreasing count
-UNPIT - seperation, tension, voltage, injury
-UNPIN - unification, healing
+
 IZA - upside down 
 IMA - rightside left
 ARKSIX - cathode 
@@ -179,52 +149,81 @@ VÖS - very much
 
 NAT - reverse, undo
  
+KIPIT - getting away
+KIPIN - getting closer
+DIPIT - expansion, grow
+DIPIN - shrink
+SIPIT - increasing count
+SIPIN - decreasing count
+UNPIT - seperation, tension, voltage, injury
+UNPIN - unification, healing
+KIZAPIT - ascending
+KIZAPIN - descending
+...ASI - succesfully
+...ANI - failed to complete
 
+measurements
+VI - movement
+RI - positioning
+KI - length 
+TI - time
+SI - count, amount
+DI - size, volume
+MI - weight
+LI - temperature
+PI - angle, direction
+FI - pressure
+ZI - energy
+
+KIZA - height, altitude
+TIKI - speed
+TISAS - frequency, beat 
+DISAS - mass
+
+speciality
+NE - color
+ME - age
+PE - role
+FE - functioning
+KE - privacy
 
 
 actions
-X - reason  - EXMI? 
-XA - cause - EXMA? 
+X - case  - EXMI? 
+XA - action EXEL? 
+XARE/ARI/ARO - status EXARI?
 XAT - person/object in action EXAT?
 XATA - method, process EXATA? 
 XATE - instrument used EXATE? 
-XEV - where EXEV?
-XEM - origin object EXEM? 
-XOM - target object EXOM? 
-XEL - origin action EXEL? 
-XOL - target action EXOL? 
+XEN - where EXEN?
 XASI - result in success EXASI? 
 XANI - result in fail EXANI? 
 
-K - low on
-KA - gravity, hunger, will
-KAT - pumper
-KATE - spoon, feeder, magnet, tree, pump
-KEV - gas station
-KEM - pump, tank, dish
-KOM - tank, igniter, baby
-KEL - buy, purchase, take, receive
-KOL - to feed, to provide
-KASI - full, fed
-KANI - flood, draught
-
-LITÖSIK - low on fuel
-LITÖSIKOL - fill LITÖSIKATE - pump LITÖSIKAT - pumper
-LITÖSIKEM - gas station box LITÖSIKOM - tank        LITÖSIKASI - gas filled
-
-- FÖRAK FENEL
+- FÖRAK ENARI
 - EXATA EXAT?
-- ARTA STA RASFERAS, FENAT KEZEM
+- ARTA STA RASFERAS, ENAT KEZEM
 
-LITÖSIKOL ONO (many filling gas to many low on fuel)
+- VESAKIK VERDOM
+- VESA KIZAPIN
+- KIR
+- ZANIX
+
+LITÖNIKA ONO (many filling gas to many low on fuel)
+
+
+
+
 
 cases
-SIN - not exist
+FEN - broken
+FER - running
+
+SIN - not exist, below minimum amount
 SIR - exist
 SIK - low on
 SIT - half
 SID - high on
-SIV - limit, on edges, full
+SIV - limit, max. amount
 SIF - in excess
 SIP - leak
 
@@ -530,7 +529,7 @@ LITÖNAR - benzine
 LITÖNAM - kerosene
 FÖRAK - engine
 RASFERA - igniter
-VINASI - brakes
+VI - brakes
 
 VES - ship, carrier
 VESA - airplane
@@ -550,16 +549,15 @@ VERIR - atmosphere
 VERIK - ionosphere
 VERIT - stratosphere
 
-VISÜN - music
-VISAN - flow
-VIXAR - dance
-
-VISÜNVAS - end of music
-DITINRAS - start of movie
 
 VIS - music instrument
 VISÜ - play 
 VISÜN - music
+VISAN - flow
+VIFASI - dance
+VISÜNVAS - end of music
+DITINRAS - start of movie
+
 
 SÜN - wave
 SÜNA - sound
@@ -593,17 +591,17 @@ VIFAS - wandering around
 
 FERFÖRA - army
 VERFÖRA - air force
-PREMAS FÖRA - border security forces
-PREMASIKA - inner protector
-PROMASIKA - outer protector
-MASI - wall, side
-MASIK - protect
-MASIKA - security, police, soldiers
-MASIKAN - guard, policeman, soldier
+PREVAS FÖRA - border security forces
+PREVASIKA - inner protector
+PROVASIKA - outer protector
+VASI - wall, side
+VASIK - protect
+VASIKA - security, police, soldiers
+VASIKAN - guard, policeman, soldier
 
-MÜNILAS - birth
+MÜNIRAS - birth
 SNAMÜN - age
-MÜNIMAS - death
+MÜNIVAS - death
 
 LINRAS - focus, lineup
 LINRASI - eyeglass, zoom, startbox
@@ -619,7 +617,7 @@ RAVASI - button
 RUXAR - mirror
 RUXAN - reflector
 LUXOR - perfection 
-KABLUX LAS - room lights on
+KABLUX RAS - room lights on
 
 MASÜNFÖRA - thickening borders
 MASVIXAR - dancing borders
