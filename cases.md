@@ -2,7 +2,7 @@ cases
 FEN - broken
 FER - running
 
-SIN - not exist, below minimum amount
+SIN - empty, below minimum amount
 SIR - exist
 SIK - low on
 SIT - half

@@ -19,6 +19,10 @@ ORAD - southwest (14)
 OTAK - northeast (32)
 OTAD - southeast (34)
 
+VORA - moving westward
+VORAK - moving northwest
+VERAVORAK - wind southwester(!)
+
 NORA - way,direction
 NORAT - intersection, turn
 NORATI - route
