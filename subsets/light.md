@@ -3,6 +3,14 @@ LUX - light
 LUXA - ray  
 LUXO - halo  
 LUXI - rainbow
-LUXI SINIX  (both exist/inexist - illusion)
+
+SINIX - illusion (both exist/inexist)
+LUXI SINIX
+
 RUX - reflection 
 SUX - shadow
+
+RUXAR - mirror
+RUXAN - reflector
+LUXOR - perfection 
+KABLUX RAS - room lights on

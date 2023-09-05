@@ -1,5 +1,11 @@
 persons
-MEN/SEN/DEN/VEN/ZEN/TEN (i/you/it/we/you/them)
+MEN - i
+SEN - you
+DEN - it
+VEN - we
+ZEN - you (plural)
+TEN - they
 
 MENA - to me
-MENÜ - myself
+MENU - myself
+MENÜ - to myself

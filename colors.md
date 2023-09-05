@@ -1,6 +1,14 @@
 colors
 AIN - color
-RAI/NAI/KAI/BAI/MAI  (red/yellow/black/white/blue)
+
+
+RAI - red
+NAI - yellow
+KAI - black
+BAI - white
+MAI - blue
+
+
 RANAI - orange
 BAKAI - gray
 BARAI - pink

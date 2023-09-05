@@ -5,7 +5,7 @@ MIX - random
 PIX - some
 TIX - each
 NIX - none, nothing, negative, no one
-RIX - all, everything, positive, everyone
+SIX - all, everything, positive, everyone
 
 relationships 
 UKU - one to one

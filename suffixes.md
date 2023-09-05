@@ -1,15 +1,15 @@
 -----
 FEN = broken
 ENA = repair
-ENARE = repaired
-ENARI = being repaired
-ENARO = will be repaired
-ENAT = repairman, engineer
-ENATE = repair tool
-ENATA = repair method, process
-ENAN = garage, repair shop
-ENASI = repair success
-ENANI = repair fail
+ENARE = repaired                
+ENARI = being repaired          EXARI?
+ENARO = will be repaired        
+ENAT = repairman, engineer      EXAT?
+ENATE = repair tool             EXATE?
+ENATA = repair method, process  EXATA?
+ENAN = garage, repair shop      EXAN?
+ENASI = repair success          EXASI?
+ENANI = repair fail             EXANI?
 ------
 
 -----
@@ -22,7 +22,7 @@ ERAT = fireman
 ERATE = shutter, fire truck
 ERATA = shutdown procedure
 
-ERAROTI = time to shutdown, arrival
+ERAROTI = time to shutdown
 ------
 
 -----
@@ -34,12 +34,10 @@ IKAT = person to increase
 IKATE = instrument to increase
 IKAN = place to increase
 
-IKAVAS - to complete
-IKARAT = puzzle
-LITONIKA = fill gas
-LITONIKAT = pumpman
-LITONIKATE = pump
-LITONIKAN = gas station
+LITÖNIKA = fill gas
+LITÖNIKAT = pumpman
+LITÖNIKATE = pump
+LITÖNIKAN = gas station
 ------
 
 -----
@@ -67,6 +65,7 @@ INAN = place to seperate
 ...INAT - traffic police
 ...INAN - trash factory
 ...INATE - slicer
+INAFAS - break (object)
 ------
 
 

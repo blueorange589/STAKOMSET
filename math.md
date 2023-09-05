@@ -1,9 +1,21 @@
 numbers
-0 NEM, 1 REM, 2 KEM, 3 TEM, 4 DEM, 5 VEM, 6 FEM, 7 SEM, 8 PEM, 9 ZEM, 10 AN, 100 AS, 1000 NAS
+0 NEM
+1 REM
+2 KEM
+3 TEM
+4 DEM
+5 VEM
+6 FEM
+7 SEK
+8 PEM
+9 ZEM
+10 AN
+100 AS
+1000 NAS
 
-KENAS - million
-TENAS - billion
-DENAS - trillion 
+KUNAS - million
+TUNAS - billion
+DUNAS - trillion 
 
 KU - double
 TU - triple
@@ -12,7 +24,7 @@ DU - quadraple
 TEKEVEMNAS DERESEM (325.417)
 VEDEM KÜN/LÜN/MÜN (84 days/months/years)
 KUVEMNAS MÜNI (55.000 people)
-ZEREM KENAS (91 million)
+ZEREM KUNAS (91 million)
 
 REMI - first
 KEMI - second

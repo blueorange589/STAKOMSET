@@ -1,46 +1,13 @@
-actions
-X - reason  - EXMI? 
-XA - cause - EXMA? 
-XAT - person/object in action EXAT?
-XATA - method, process EXATA? 
-XATE - instrument used EXATE? 
-XEV - where EXEV?
-XEM - origin object EXEM? 
-XOM - target object EXOM? 
-XEL - origin action EXEL? 
-XOL - target action EXOL? 
-XASI - result in success EXASI? 
-XANI - result in fail EXANI? 
-
-K - low on
-KA - gravity, hunger, will
-KAT - pumper
-KATE - spoon, feeder, magnet, tree, pump
-KEV - gas station
-KEM - pump, tank, dish
-KOM - tank, igniter, baby
-KEL - buy, purchase, take, receive
-KOL - to feed, to provide
-KASI - full, fed
-KANI - flood, draught
-
-LITÖSIK - low on fuel
-LITÖSIKOL - fill LITÖSIKATE - pump LITÖSIKAT - pumper
-LITÖSIKEM - gas station box LITÖSIKOM - tank        LITÖSIKASI - gas filled
-
-- FÖRAK FENEL
-- EXATA EXAT?
-- ARTA STA RASFERAS, FENAT KEZEM
-
-LITÖSIKOL ONO (many filling gas to many low on fuel)
-
 cases
-SIN - not exist
+FEN - broken
+FER - running
+
+SIN - not exist, below minimum amount
 SIR - exist
 SIK - low on
 SIT - half
 SID - high on
-SIV - limit, on edges, full
+SIV - limit, max. amount
 SIF - in excess
 SIP - leak
 

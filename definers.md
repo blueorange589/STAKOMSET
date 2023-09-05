@@ -1,8 +1,6 @@
-
-
 predefiners 
 I - inverse
-UN - self
+U - singular part of many
 BE - simple, easy, basic
 KE - complex, advanced
 BEK - functionality, for
@@ -18,12 +16,14 @@ LIT - non-parallel, not matching, inequal, non-aligned
 LIS - crossing, conflicting, similar
 
 ÜN - rotating, alive, changing, transforming, moment
+
 UN - circular, self
 ON - balanced, still, stable
 
-PIN - parallax in, concave, decreasing 
-PIT - parallax out, convex, increasing
-PÖNÜ - exponential
+PIN - parallax in, decreasing 
+PIT - parallax out, increasing
+PÖNÜ - concave, exponential decrease
+PÖTÜ - convex, exponential increase
 
 INVI - pause, break, error, interruption, interference
 

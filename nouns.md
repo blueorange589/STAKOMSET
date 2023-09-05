@@ -1,6 +1,6 @@
 PRON - hide, hidden 
 PRONA - crypt
-PRONANAT - decrypt
+IPRONA - decrypt
 PRONAM - blockchain
 PRONAMI - crypto
 
@@ -14,10 +14,9 @@ KITEN - hit
 KITENAR - kite           
 KITEX - crash, break
 
-INIT - inverse
-INITA - exchange
-INITAM - money
-INITAME - currency
+INIT - exchange
+INITA - money
+INITAM - currency
 
 SINKAP - speaking
 VINKAP - looking
@@ -62,6 +61,8 @@ DITINRAS - start of movie
 VIS - music instrument
 VISÜ - play 
 VISÜN - music
+VISÜNU - song
+VISÜNLIT - energy of music
 
 SÜN - wave
 SÜNA - sound
@@ -75,6 +76,7 @@ SERON - cloud
 SEROM - rain
 SERÖM - snow
 
+DOM - building
 DOMI - house
 SERDOM - port
 VERDOM - airport
@@ -84,8 +86,9 @@ SNAFÖRIT - memory
 SNAFORITA - temple
 VINIXAR - statue
 
-KAVI - moving a vehicle
-KAVIK - drive, fly, ride
+KAVI - drive, fly, ride
+KAVIT - vehicle
+KAVITA - steering
 KAVITAN - driver, captain, rider
 
 VIM - walk
@@ -95,17 +98,17 @@ VIFAS - wandering around
 
 FERFÖRA - army
 VERFÖRA - air force
-PREMAS FÖRA - border security forces
-PREMASIKA - inner protector
-PROMASIKA - outer protector
-MASI - wall, side
-MASIK - protect
-MASIKA - security, police, soldiers
-MASIKAN - guard, policeman, soldier
+PREVAS FÖRA - border security forces
+PREVASI - inner protector
+PROVASI - outer protector
+VASI - wall, side
+VASIK - protect
+VASIKA - security, police, soldiers
+VASIKAN - guard, policeman, soldier
 
-MÜNILAS - birth
+MÜNIRAS - birth
 SNAMÜN - age
-MÜNIMAS - death
+MÜNIVAS - death
 
 LINRAS - focus, lineup
 LINRASI - eyeglass, zoom, startbox
@@ -118,10 +121,10 @@ INRASI / ITRASI - valve, door, jack
 RAVAS - switch
 RAVASI - button
 
-RUXAR - mirror
-RUXAN - reflector
-LUXOR - perfection 
-KABLUX LAS - room lights on
 
-MASÜNFÖRA - thickening borders
-MASVIXAR - dancing borders
+VASFÖRA - thickening borders
+VASVIXAR - dancing borders
+
+
+MÜNONÜ - anniversary 
+UNONÜ - taş sektirme

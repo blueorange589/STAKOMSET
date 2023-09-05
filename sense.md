@@ -1,9 +1,9 @@
 sense, perception 
-PROFÖR - creator power, consciousness, feeder of existence (tengri)
+PROFÖR - feeder of existence (tengri)
 INFÖR - mortal, variable, transforming
 
-FÖR - with logic, mind, knowledge (because)
-FÖRA - Power, force
+FÖR - with logic, mind, knowledge
+FÖRA - power, force
 FÖRAN - producer
 FÖRANA - understanding, philosophy 
 FÖRANAR - logic
@@ -15,7 +15,8 @@ FÖRANOR - game
 FÖRANORA - direction of force
 FÖRANOM - charge
 FÖRANOMI - battery 
-FÖRANI - consciousness 
+FÖRANI - essence, happening
+FÖRANIM - consciousness
 FÖRANÖ - god, overhuman
 FÖRATA - fit
 FÖRATE - healthy
@@ -28,26 +29,29 @@ FÖRINI - letter
 FÖRINE - word
 FÖRINER - dictionary
 FÖRINA - sentence
-FÖRIMOS - comics
-FÖRIMOSA - comedy 
-FÖRIMOSAN - comedian
+FÖRIVOS - comics
+FÖRIVOSA - comedy 
+FÖRIVOSAN - comedian
 FÖRIF - senses
 
 DIT - lack of logic, mind, knowledge
 DITA - weak
-DITAM - emotions
-DITAMA - naive
-DITAMÖ - fear
-DITAMÖS - horror, fearful
+DITAV - emotions
+DITAVA - naive
+DITAVÖ - fear
+DITAVÖS - horror, fearful
 DITAN - parasite, stealing
 DITANO - comfort
 DITANOM - discharge
+DITANI - story, suppose
+DITANIM - trick, masking, lie, misexplain
 DITE - lacking quality
 DITEM - silly, non-sense
 DITEMÖ - corpse, meat, flesh
 DITEMÖK - nightmare
 DITEMI - funny
 DITI - fictious
+DITIM - make up
 DITIN - movie, play
 DITIX - lost
 DITO - illness

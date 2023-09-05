@@ -12,5 +12,5 @@ FI - pressure
 ZI - energy
 
 TIKI - speed
-TISAS - frequency, beat 
-DISAS - mass
+TISI - frequency, beat 
+DISI - mass

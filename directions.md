@@ -1,11 +1,23 @@
 directions
-TA/NA/MA/LA/ZA/DA/KA (forward/backward/right/left/above/below/on-at)
+NA - on/at
+RA - fore
+KA - right
+TA - back
+DA - left
+VA - up
+FA - down
 
 
 directions
-ARKA/ARKE/ARKI/ARKO  (north/east/south/west)
-ARKONI - southwest
-ARKENA - northeast
+ORA - west
+OKA - north
+OTA - east
+ODA - south
+
+ORAK - northwest (12)
+ORAD - southwest (14)
+OTAK - northeast (32)
+OTAD - southeast (34)
 
 NORA - way,direction
 NORAT - intersection, turn

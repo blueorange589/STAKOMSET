@@ -1,5 +1,10 @@
 elements
-FER/VER/MER/SER/TER/ZER  (fire/air/earth/water/stone/space)
+FER - fire
+VER - air
+MER - earth
+SER - water
+TER - stone
+ZER - space
 
 MERA - farm
 MERÖ - mountain
@@ -63,11 +68,7 @@ MERINUS - cow
 MERINOS - sheep
 MERVIS - chicken
 
-planets
-RÜNA - planet
-SUNA - sun
-LÜNA - moon
-MÜNA - earth
+
 
 daytime
 KÜNE/KÜNO (day/night)
