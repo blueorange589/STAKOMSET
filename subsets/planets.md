@@ -24,7 +24,7 @@ FÖRRAS - origin of term reason (NEMESIS)
 
 
 SIXA - life
-SIXRAS - origin of life      (ZEUS)
+SIXARAS - origin of life      (ZEUS)
 SIXAR - organics
 SIXAREM - source of organics (DEMETER)
 
