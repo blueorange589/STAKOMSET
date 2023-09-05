@@ -76,8 +76,8 @@ KÜNERAS - morning
 KÜNEVAS - evening 
 UNRAS - wakeup
 UNVAS - sleep
-SUNADA - sunset
-SUNAZA - sunrise
+SUNAFA - sunset
+SUNAVA - sunrise
 TOLUNA - full moon
 
 objects

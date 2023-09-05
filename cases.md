@@ -2,8 +2,8 @@ cases
 FEN - broken
 FER - running
 
-SIN - empty, below minimum amount
-SIR - exist
+SIN - no amount
+SIR - at minimum
 SIK - low on
 SIT - half
 SID - high on
@@ -11,7 +11,7 @@ SIV - limit, max. amount
 SIF - in excess
 SIP - leak
 
-KIN - on it
+KIN - no distance
 KIR - at start
 KIK - close
 KIT - halfway
@@ -20,7 +20,7 @@ KIV - at destination
 KIF - out of sight, unreachable 
 KIP - displaced
 
-TIN - below minimum
+TIN - no time
 TIR - time start, on time
 TIK - early
 TIT - half time
@@ -29,7 +29,7 @@ TIV - time out
 TIF - too late
 TIP - wrong timing
 
-VIN - not moving
+VIN - no movement
 VIR - moving
 VIK - less moving
 VID - much moving
@@ -37,7 +37,7 @@ VIV - moving at limits
 VIF - excessive movement
 VIP - wrong move
 
-LIN - below limit
+LIN - no temperature 
 LIR - lower limit
 LIK - cold
 LIT - ideal temperature, warm
@@ -46,7 +46,7 @@ LIV - upper limit
 LIF - excessive temp.
 LIP - wrong measured 
 
-MIN - has no weight, below minimum
+MIN - no weight
 MIR - has weight
 MIK - light
 MIT - on ideal weight
@@ -55,7 +55,7 @@ MIV - weight on limit
 MIF - excess weight
 MIP - wrong measured 
 
-DIN - below minimum 
+DIN - no dimension
 DIR - on minimum size
 DIK - small
 DIT - on ideal size
@@ -73,7 +73,7 @@ TIKIT - ideal speed
 TIKID - fast
 TIKIV - on speed limit
 TIKIF - excessive speed
-TIKIP - non-ideal speed
+TIKIP - wrong measured
 
 VIRAS TI - time for departure
 PERTI KIV - arrival time (measured)

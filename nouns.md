@@ -4,15 +4,15 @@ IPRONA - decrypt
 PRONAM - blockchain
 PRONAMI - crypto
 
-PROK - unknown
-PROKI - problem
-PROKIT - algorithm 
-PROKITA - solve
+PROX - unknown
+PROXI - problem
+PROXIT - algorithm 
+PROXITA - solve
 
 KITE - pressure
 KITEN - hit 
 KITENAR - kite           
-KITEX - crash, break
+KITENÖ - crash, break
 
 INIT - exchange
 INITA - money

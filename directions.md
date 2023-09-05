@@ -14,12 +14,13 @@ OKA - north
 OTA - east
 ODA - south
 
-ORAK - northwest (12)
-ORAD - southwest (14)
-OTAK - northeast (32)
-OTAD - southeast (34)
+ORAK - northwest (12) frontright
+ORAD - southwest (14) frontleft
+OTAK - northeast (32) backright
+OTAD - southeast (34) backleft
 
-VORA - moving westward
+NORA - westward
+VORA - moving westward (track)
 VORAK - moving northwest
 VERAVORAK - wind southwester(!)
 

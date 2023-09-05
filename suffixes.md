@@ -1,6 +1,8 @@
+cause taken from cases
+
 -----
-FEN = broken
-ENA = repair
+FEN = broken                    EXRAS?
+ENA = repair                    EXA?
 ENARE = repaired                
 ENARI = being repaired          EXARI?
 ENARO = will be repaired        
@@ -26,7 +28,27 @@ ERAROTI = time to shutdown
 ------
 
 -----
-IKA = add, increase
+INA = to produce, create, draw, compose
+INARE = produced
+INARI = being produced
+INARO = will be produced
+INAT = person to produce
+INATE = instrument to produce it
+INAN = place to produce it
+------
+
+-----
+IRA = to destroy, get rid of, clean up
+IRARE = destroyed
+IRARI = being destroyed
+IRARO = will be destroyed
+IRAT = person to destroy
+IRATE = instrument to destroy it
+IRAN = place to be destroy it
+------
+
+-----
+IKA = add, increase, expedite, heat, fill, push, charge
 IKARE = added
 IKARI = being added
 IKARO = will be added
@@ -41,7 +63,21 @@ LITÖNIKAN = gas station
 ------
 
 -----
-IDA = remove, lessen, decrease
+ITA = merge
+ITARE = merged
+ITARI = being merged
+ITARO = will be merged
+ITAT = person to merge it
+ITATE = instrument to merge it
+ITAN = place to merge it
+
+ITASER - glue
+ITARUT = screw
+------
+
+
+-----
+IDA = remove, lessen, decrease, slow, cool, lighten, drain, pull, discharge
 IDARE = removed
 IDARI = being removed
 IDARO = will be removed
@@ -54,30 +90,39 @@ IDAVOS - lift vehicle
 ------
 
 -----
-INA = to seperate
-INARE = seperated
-INARI = being seperated
-INARO = will be seperated
-INAT = person to seperate
-INATE = tool to seperate
-INAN = place to seperate
+IVA = to seperate, split, branch, slice
+IVARE = seperated
+IVARI = being seperated
+IVARO = will be seperated
+IVAT = person to split it
+IVATE = tool to split it
+IVAN = place to split it
 
-...INAT - traffic police
-...INAN - trash factory
-...INATE - slicer
-INAFAS - break (object)
+...IVAT - traffic police
+...IVAN - trash factory
+...IVATE - slicer
+------
+
+
+
+-----
+IFA = to regulate, stabilize, tie, connect
+IFARE = stabilized
+IFARI = being stabilized
+IFARO = will be stabilized
+IFAT = person to stabilize it
+IFATE = instrument to stabilize it
+IFAN = place to stabilize it
 ------
 
 
 -----
-ITA = merge
-ITARE = merged
-ITARI = being merged
-ITARO = will be merged
-ITAT = person to merge
-ITATE = instrument to merge
-ITAN = place to merge
-
-ITASER - glue
-ITARUT = screw
+IPA = to search
+IPARE = searched
+IPARI = being searched
+IPARO = will be searched
+IPAT = person to search it
+IPATE = instrument to search it
+IPAN = place to search it
+IPASI - found
 ------

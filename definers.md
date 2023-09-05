@@ -31,7 +31,8 @@ INVI - pause, break, error, interruption, interference
 RAS - start, center, switch on, origin
 KAS - area, indirect, inclusion, in order, controlled, inside, in possession, amongst, between
 KIS - radius, direct
-KÜS - angle, part, slice, divide, split, ratio, direction, arrow, dividends
+KÜS - angle, part, slice, divide, split, ratio, dividends
+KÜSA - arrow, direction
 IKÜS - relative, subjective
 TAS - circumference, switch off, destination
 DAS - volume
@@ -73,6 +74,8 @@ ROS - less
 VOS - more
 RÖS - very least
 VÖS - very much
+RUS - lower limit of 
+VUS - upper limit of
 
 NAT - reverse, undo
  
