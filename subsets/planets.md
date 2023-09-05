@@ -20,14 +20,11 @@ VASRAS - origin of term end (HERMES)
 RASRAS - origin of term start (HADES)
 divided has connection, thus state
 NODRAS - origin of term connection (HERA)
+
 FÖRRAS - origin of term reason (NEMESIS)
-
-
 SIXA - life
 SIXARAS - origin of life      (ZEUS)
 SIXAR - organics
-SIXAREM - source of organics (DEMETER)
-
-
+SIXARRAS - source of organics (DEMETER)
 
 NOD - connection, balance of seperation and ?

@@ -1,11 +1,11 @@
 persons
-MEN - i
-SEN - you
-DEN - it
-VEN - we
-ZEN - you (plural)
+MEN - we
+MUNO - i
+SEN - you (plural)
+SUNO - you
 TEN - they
+TUNO - he/she/it
 
-MENA - to me
-MENU - myself
-MENÜ - to myself
+MUNON - to me
+MUNOV - myself
+MUNONÜ - to myself

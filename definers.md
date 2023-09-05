@@ -18,6 +18,7 @@ LIS - crossing, conflicting, similar
 ÜN - rotating, alive, changing, transforming, moment
 
 UN - circular, self
+UT - others
 ON - balanced, still, stable
 
 PIN - parallax in, decreasing 
