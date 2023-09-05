@@ -20,7 +20,11 @@ SIXRAS - origin of life      (ZEUS)
 SIXAR - organics
 SIXAREM - source of organics (DEMETER)
 
-
+LUXRAS - origin of term light (APOLLON)
+VASRAS - origin of term end (HERMES)
+RASRAS - origin of term start (HADES)
+divided has connection, thus state
+NODRAS - origin of term connection (HERA)
 
 
 NOD - connection, balance of seperation and ?
