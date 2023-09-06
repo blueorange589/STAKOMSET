@@ -1,5 +1,18 @@
 daytime
-KÜNE/KÜNO (day/night)
+ÜN - moment
+RAM - second
+RÜN - minute
+TÜN - hour
+KÜN - day
+SEMKÜN - week
+LÜN - month
+MÜN - year
+
+SÜN - has own period
+
+
+KÜNE - day
+KÜNO - night
 
 KÜNERAS - morning
 KÜNEVAS - evening 
@@ -10,6 +23,9 @@ UNVAS - sleep
 SUNAFA - sunset
 SUNAVA - sunrise
 
-TOLUNA - full moon
-SOLUNA - half moon
-KOLUNA - quarter moon
+TOLÜNA - full moon
+SOLÜNA - half moon
+KOLÜNA - quarter moon
+
+SOKÜNE - afternoon
+
