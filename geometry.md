@@ -16,8 +16,13 @@ ADEMLINÜ - grid
 ATEMLINÜ - grid of triangles 
 
 UN - circle
+TÜS - angle
+angles, relations..etc. from definers
 
 IKA KEMAS - copy shape
 KEMASINA - draw shape
-
+STA KEMAS - new shape
+ÜNA KEMAS - rotate shape
+ÜNAKA - rotate right
+ÜNAFA - rotate upside down
 KEMASATE - ruler
