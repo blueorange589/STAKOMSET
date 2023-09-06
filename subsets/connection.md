@@ -17,7 +17,6 @@ NODIKASI - load balancer/regulator
 NODITIM - network operator
 
 
-RÜNASNOD - galaxy
 KENODAMI AXA (smartphone app)
 KINOD - wireless 
 NODKI - distance of connection

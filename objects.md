@@ -12,10 +12,12 @@ AXIN - thing contained
 AXINVI - thing interfering
 
 AXIT - thing outside
-AXITZA - thing left on top
+AXITVA - thing left on top
 
 AXU - thing circle
 AXUNA - roll, toilet paper
+
+AXO - group of thing
 
 
 AXÜ - thing rotating

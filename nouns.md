@@ -30,7 +30,7 @@ LITÖN - oil
 LITÖNAR - benzine 
 LITÖNAM - kerosene
 FÖRAK - engine
-RASFERA - igniter
+RASFERA - igniter, lighter
 VINASI - brakes
 
 VES - ship, carrier

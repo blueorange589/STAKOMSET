@@ -16,6 +16,9 @@ numbers
 KUNAS - million
 TUNAS - billion
 DUNAS - trillion 
+...
+PUNAS - 10^24
+ZUNAS - 10^27
 
 KU - double
 TU - triple
@@ -28,7 +31,9 @@ ZEREM KUNAS (91 million)
 
 REMI - first
 KEMI - second
+TEMI - third
 ...
+TEKEMI - 32th
 
 
 operators

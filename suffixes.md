@@ -117,12 +117,12 @@ IFAN = place to stabilize it
 
 
 -----
-IPA = to search
-IPARE = searched
-IPARI = being searched
-IPARO = will be searched
-IPAT = person to search it
-IPATE = instrument to search it
-IPAN = place to search it
-IPASI - found
+IBA = to search
+IBARE = searched
+IBARI = being searched
+IBARO = will be searched
+IBAT = person to search it
+IBATE = instrument to search it
+IBAN = place to search it
+IBASI - found
 ------

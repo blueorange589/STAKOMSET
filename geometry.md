@@ -8,6 +8,6 @@ AVEM - tetragon
 AKEM LISOKU - many lines crossing one
 
 ADEMLIN - square
-ADEMLIS - rectangle 
+ADEMLIT - rectangle 
 ADEMLINÜ - grid
 ATEMLINÜ - grid of triangles 
