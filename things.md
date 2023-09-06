@@ -5,7 +5,8 @@ AXANÜ - automatic
 AXANÜVI - self driving 
 
 AXE - useless thing
-
+AXET - trash
+AXEM - raw material
 
 AXI - base object
 AXIN - thing contained
