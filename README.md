@@ -12,3 +12,6 @@ SIX RAS FÖRINI
 
 special thanks
 ATHENA :)
+
+
+public. open for further development. no license.
