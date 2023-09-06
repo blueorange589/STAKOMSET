@@ -18,6 +18,7 @@ FÖRANOMI - battery
 FÖRANI - essence, happening
 FÖRANIM - consciousness
 FÖRANÖ - god, overhuman
+FÖRANS - knowledge
 FÖRATA - fit
 FÖRATE - healthy
 FÖRATI - skilled
