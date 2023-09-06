@@ -18,7 +18,7 @@ ON - balanced, still, stable
 
 LIR - relation
 LIN - parallel, matching, equal, synchronized, aligned
-LIT - free, exclusion, expire, non-parallel, not matching, inequal, non-aligned
+LIT - non-parallel, not matching, inequal, non-aligned
 LIS - crossing, conflicting, similar, in conjunction
 LIZ - non-related
 
@@ -36,7 +36,7 @@ TÜS - angle, part, slice, divide, split, ratio, dividends
 ITÜS - relative, subjective
 DAS - volume, dimensions
 VAS - end, borders, edges, circumference, switch off, destination
-FAS - out
+FAS - out, free, exclusion, expire
 
 
 TASKI - padding

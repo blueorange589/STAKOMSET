@@ -13,7 +13,7 @@ TIMAR RIVA LUXOR (will over perfection)
 - EXATA EXAT?
 - ARTA STA RASFERAS, ENAT KEZEM
 
-PROVAS INITA ATIDAM
+PROVAS INITA ATKIMS
 PREVAS FÖRAS (border security forces)
 FÖRANOMI TIMAF KIDAS (remote controller)
  
