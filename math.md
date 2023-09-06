@@ -9,8 +9,8 @@ numbers
 7 SEM
 8 PEM
 9 ZEM
-10 AN
-100 AS
+10 AS
+100 LAS
 1000 NAS
 
 KUNAS - million

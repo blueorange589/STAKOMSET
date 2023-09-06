@@ -11,8 +11,8 @@ ESRA - forward
 ESTA - backward
 ESVA - upward
 ESFA - downward
-ESIN - inward
-ESIT - outward
+AN - inward
+AT - outward
 ESRASOR - sideways
 
 

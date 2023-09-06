@@ -10,6 +10,8 @@ PRO - after
 PER - measured, estimated
 
 definers
+AN - inward
+AT - outward
 ÜN - rotating, alive, changing, transforming, moment
 UN - circular, self
 UT - others
@@ -23,8 +25,8 @@ LIS - crossing, conflicting, similar, in conjunction
 LIM - between
 LIZ - non-related
 
-PIN - parallax in, decreasing 
-PIT - parallax out, increasing
+PAN - parallax in, decreasing 
+PAT - parallax out, increasing
 PÖNÜ - concave, exponential decrease
 PÖTÜ - convex, exponential increase
 
@@ -47,14 +49,14 @@ VINIX - static, stationary
 KINIX - touching, meet, agreement
 KIKAS - remote controlled
 KIKASI - remote controller
-KIPIT - getting away
-KIPIN - getting closer
-DIPIT - expansion, grow
-DIPIN - shrink
-SIPIT - increasing count
-SIPIN - decreasing count
-UNPIT - seperation, tension, voltage, injury
-UNPIN - unification, healing
+KIPAT - getting away
+KIPAN - getting closer
+DIPAT - expansion, grow
+DIPAN - shrink
+SIPAT - increasing count
+SIPAN - decreasing count
+UNPAT - seperation, tension, voltage, injury
+UNPAN - unification, healing
 UFA - upside down 
 UDA - rightside left
 UTA - inverse

@@ -1,6 +1,7 @@
 cause taken from cases
 
 -----
+
 FEN = broken                    EXRAS?
 ENA = repair                    EXA?
 ENARE = repaired                
@@ -15,6 +16,7 @@ ENANI = repair fail             EXANI?
 ------
 
 -----
+
 FER = running
 ERA = to stop
 ERARE = shut
@@ -28,6 +30,7 @@ ERAROTI = time to shutdown
 ------
 
 -----
+
 INA = to produce, create, draw, compose
 INARE = produced
 INARI = being produced
@@ -38,6 +41,7 @@ INAN = place to produce it
 ------
 
 -----
+
 IRA = to destroy, get rid of, clean up, eat
 IRARE = destroyed
 IRARI = being destroyed
@@ -48,7 +52,8 @@ IRAN = place to be destroy it
 ------
 
 -----
-IKA = add, increase, expedite, heat, fill, push, charge, feed
+
+IKA = add, increase, copy, expedite, heat, fill, push, charge, feed
 IKARE = added
 IKARI = being added
 IKARO = will be added
@@ -63,6 +68,7 @@ LITÖNIKAN = gas station
 ------
 
 -----
+
 ITA = merge
 ITARE = merged
 ITARI = being merged
@@ -77,6 +83,7 @@ ITARUT = screw
 
 
 -----
+
 IDA = remove, lessen, decrease, slow, cool, lighten, drain, pull, discharge
 IDARE = removed
 IDARI = being removed
@@ -90,6 +97,7 @@ IDAVOS - lift vehicle
 ------
 
 -----
+
 IVA = to seperate, split, branch, slice
 IVARE = seperated
 IVARI = being seperated
@@ -106,6 +114,7 @@ IVAN = place to split it
 
 
 -----
+
 IFA = to regulate, stabilize, tie, connect
 IFARE = stabilized
 IFARI = being stabilized
@@ -117,6 +126,7 @@ IFAN = place to stabilize it
 
 
 -----
+
 IBA = to search
 IBARE = searched
 IBARI = being searched
@@ -126,3 +136,13 @@ IBATE = instrument to search it
 IBAN = place to search it
 IBASI - found
 ------
+
+------
+
+ÜNA - to rotate
+ISA - to replace
+IMA - to send, transfer
+IPA - to recieve, take
+------
+
+

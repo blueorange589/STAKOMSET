@@ -1,9 +1,12 @@
 shapes 
 AREM - dot, idea
 AKEM - line, action
-ATEM - triangle, shape, event
+ATEM - triangle, event
 ADEM - quadrangle, result
 AVEM - tetragon 
+
+KEMAS - shape
+FEMAS - freeshape
 
 AKEM LISOKU - many lines crossing one
 
@@ -13,3 +16,8 @@ ADEMLINÜ - grid
 ATEMLINÜ - grid of triangles 
 
 UN - circle
+
+IKA KEMAS - copy shape
+KEMASINA - draw shape
+
+KEMASATE - ruler
