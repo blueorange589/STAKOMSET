@@ -8,3 +8,7 @@ SIX RAS FÖRINI
 - every letter in a word should explain the meaning, to best extent
 - no manipulative words, such as [order, request... etc]
 
+
+
+special thanks
+ATHENA :)
