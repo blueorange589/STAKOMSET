@@ -14,7 +14,7 @@ AN - inward
 AT - outward
 ÜN - rotating, alive, changing, transforming, moment
 UN - circular, self
-UT - others
+UT - other
 ON - balanced, still, stable
 
 

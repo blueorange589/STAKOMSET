@@ -20,10 +20,12 @@ FÖRANOMI IKA KIDAS (remote controller)
  
 SUNA, SERI IKA MÜNAR
 MÜNAR IKA MÜNASA, MEN IRA PAPIA
+
 LITÖNAR IKA FÖRAK
 FÖRAK IRA LITÖNAR
-KEVEM LITA (+25 celsius)
-RESEM LITE (-17 celsius)
+
+LITA KEVEM (+25 celsius)
+LITE RESEM (-17 celsius)
 
 TUN ITÖ POMIA VA
 TUN ITÖ POMIA RA
@@ -35,11 +37,11 @@ POMIA FEMAS (free shaped)
 KUN AXIN KEVEM POMIA
 SIROS POMIAS
 POMIAS DIPAT
-MERA AXITA POMIA
-POMIA AXITAF MERA
-EXA MIPER POMIA?
+MERA INA POMIA
+POMIA AT MERA
+EXA MIPER POMIA? (weight)
 EXA SAS POMIA? (number, count, amount)
-AXITANA POMIA (leave it to current place)
+ITA POMIA NA (leave current place)
 
 VINDA MAIVESTA  (pass on left of blue car)
 KAVI KAIVESTA (driving, riding black car)
@@ -47,18 +49,20 @@ KAVI KAIVESTA (driving, riding black car)
 KAVITAN SINKAP VES VIKA  (no word for request/order)
 
 VES KILOS SERDOM 
-KAVITAN KAVI VESA, AXNIDAS
+KAVITAN KAVI VESA, KAS
 VESAKIVI  (remote controlled airplane)
 
 VESTÖ MERAM VIRA (truck, soil carrying)
 TUN VIMA DOMI  (he walks home)
 VIMTÖ TUN? (are you running?)
 
-ATIM UNO MÜNASE
-MEN NODAMIN UNO
+KUN ITAP UNO MÜNASE
+
+KUN NODAMIN UNO
 NODI ONO NOD
-NODITIM UNO NODIMAS
-NODITIM ONO NODIMAS
+
+NODITIM UNO NODIVAS
+NODITIM ONO NODIVAS
 
 
 
