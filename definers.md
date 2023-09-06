@@ -20,6 +20,7 @@ LIR - relation
 LIN - parallel, matching, equal, synchronized, aligned
 LIT - non-parallel, not matching, inequal, non-aligned
 LIS - crossing, conflicting, similar, in conjunction
+LIM - between
 LIZ - non-related
 
 PIN - parallax in, decreasing 
