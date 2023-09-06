@@ -32,7 +32,7 @@ INVI - pause, break, error, interruption, interference
 
 RAS - start, center, switch on, origin, straight, exact
 KAS - radius, direct, arrow, direction
-TAS - area, indirect, inclusion, in order, controlled, inside, in possession, amongst, between, non-straight
+TAS - area, indirect, inclusion, in order, controlled, inside, in possession, amongst,  non-straight
 TÜS - angle, part, slice, divide, split, ratio, dividends
 ITÜS - relative, subjective
 DAS - volume, dimensions
