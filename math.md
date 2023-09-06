@@ -6,7 +6,7 @@ numbers
 4 DEM
 5 VEM
 6 FEM
-7 SEK
+7 SEM
 8 PEM
 9 ZEM
 10 AN
