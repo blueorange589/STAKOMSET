@@ -16,7 +16,7 @@ SINAR RIVA LUXOR (will over perfection)
 
 PROVAS INITA ATKIMS
 PREVAS FÖRAS (border security forces)
-FÖRANOMI IKA KIDAS (remote controller)
+FÖRANOMI IKA KIKAS (remote controller)
  
 SUNA, SERI IKA MÜNAR
 MÜNAR IKA MÜNASA, KUN IRA PAPIA
@@ -58,7 +58,7 @@ VESTÖ MERAM VIRA (truck, soil carrying)
 TUN VIMA DOMI  (he walks home)
 VIMTÖ TUN? (are you running?)
 
-KUN ITAP UNO MÜNASE
+KUN ITAP UKO MÜNASE
 
 KUN NODAMIN UNO
 NODI ONO NOD

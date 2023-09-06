@@ -13,7 +13,7 @@ AXIN - thing contained
 AXINVI - thing interfering
 
 AXIT - thing outside
-AXITVA - thing left on top
+AXITVA - thing on top
 
 AXU - thing circle
 AXUNA - roll, toilet paper
