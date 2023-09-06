@@ -38,7 +38,7 @@ INAN = place to produce it
 ------
 
 -----
-IRA = to destroy, get rid of, clean up
+IRA = to destroy, get rid of, clean up, eat
 IRARE = destroyed
 IRARI = being destroyed
 IRARO = will be destroyed
@@ -48,7 +48,7 @@ IRAN = place to be destroy it
 ------
 
 -----
-IKA = add, increase, expedite, heat, fill, push, charge
+IKA = add, increase, expedite, heat, fill, push, charge, feed
 IKARE = added
 IKARI = being added
 IKARO = will be added
