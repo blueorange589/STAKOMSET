@@ -1,5 +1,5 @@
 predefiners 
-UTA - inverse
+I - inverse
 BE - simple, easy, basic
 KE - complex, advanced
 BEK - functionality, for
@@ -29,23 +29,23 @@ PÖTÜ - convex, exponential increase
 
 INVI - pause, break, error, interruption, interference
 
-RA - start, center, switch on, origin, straight, exact
-KA - radius, direct, arrow, direction
-TA - area, indirect, inclusion, in order, controlled, inside, in possession, amongst, between, non-straight
-TÜ - angle, part, slice, divide, split, ratio, dividends
-UTATÜ - relative, subjective
-DA - volume, dimensions
-VA - end, borders, edges, circumference, switch off, destination
-FA - out
+RAS - start, center, switch on, origin, straight, exact
+KAS - radius, direct, arrow, direction
+TAS - area, indirect, inclusion, in order, controlled, inside, in possession, amongst, between, non-straight
+TÜS - angle, part, slice, divide, split, ratio, dividends
+ITÜS - relative, subjective
+DAS - volume, dimensions
+VAS - end, borders, edges, circumference, switch off, destination
+FAS - out
 
 
-TAKI - padding
-FAKI - margin 
+TASKI - padding
+FASKI - margin 
 VASNIX - infinity
 VINIX - static, stationary
 KINIX - touching, meet, agreement
-KIKA - remote controlled
-KIKAS - remote controller
+KIKAS - remote controlled
+KIKASI - remote controller
 KIPIT - getting away
 KIPIN - getting closer
 DIPIT - expansion, grow

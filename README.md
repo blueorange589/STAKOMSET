@@ -1,6 +1,8 @@
 # STAKOMSET
+SIX RAS FÖRINI
+
 - no disturbing letters (H, CH, SH, SCH)
-- no derivative letters (W, Q, K, J)
+- no derivative letters (W, Q, G, J)
 - words should sound well for listener
 
 - every letter in a word should explain the meaning, to best extent

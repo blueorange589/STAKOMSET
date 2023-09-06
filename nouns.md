@@ -33,43 +33,16 @@ FÖRAK - engine
 RASFERA - igniter, lighter
 VINASI - brakes
 
-VES - ship, carrier
-VESA - airplane
-VESTA - car
-VESTÖ - truck
-VESI - rocket
-VERNORAS - airlines
-
-
-VERA - wind
-TAVERA - tailwind
-NAVERA - headwind
-LISVERA - crosswind
-
 VERI - air layer
 VERIR - atmosphere
 VERIK - ionosphere
 VERIT - stratosphere
 
-VISÜN - music
-VISAN - flow
-VIXAR - dance
-
-VISÜNVAS - end of music
-DITINRAS - start of movie
-
-VIS - music instrument
-VISÜ - play 
-VISÜN - music
-VISÜNU - song
-VISÜNLIT - energy of music
-
 SÜN - wave
 SÜNA - sound
 SÜNAS - volume
-SÜNASMOS - loud
+SÜNASVOS - loud
 
-UNER - circuit
 
 SERO - humidity
 SERON - cloud
