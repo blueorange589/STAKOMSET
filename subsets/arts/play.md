@@ -1,7 +1,9 @@
 FÖRINU - play
-DITINU - fictious
+DITINU - fictious, premade
 
-...RAS - topic
+DITINUM - script
+
+FÖRINURAS - topic
 
 ...AT - players (actors)
 ...AN - theatre
