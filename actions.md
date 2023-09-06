@@ -141,8 +141,13 @@ IBASI - found
 
 ÜNA - to rotate
 ISA - to replace
-IMA - to send, transfer
-IPA - to recieve, take
+IMA - to handout, leave
+IMAP - to give
+IMAS - to send, transfer
+IPA - to obtain
+IPAP - to take
+IPAS - to receive
+ITÖ - to throw, shoot
 ------
 
 
