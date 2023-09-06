@@ -1,11 +1,11 @@
 persons
-MEN - we
-MUN - i
+KEN - we
+KUN - i
 VEN - you (plural)
 VUN - you
 TEN - they
 TUN - he/she/it
 
-MUNO - to me
-MUNU - myself
-MUNÜ - to myself
+KUNO - to me
+KUNU - myself
+KUNÜ - to myself
