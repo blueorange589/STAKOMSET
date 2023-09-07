@@ -13,6 +13,14 @@ numbers
 100 LAS
 1000 NAS
 
+operators
+ARTA - plus, sum
+ARTE - minus, subtract
+ARTO - times, multiply
+ARTU - divide, split
+ARTÜ - squared
+ARTÖ - exponential
+
 KU - double
 TU - triple
 DU - quadraple 
@@ -29,7 +37,7 @@ DÖNAS - trillion
 ...
 PÖNAS - 10^24
 ZÖNAS - 10^27
-
+TEZÖNAS - 10^117
 
 TEKEVEMNAS DERESEM (325.417)
 VEDEM KÜN/LÜN/MÜN (84 days/months/years)
@@ -42,10 +50,4 @@ TEMI - third
 ...
 TEKEMI - 32th
 
-
-operators
-ARTA - plus, sum
-ARTE - minus, subtract
-ARTO - times, multiply
-ARTU - divide, split
 
