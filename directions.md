@@ -44,6 +44,7 @@ ESILATE - compass
 
 ESRA - facing forward, not moving
 ESRA, VITA (facing forward, moving backward)
+ESDA, VIMTA (moonwalk)
 
 
 RASO - axis

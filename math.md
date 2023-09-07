@@ -13,16 +13,23 @@ numbers
 100 LAS
 1000 NAS
 
-KUNAS - million
-TUNAS - billion
-DUNAS - trillion 
-...
-PUNAS - 10^24
-ZUNAS - 10^27
-
 KU - double
 TU - triple
 DU - quadraple 
+
+KÖ - exponential 2
+TÖ - exp. 3
+DÖ - exp. 4
+
+KÜ - squared
+
+KÖNAS - million
+TÖNAS - billion
+DÖNAS - trillion 
+...
+PÖNAS - 10^24
+ZÖNAS - 10^27
+
 
 TEKEVEMNAS DERESEM (325.417)
 VEDEM KÜN/LÜN/MÜN (84 days/months/years)

@@ -5,8 +5,8 @@ ATEM - triangle, event
 ADEM - quadrangle, result
 AVEM - tetragon 
 
-KEMAS - shape
-FEMAS - freeshape
+KELIS - shape
+FELIS - freeshape
 
 AKEM LISOKU - many lines crossing one
 
@@ -19,10 +19,10 @@ UN - circle
 TÜS - angle
 angles, relations..etc. from definers
 
-IKA KEMAS - copy shape
-KEMASINA - draw shape
-STA KEMAS - new shape
-ÜNA KEMAS - rotate shape
+IKA KELIS - copy shape
+KELISINA - draw shape
+STA KELIS - new shape
+ÜNA KELIS - rotate shape
 ÜNAKA - rotate right
 ÜNAFA - rotate upside down
-KEMASATE - ruler
+KELISATE - ruler

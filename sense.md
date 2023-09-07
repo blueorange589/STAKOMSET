@@ -1,5 +1,5 @@
 sense, perception 
-PROFÖR - feeder of existence (tengri)
+PROFÖR - feeder of existence
 INFÖR - mortal, variable, transforming
 
 FÖR - with logic, mind, knowledge
