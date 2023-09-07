@@ -1,6 +1,6 @@
 logic
-KIX - and, both
-VIX - or
+KIX - and, both, with, together
+VIX - or, without
 MIX - random
 PIX - some
 TIX - each
