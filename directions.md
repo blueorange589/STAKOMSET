@@ -42,8 +42,8 @@ ESIL - heading (350)
 VOSIL - track (340)
 ESILATE - compass
 
+ESRA - facing forward, not moving
 ESRA, VITA (facing forward, moving backward)
-- may be useful, idk
 
 
 RASO - axis
