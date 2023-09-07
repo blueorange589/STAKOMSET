@@ -27,8 +27,8 @@ LIZ - non-related
 
 PAN - parallax in, decreasing 
 PAT - parallax out, increasing
-PÖNÜ - concave, exponential decrease
-PÖTÜ - convex, exponential increase
+PÖN - concave, exponential decrease
+PÖT - convex, exponential increase
 
 INVI - pause, break, error, interruption, interference
 
