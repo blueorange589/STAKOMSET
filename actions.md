@@ -148,6 +148,7 @@ IPA - to obtain
 IPAP - to take
 IPAS - to receive
 ITÖ - to throw, shoot
+ILA - to compare, measure
 ------
 
 
