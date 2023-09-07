@@ -28,8 +28,7 @@ DU - quadraple
 KÖ - exponential 2
 TÖ - exp. 3
 DÖ - exp. 4
-
-KÜ - squared
+KÜ - squared 2
 
 KÖNAS - million
 TÖNAS - billion

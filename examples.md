@@ -16,6 +16,9 @@ SINAR RIVA LUXOR (will over perfection)
 - EXATA EXAT?
 - ISA RASFERA OKO, ENAT MANITOU
 
+
+A LIT B
+
 PROVAS INITA ATKIMS
 PREVAS FÖRAS (border security forces)
 FÖRANOMI IKA KIKAS (remote controller)
