@@ -37,8 +37,9 @@ ESFA - downward
 AN - inward
 AT - outward
 
-ESIL - heading
-VOSIL - track
+NORA - destination (london)
+ESIL - heading (350)
+VOSIL - track (340)
 ESILATE - compass
 
 
