@@ -39,7 +39,7 @@ AT - outward
 
 ESIL - heading
 VOSIL - track
-ESILA - compass
+ESILATE - compass
 
 
 RASO - axis
