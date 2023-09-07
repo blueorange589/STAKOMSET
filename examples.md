@@ -17,10 +17,10 @@ SINAR RIVA LUXOR (will over perfection)
 - ISA RASFERA OKO, ENAT MANITOU
 
 
-A LIT B
+(A LIT B) ARTO MÜN UKO
 
-PROVAS INITA ATKIMS
-PREVAS FÖRAS (border security forces)
+PROVASI INITA ATKIMS
+PREVASI FÖRAS (border security forces)
 FÖRANOMI IKA KIKAS (remote controller)
  
 SUNA, SERI IKA MÜNAR
