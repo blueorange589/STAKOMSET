@@ -43,6 +43,7 @@ VOSIL - track (340)
 ESILATE - compass
 
 ESRA, VITA (facing forward, moving backward)
+- may be useful, idk
 
 
 RASO - axis
