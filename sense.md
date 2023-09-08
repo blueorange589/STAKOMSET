@@ -59,4 +59,5 @@ DITO - illness
 DITOS - disease
 DITÖ - accumulated non-sense, chaos
 DITÖN - fight, war
+DITÖK - accident
 
