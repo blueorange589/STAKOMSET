@@ -1,10 +1,13 @@
-INVI - error
-AXINVI - reason of error
+VIT - run
 
-INVIBA - debugging
-INVIBATA - debugging method
-INVIBATE - debugging tool
-INVIBASI - error found
+
+LIMVIT - error
+AXINVIT - reason of error
+
+LIMVITIBA - debugging
+LIMVIT IBATA - debugging method
+LIMVIT IBATE - debugging tool
+LIMVIT IBASI - error found
 
 PROXIT - algorithm
 PROXITA - solve

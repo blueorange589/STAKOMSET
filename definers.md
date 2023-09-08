@@ -39,8 +39,6 @@ PAT - parallax out, increasing
 PÖN - concave, exponential decrease
 PÖT - convex, exponential increase
 
-INVI - pause, break, error, interruption, interference
-
 RAS - start, center, switch on, origin, straight, exact
 KAS - radius, direct, arrow, direction, range
 TAS - area, indirect, inclusion, in order, controlled, inside, in possession, amongst,  non-straight
@@ -82,3 +80,4 @@ VUS - upper limit of
 
 NAT - reverse, undo
  
+LIMVI - pause, break, error, interruption, interference
