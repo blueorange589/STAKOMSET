@@ -6,6 +6,7 @@ VUN - you
 TEN - they
 TUN - he/she/it
 
+KUNIN - my
 KUNAN - to me
 KUNU - myself
 KUNÜ - to myself
