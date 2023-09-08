@@ -1,11 +1,13 @@
-VES - ship, carrier
+VES - vehicle
 VESA - airplane
+VESE - ship
 VESTA - car
 VESTÖ - truck
 VESI - rocket
-VERNORAS - airlines
 
-VESIO - fleet
+
+VERNORAS - airways/airlines
+VESO - fleet
 
 
 VERA - wind
@@ -15,3 +17,6 @@ LISVERA - crosswind
 
 KISERA - elevation, altitude
 KIMER - distance to ground
+
+ROTELATE - rudder
+ROTATE - flight control
