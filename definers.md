@@ -13,17 +13,23 @@ PRO - after
 PER - measured, estimated
 
 definers
+IN - match
+IT - non-matching
+EN - inclined
+ET - declined
 AN - inward
 AT - outward
 ÜN - rotating, alive, changing, transforming, moment
+ÜT - balanced, still, stable
 UN - circular, self
 UT - other
-ON - balanced, still, stable
+ON - group belongs to
+OT - other group
 
 
 LIR - relation
-LIN - parallel, matching, equal, synchronized, aligned
-LIT - non-parallel, not matching, inequal, non-aligned
+LIN - parallel, equal, synchronized, aligned
+LIT - non-parallel, inequal, non-aligned
 LIS - crossing, conflicting, similar, in conjunction
 LIM - between
 LIZ - non-related
