@@ -15,10 +15,10 @@ PER - measured, estimated
 definers
 IN - match
 IT - non-matching
-EN - inclined
-ET - declined
-AN - inward
-AT - outward
+AN - inclined
+AT - declined
+EN - inward
+ET - outward
 ÜN - rotating, alive, changing, transforming, moment
 ÜT - balanced, still, stable
 UN - circular, self
