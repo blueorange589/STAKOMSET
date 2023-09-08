@@ -12,7 +12,9 @@ PRE - before
 PRO - after 
 PER - measured, estimated
 
-definers
+switch
+N - in
+T - out
 IN - match
 IT - non-matching
 AN - inclined
@@ -27,7 +29,7 @@ ON - group belongs to
 OT - other group
 
 
-LIR - relation
+LIR - has relation
 LIN - parallel, equal, synchronized, aligned
 LIT - non-parallel, inequal, non-aligned
 LIS - crossing, conflicting, similar, in conjunction

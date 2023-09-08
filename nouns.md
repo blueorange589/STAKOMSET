@@ -51,9 +51,9 @@ DOMIO - houses
 SERDOM - port
 VERDOM - airport
 
-SNAFÖRI - history
-SNAFÖRIT - memory
-SNAFORITA - temple
+ATAFÖRI - history
+ATAFÖRIT - memory
+ATAFÖRITA - temple
 VINIXAR - statue
 
 KAVI - drive, fly, ride
