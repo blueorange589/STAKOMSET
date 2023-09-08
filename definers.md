@@ -3,8 +3,10 @@ I - inverse
 BE - simple, easy, basic
 KE - complex, advanced
 BEK - functionality, for
-STA - new
-SNA - old
+ARA - new
+ATA - old
+AVA - upcoming, in queue, next
+AFA - previous
 PRE - before
 PRO - after 
 PER - measured, estimated

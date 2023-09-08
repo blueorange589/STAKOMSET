@@ -76,9 +76,7 @@ VASIK - protect
 VASIKA - security, police, soldiers
 VASIKAN - guard, policeman, soldier
 
-MÜNIRAS - birth
-SNAMÜN - age
-MÜNIVAS - death
+
 
 LINRAS - focus, lineup
 LINRASI - eyeglass, zoom, startbox

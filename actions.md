@@ -127,7 +127,7 @@ IFAN = place to stabilize it
 
 -----
 
-IBA = to search
+IBA = to search, seek
 IBARE = searched
 IBARI = being searched
 IBARO = will be searched
@@ -155,6 +155,7 @@ IPAK - to gather, collect
 ITÖ - to throw, shoot
 ILA - to compare, measure
 ISI - to seed, fertilize
+
 ------
 
 

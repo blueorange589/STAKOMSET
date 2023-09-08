@@ -7,6 +7,7 @@ TIX - each
 NIX - none, nothing, negative, no one
 SIX - all, everything, positive, everyone
 
+
 relationships 
 UKU - one to one
 UKO - one to many

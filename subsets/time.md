@@ -10,6 +10,8 @@ MÜN - year
 
 SÜN - has own period
 
+LINKÜN - date
+
 
 KÜNE - day
 KÜNO - night
