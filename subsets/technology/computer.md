@@ -44,3 +44,6 @@ NODOT - cloud
 IKA NODOT? - save to remote?
 IKA NODOT ASI - saved remote successfully
 UNKAB - local storage
+
+AVA VISÜNA - upcoming song
+VISÜN AVAN - songs in queue
