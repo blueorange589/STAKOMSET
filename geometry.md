@@ -16,8 +16,7 @@ ADEMLINÜ - grid
 ATEMLINÜ - grid of triangles 
 
 UN - circle
-TÜS - angle
-angles, relations..etc. from definers
+
 
 IKA KELIS - copy shape
 KELISINA - draw shape
@@ -35,11 +34,13 @@ DO - quarter
 
 
 ROT - in line
-DOT - perpendicular 
 KOT - 180
+DOT - perpendicular 
+TUS - angle
+
 
 ES - facing
-EL - sides
+EL - right-left
 EM - top-down
 
 ROTES - x axis

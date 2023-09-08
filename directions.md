@@ -21,7 +21,7 @@ OTAD - southeast (34) backleft
 NORA - westward
 VORA - moving westward (track)
 VORAK - moving northwest
-VERAVORAK - wind southwester(!)
+VERAVORAK - wind northwest (a.k.a southwester(!))
 
 NORA - way,direction
 NORAT - intersection, turn
