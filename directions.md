@@ -37,14 +37,13 @@ ESFA - facing down
 AN - inward
 AT - outward
 
-NORA - destination (london)
+NORA - direction of journey (london)
 ESIL - heading (350)
 VOSIL - track (340)
 ESILATE - compass
 
 ESRA - facing forward, not moving
 ESDA, VIMTA (moonwalk)
-
 
 ROTE - axis
 ROTES - axis facing, pitch axis
