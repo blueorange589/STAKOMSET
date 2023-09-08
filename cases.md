@@ -1,4 +1,4 @@
-case built with measurement and definer
+case built with measurement & speciality
 
 cases
 FEN - broken
