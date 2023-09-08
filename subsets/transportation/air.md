@@ -5,6 +5,8 @@ VESTÖ - truck
 VESI - rocket
 VERNORAS - airlines
 
+VESIO - fleet
+
 
 VERA - wind
 TAVERA - tailwind

@@ -8,11 +8,13 @@ PROX - unknown
 PROXI - problem
 PROXIT - algorithm 
 PROXITA - solve
+PROXIO - problems
 
 KITE - pressure
 KITEN - hit 
-KITENAR - kite           
 KITENÖ - crash, break
+KITENAR - kite  
+KITENARO - kites
 
 INIT - exchange
 INITA - money
@@ -45,6 +47,7 @@ SERÖM - snow
 
 DOM - building
 DOMI - house
+DOMIO - houses
 SERDOM - port
 VERDOM - airport
 

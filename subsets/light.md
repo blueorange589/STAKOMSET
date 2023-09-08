@@ -13,4 +13,5 @@ SUX - shadow
 RUXAR - mirror
 RUXAN - reflector
 LUXOR - perfection 
+
 KABLUX RAS - room lights on

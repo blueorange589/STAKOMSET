@@ -16,6 +16,9 @@ NODIVASI - router
 NODIKASI - load balancer/regulator
 NODITIM - network operator
 
+NODIVASO - network edges
+NODIVASIO - routers
+
 
 KENODAMI AXA (smartphone app)
 KINOD - wireless 
