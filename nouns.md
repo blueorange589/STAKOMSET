@@ -56,15 +56,6 @@ ATAFÖRIT - memory
 ATAFÖRITA - temple
 VINIXAR - statue
 
-KAVI - drive, fly, ride
-KAVIT - vehicle
-KAVITA - steering
-KAVITAN - driver, captain, rider
-
-VIM - walk
-VIMÖ - run
-VIS - swim
-VIFAS - wandering around
 
 FERFÖRA - army
 VERFÖRA - air force
@@ -94,5 +85,3 @@ VASFÖRA - thickening borders
 VASVIXAR - dancing borders
 
 
-MÜNONÜ - anniversary 
-UNONÜ - taş sektirme
