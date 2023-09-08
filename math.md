@@ -50,3 +50,4 @@ TEMI - third
 TEKEMI - 32th
 
 
+ARTATE - calculator
