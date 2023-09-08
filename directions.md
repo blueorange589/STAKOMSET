@@ -46,11 +46,10 @@ ESRA - facing forward, not moving
 ESDA, VIMTA (moonwalk)
 
 ROTE - axis
-ROTES - axis facing, pitch axis
-ROTEL - axis perpendicular, yaw axis
-ROTEM - axis up, roll axis
+ROTES - axis facing, (a.k.a roll axis)
+ROTEL - axis perpendicular, (a.k.a pitch axis)
+ROTEM - axis up, (a.k.a yaw axis)
 
-ROTELI VA - pitch up
 LIN ROTEL - horizontally aligned
 ROTEL KA - yaw right
 ROTES VA - pitch up
