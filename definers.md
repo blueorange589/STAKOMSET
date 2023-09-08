@@ -2,7 +2,7 @@ predefiners
 I - inverse
 BE - simple, easy, basic
 KE - complex, advanced
-BEK - functionality, for
+
 ARA - new
 ATA - old
 AVA - upcoming, next
@@ -19,7 +19,7 @@ IN - match
 IT - non-matching
 AN - inclined
 AT - declined
-EN - inward
+EN - inward, through, to
 ET - outward
 ÜN - rotating, alive, changing, transforming, moment
 ÜT - balanced, still, stable
