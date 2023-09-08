@@ -146,11 +146,13 @@ IMA - to handout, leave
 IMAP - to give
 IMAS - to send, transfer
 IMAK - to share
+IMAT - to sell
 
 IPA - to obtain
 IPAP - to take
 IPAS - to receive
 IPAK - to gather, collect
+IPAT - to buy
 
 ITÖ - to throw, shoot
 ILA - to compare, measure
