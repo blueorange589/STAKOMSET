@@ -154,6 +154,7 @@ IPAK - to gather, collect
 
 ITÖ - to throw, shoot
 ILA - to compare, measure
+ISI - to seed, fertilize
 ------
 
 
