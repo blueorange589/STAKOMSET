@@ -5,7 +5,8 @@ KE - complex, advanced
 BEK - functionality, for
 ARA - new
 ATA - old
-AVA - upcoming, in queue, next
+AVA - upcoming, next
+AVAN - in queue
 AFA - previous
 PRE - before
 PRO - after 
