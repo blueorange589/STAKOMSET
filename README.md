@@ -1,5 +1,5 @@
 # STAKOMSET
-SIX RAS FÖRINI
+RASIX FÖRINI
 
 - no disturbing letters (H, CH, SH, SCH)
 - no derivative letters (W, Q, G, J)
