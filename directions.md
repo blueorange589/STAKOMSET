@@ -30,10 +30,10 @@ NORE - path
 NORI - road
 
 ES - facing
-ESRA - forward
-ESTA - backward
-ESVA - upward
-ESFA - downward
+ESRA - facing right
+ESTA - facing back
+ESVA - facing up
+ESFA - facing down
 AN - inward
 AT - outward
 
@@ -61,3 +61,7 @@ ROTEMI - yaw
 
 
 ROTELI VA - pitch up
+LIN ROTEL - horizontally aligned
+ROTEMA - standing up
+ROTEMA KOT - upside down
+ROTEM KA DOT - collapsed to right
