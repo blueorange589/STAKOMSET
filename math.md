@@ -39,7 +39,7 @@ ZÖNAS - 10^27
 TEZÖNAS - 10^117
 
 TEKEVEMNAS DERESEM (325.417)
-VEDEM KÜN/LÜN/MÜN (84 days/months/years)
+PEDEM KÜN/LÜN/MÜN (84 days/months/years)
 KUVEMNAS MÜNI (55.000 people)
 ZEREM KUNAS (91 million)
 

@@ -48,19 +48,19 @@ POMIA AT MERA
 
 EXA MIPER POMIA? (weight)
 EXA SAS POMIA? (number, count, amount)
-ITA POMIA NA (leave current place)
+IMA POMIA NA (leave current place)
 
 VINDA MAIVESTA  (pass on left of blue car)
 KAVI KAIVESTA (driving, riding black car)
 
-KAVITAN SINKAP VES VIKA  (no word for request/order)
+KAVITAN SINKAP VESA VIKA  (no word for request/order)
 
 VES KILOS SERDOM 
 KAVITAN KAVI VESA, KAS
 VESAKIVI  (remote controlled airplane)
 
 VESTÖ MERAM VIRA (truck, soil carrying)
-TUN VIMA DOMI  (he walks home)
+TUN VIM DOMI  (he walks home)
 VIMTÖ TUN? (are you running?)
 
 KUN ITAP UKO MÜNASE
