@@ -31,6 +31,7 @@ IPAS AREM - receive data (download)
 AREMEN - data being downloaded
 IMAS AREM - send data (upload)
 AREMET - data being uploaded
+KASRI - progress (%)
 IZATE - transfer software
 
 DIPAN - window shrink, minimize
