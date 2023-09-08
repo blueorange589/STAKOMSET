@@ -43,18 +43,21 @@ VOSIL - track (340)
 ESILATE - compass
 
 ESRA - facing forward, not moving
-ESRA, VITA (facing forward, moving backward)
 ESDA, VIMTA (moonwalk)
 
 
-RASO - axis
 
-RASOR - vertical axis (RA - fore)
-RASORA - vertical
+ROTES - axis facing, roll axis
+ROTESA - facing aligned
+ROTESI - roll
 
-RASOK - horizontal axis (KA - right)
-RASOKA - horizontal
+ROTEL - axis perpendicular, pitch axis
+ROTELA - horizontal
+ROTELI - pitch
 
-RASOV - yaw axis (VA - up)
+ROTEM - axis up, yaw axis
+ROTEMA - vertical
+ROTEMI - yaw
 
-VIRASOR - moving sideways
+
+ROTELI VA - pitch up

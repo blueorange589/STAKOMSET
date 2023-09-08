@@ -26,3 +26,22 @@ STA KELIS - new shape
 ÜNAKA - rotate right
 ÜNAFA - rotate upside down
 KELISATE - ruler
+
+
+sizing
+RO - full
+KO - semi/half
+DO - quarter
+
+
+ROT - in line
+DOT - perpendicular 
+KOT - 180
+
+ES - facing
+EL - sides
+EM - top-down
+
+ROTES - x axis
+ROTEL - y axis
+ROTEM - z axis

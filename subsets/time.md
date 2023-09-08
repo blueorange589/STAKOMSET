@@ -23,9 +23,9 @@ UNVAS - sleep
 SUNAFA - sunset
 SUNAVA - sunrise
 
-TOLÜNA - full moon
-SOLÜNA - half moon
-KOLÜNA - quarter moon
+ROLÜNA - full moon
+KOLÜNA - half moon
+DOLÜNA - quarter moon
 
-SOKÜNE - afternoon
+KOKÜNE - afternoon
 

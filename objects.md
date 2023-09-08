@@ -7,5 +7,5 @@ KAP - cover, shoe
 DOM - building
 VES - vehicle
 MES - paper
-KOTA - chair, sofa
-KOTE - desk
+MOTA - chair, sofa
+MOTE - desk
