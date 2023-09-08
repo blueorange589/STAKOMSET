@@ -48,10 +48,13 @@ ESDA, VIMTA (moonwalk)
 
 
 RASO - axis
-RASOR - horizontal axis
-RASORA - horizontal
-RASOK - vertical axis
-RASOKA - vertical
-RASOV - yaw axis
+
+RASOR - vertical axis (RA - fore)
+RASORA - vertical
+
+RASOK - horizontal axis (KA - right)
+RASOKA - horizontal
+
+RASOV - yaw axis (VA - up)
 
 VIRASOR - moving sideways
