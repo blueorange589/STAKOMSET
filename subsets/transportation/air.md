@@ -9,6 +9,9 @@ VESIO - fleet
 
 
 VERA - wind
-TAVERA - tailwind
-NAVERA - headwind
+RAVERA - tailwind
+TAVERA - headwind
 LISVERA - crosswind
+
+KISERA - elevation, altitude
+KIMER - distance to ground
