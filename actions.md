@@ -157,6 +157,7 @@ IPAT - to buy
 ITÖ - to throw, shoot
 ILA - to compare, measure
 ISI - to seed, fertilize
+IZA - to transfer
 
 ------
 
