@@ -21,6 +21,7 @@ AXA - program, software
 AXARAS - launch
 AXAVAS - close
 KAS - click
+KUKAS - double click
 LIMVIT - error
 
 FÖRARAS - power on
