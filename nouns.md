@@ -18,12 +18,6 @@ INIT - exchange
 INITA - money
 INITAM - currency
 
-SINKAP - speaking
-VINKAP - looking
-RÖNKAP - having sex
-MÖNKEP - hold
-VÖNKEKAP - shoe
-MÖNKEKAP - glove
 
 LITÖ - energy
 LITÖN - oil
