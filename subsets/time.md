@@ -1,10 +1,10 @@
 daytime
-ÜN - moment
+AREM - moment
 RAM - second
 RÜN - minute
 TÜN - hour
 KÜN - day
-SEMKÜN - week
+VÜN - week
 LÜN - month
 MÜN - year
 
