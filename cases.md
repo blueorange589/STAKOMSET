@@ -1,3 +1,5 @@
+case built with measurement and definer
+
 cases
 FEN - broken
 FER - running
