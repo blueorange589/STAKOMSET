@@ -9,6 +9,8 @@ RÖNKI - male organ
 RÖNKE - female organ 
 SINKA - mouth
 
+MÖNKATÜS - elbow
+VÖNKATÜS - knee
 
 INKAP - to think
 INKAV - to see
