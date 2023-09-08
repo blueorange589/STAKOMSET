@@ -9,6 +9,9 @@ RASIX FÖRINI
 - no manipulative words, such as [order, request... etc]
 
 
+- plurals using relationships, alternatively by adding suffix "O"
+
+
 
 special thanks
 ATHENA :)
