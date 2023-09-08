@@ -6,12 +6,12 @@ MÜNEK - female animal
 
 
 MÜNIRAS - birth
-LINKÜN MÜNIRAS - date of birth
+LINKÜN MÜNIRAS - date (day) of birth
 LINKÜN KUNRAS - my date of birth
-AFAMÜN - age
+ATAMÜN - age (old years)
 UNSÜN - birthday
 KUNSÜN - my birthday
-AVA KUNSÜN - my next birthday
+AVA KUNSÜN - my upcoming birthday
 MÜNIVAS - death
 
 
