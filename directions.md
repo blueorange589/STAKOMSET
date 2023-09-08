@@ -54,6 +54,6 @@ LIN ROTEL - horizontally aligned
 ROTEL KA - yaw right
 ROTES VA - pitch up
 ROTEM KA - roll right
-ROTEMA - standing up
-ROTEMA KOT - upside down
+ROTEM - standing up
+ROTEM KOT - upside down
 ROTEM KA DOT - collapsed to right
