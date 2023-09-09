@@ -35,8 +35,9 @@ LITE RESEM (-17 celsius)
 
 RIVAKIN (on top of it)
 RIVAKIR (just above, floating)
-RIVAKIK (above near)
+RIVAKIK (near above)
 RIVAKID (way above)
+RIDAKIN (on left next to it)
 
 TUN ITÖ POMIA VA
 TUN ITÖ POMIA RA
