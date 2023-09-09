@@ -47,7 +47,7 @@ ESDA, VIMTA (moonwalk)
 
 ROTE - axis
 ROTES - axis facing, (a.k.a roll axis)
-ROTEL - axis perpendicular, (a.k.a pitch axis)
+ROTEL - axis lateral, (a.k.a pitch axis)
 ROTEM - axis up, (a.k.a yaw axis)
 
 LIN ROTEL - horizontally aligned
