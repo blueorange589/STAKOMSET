@@ -1,7 +1,4 @@
 sense, perception 
-PROFÖR - feeder of existence
-INFÖR - mortal, variable, transforming
-
 FÖR - with logic, mind, knowledge
 FÖRA - power, force
 FÖRAN - producer
@@ -34,6 +31,9 @@ FÖRIVOS - comics
 FÖRIVOSA - comedy 
 FÖRIVOSAN - comedian
 FÖRIF - senses
+
+PROFÖR - feeder of existence
+INFÖR - mortal, variable, transforming
 
 DIT - lack of logic, mind, knowledge
 DITA - weak
