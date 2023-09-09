@@ -9,8 +9,8 @@ numbers
 7 SEM
 8 PEM
 9 ZEM
-10 AS
-100 LAS
+10 LAS
+100 MAS
 1000 NAS
 
 operators
@@ -28,7 +28,10 @@ DU - quadraple
 KÖ - exponential 2
 TÖ - exp. 3
 DÖ - exp. 4
+
 KÜ - squared 2
+TÜ - squared 3
+PESEMKÜ - 87 squared
 
 KÖNAS - million
 TÖNAS - billion
@@ -43,11 +46,21 @@ PEDEM KÜN/LÜN/MÜN (84 days/months/years)
 KUVEMNAS MÜNI (55.000 people)
 ZEREM KUNAS (91 million)
 
+
+decimals
+FEKEMUNAS - (62/1000) 0.062
+FEKEMUMAS - 0.62
+FEKEMULAS - 6.2
+
+
+
 REMI - first
 KEMI - second
 TEMI - third
 ...
 TEKEMI - 32th
+
+
 
 
 ARTATE - calculator

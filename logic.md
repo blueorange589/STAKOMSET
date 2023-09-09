@@ -13,5 +13,8 @@ UKU - one to one
 UKO - one to many
 OKU - many to one
 OKO - many to many
+
+UNU - single in single
 UNO - single in many
 ONO - many in many
+ONU - many in single
