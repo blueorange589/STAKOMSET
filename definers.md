@@ -32,7 +32,7 @@ OT - other group
 LIR - has relation
 LIN - parallel, equal, synchronized, aligned
 LIT - non-parallel, inequal, non-aligned
-LIS - crossing, conflicting, similar, in conjunction
+LIS - crossing, conflicting, similar, in conjunction, common
 LIM - between
 LIZ - non-related
 

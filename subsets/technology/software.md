@@ -1,13 +1,13 @@
 VIT - run
+IZA - execute
 
+LIMIZAT - error
+AXINIZA - reason of error
 
-LIMVIT - error
-AXINVIT - reason of error
-
-LIMVITIBA - debugging
-LIMVIT IBATA - debugging method
-LIMVIT IBATE - debugging tool
-LIMVIT IBASI - error found
+IZATIBA - debugging
+IZATIBATA - debugging method
+IZATIBATE - debugging tool
+IZATIBASI - error found
 
 PROXIT - algorithm
 PROXITA - solve
