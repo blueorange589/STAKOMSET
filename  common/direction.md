@@ -30,12 +30,12 @@ NORE - path
 NORI - road
 
 ES - facing
-ESRA - facing right
+ESRA - facing front
+ESKA - facing right
 ESTA - facing back
+ESDA - facing left
 ESVA - facing up
 ESFA - facing down
-AN - inward
-AT - outward
 
 NORA - direction of journey (london)
 ESIL - heading (350)
