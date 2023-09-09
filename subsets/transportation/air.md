@@ -48,4 +48,5 @@ ROTEXE - lateral matrix (yaw)
 ROTEXI - vertical matrix (pitch)
 
 ROTEXA KA - roll right
+ROTEXE DA - yaw left
 ROTEXI FA - pitch down
