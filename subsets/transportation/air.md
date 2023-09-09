@@ -29,3 +29,13 @@ RIVAKID NORE (way above path)
 
 RIDAKIR NORE (on left next to path)
 NORE RIKAKIR (path just at right)
+
+controls
+ROTE - axis
+ROTES - axis facing, (a.k.a roll axis)
+ROTEL - axis perpendicular, (a.k.a pitch axis)
+ROTEM - axis up, (a.k.a yaw axis)
+
+ROTEL KA - yaw right
+ROTES VA - pitch up
+ROTEM KA - roll right
