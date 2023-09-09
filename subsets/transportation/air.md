@@ -22,7 +22,8 @@ ROTELATE - rudder
 ROTATE - flight control
 
 path alignment
-KIN NORE (on path)
+LIN NORE (on path)
+
 RIVAKIR NORE (just above path)
 RIVAKIK NORE (near above path)
 RIVAKID NORE (way above path)
