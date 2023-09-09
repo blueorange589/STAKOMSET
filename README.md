@@ -1,5 +1,6 @@
 # STAKOMSET
 RASIX FÖRINI
+(everything starts with a letter)
 
 - no disturbing letters (H, CH, SH, SCH)
 - no derivative letters (W, Q, G, J)
