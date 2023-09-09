@@ -46,3 +46,7 @@ EM - top-down
 ROTES - x axis
 ROTEL - y axis
 ROTEM - z axis
+
+ROTEX - matrix
+ROTEXA - vertical matrix
+ROTEXE - lateral matrix

@@ -34,7 +34,7 @@ NORE RIKAKIR (path just at right)
 controls
 ROTE - axis
 ROTES - axis facing, (a.k.a roll axis)
-ROTEL - axis perpendicular, (a.k.a pitch axis)
+ROTEL - axis lateral, (a.k.a pitch axis)
 ROTEM - axis up, (a.k.a yaw axis)
 
 ROTEL KA - yaw right
