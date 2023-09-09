@@ -1,4 +1,3 @@
-VIT - run
 IZA - execute
 
 LIMIZAT - error
