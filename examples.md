@@ -18,6 +18,12 @@ AVA FÖRI EN MÜNA
 
 (A LIT B) ARTO MÜN UKO
 
+RIVAKIN (on top of it)
+RIVAKIR (just above, floating)
+RIVAKIK (near above)
+RIVAKID (way above)
+RIDAKIN (on left next to it)
+
 KUN NIXIKA SUNA, KUN NIXÜNA RÜNAS, ROS KUN NIXFÖRANS
 
 PROVASI INITA ATKIMS
@@ -32,12 +38,6 @@ FÖRAK IRA LITÖNAR
 
 LITA KEVEM (+25 celsius)
 LITE RESEM (-17 celsius)
-
-RIVAKIN (on top of it)
-RIVAKIR (just above, floating)
-RIVAKIK (near above)
-RIVAKID (way above)
-RIDAKIN (on left next to it)
 
 TUN ITÖ POMIA VA
 TUN ITÖ POMIA RA
