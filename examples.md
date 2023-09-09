@@ -33,6 +33,9 @@ FÖRAK IRA LITÖNAR
 LITA KEVEM (+25 celsius)
 LITE RESEM (-17 celsius)
 
+RIVAKIN (on top of it)
+RIVAKIR (just above, floating)
+RIVAKIK (above near)
 RIVAKID (way above)
 
 TUN ITÖ POMIA VA
