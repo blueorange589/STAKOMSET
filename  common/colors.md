@@ -3,6 +3,7 @@ AIN - color
 
 NEN - non-colored, not painted, sketch
 NIXAI - transparent
+PIXAI - opacity
 
 RAI - red
 PAI - green

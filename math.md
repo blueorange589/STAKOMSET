@@ -13,14 +13,6 @@ numbers
 100 MAS
 1000 NAS
 
-operators
-ARTA - plus, sum
-ARTE - minus, subtract
-ARTO - times, multiply
-ARTU - divide, split
-ARTÜ - squared
-ARTÖ - exponential
-
 KU - double
 TU - triple
 DU - quadraple 
@@ -48,9 +40,11 @@ ZEREM KUNAS (91 million)
 
 
 decimals
-FEKEMUNAS - (62/1000) 0.062
-FEKEMUMAS - 0.62
-FEKEMULAS - 6.2
+UNAS FEKEM - (62/1000) 0.062
+UMAS FEKEM - (62/100) 0.62
+ULAS FEKEM - (62/10) 6.2
+
+PEDEM UMAS DEREM - 84.41
 
 
 
@@ -59,6 +53,15 @@ KEMI - second
 TEMI - third
 ...
 TEKEMI - 32th
+
+
+operators
+ARTA - plus, sum
+ARTE - minus, subtract
+ARTO - times, multiply
+ARTU - divide, split
+ARTÜ - squared
+ARTÖ - exponential
 
 
 
