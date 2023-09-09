@@ -48,5 +48,6 @@ ROTEL - y axis
 ROTEM - z axis
 
 ROTEX - matrix
-ROTEXA - vertical matrix
-ROTEXE - lateral matrix
+ROTEXA - facing matrix (roll)
+ROTEXE - lateral matrix (yaw)
+ROTEXI - vertical matrix (pitch)

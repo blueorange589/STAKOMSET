@@ -40,3 +40,12 @@ ROTEM - axis up, (a.k.a yaw axis)
 ROTEL KA - yaw right
 ROTES VA - pitch up
 ROTEM KA - roll right
+
+
+ROTEX - matrix
+ROTEXA - facing matrix (roll)
+ROTEXE - lateral matrix (yaw)
+ROTEXI - vertical matrix (pitch)
+
+ROTEXA KA - roll right
+ROTEXI FA - pitch down
