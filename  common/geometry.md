@@ -20,7 +20,7 @@ UN - circle
 
 IKA KELIS - copy shape
 KELISINA - draw shape
-STA KELIS - new shape
+AVA KELIS - new shape
 ÜNA KELIS - rotate shape
 ÜNAKA - rotate right
 ÜNAFA - rotate upside down
