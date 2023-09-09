@@ -10,7 +10,7 @@ AVAN - in queue
 AFA - previous
 PRE - before
 PRO - after 
-PER - measured, estimated
+PER - measured
 
 switch
 N - in
