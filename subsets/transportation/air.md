@@ -42,11 +42,11 @@ ROTES VA - pitch up
 ROTEM KA - roll right
 
 
-ROTEX - matrix
-ROTEXA - facing matrix (roll)
-ROTEXE - lateral matrix (yaw)
-ROTEXI - vertical matrix (pitch)
+DOTE - matrix
+DOTES - facing matrix (roll)
+DOTEL - lateral matrix (yaw)
+DOTEM - vertical matrix (pitch)
 
-ROTEXA KA - roll right
-ROTEXE DA - yaw left
-ROTEXI FA - pitch down
+DOTES KA - roll right
+DOTEL DA - yaw left
+DOTEM FA - pitch down
