@@ -8,7 +8,10 @@ RASIX FÖRINI
 
 - every letter in a word should explain the meaning, to best extent
 - no manipulative words, such as [order, request... etc]
-- no word in place of "for"
+
+
+- no word in place of "for, because"
+- no word in place of "do, make, render", has no meaning in origin
 
 
 - plurals using relationships, alternatively by adding suffix "O"
