@@ -19,8 +19,8 @@ IN - match
 IT - non-matching
 AN - inclined
 AT - declined
-EN - inward, through, to
-ET - outward
+EN - inward, through, to, inbound, incoming
+ET - outward, outbound, outgoing
 ÜN - rotating, alive, changing, transforming, moment
 ÜT - balanced, still, stable
 UN - circular, self
