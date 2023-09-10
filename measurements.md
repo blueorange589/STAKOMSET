@@ -1,7 +1,7 @@
 measurements
 VI - movement
 RI - positioning
-KI - length 
+KI - length, distance 
 TI - time
 SI - count, amount
 DI - size, volume

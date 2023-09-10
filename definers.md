@@ -5,14 +5,15 @@ KE - complex, advanced
 
 ARA - new
 ATA - old
-AVA - upcoming, next
-AVAN - in queue
+AVA - next
+AVAN - in queue, upcoming
 AFA - previous
+
 PRE - before
 PRO - after 
 PER - measured
 
-switch
+dual
 N - in
 T - out
 IN - match
