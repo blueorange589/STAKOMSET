@@ -57,7 +57,7 @@ LITÖNIVAN = gas station
 
 -----
 
-IDA = remove, lessen, decrease, slow, cool, lighten, drain, pull, discharge
+IDA = remove, lessen, decrease, slow, cool, lighten, drain, pull, discharge, consume
 
 IDALIS - scissor (cross reducer)
 IDAVOS - lift vehicle
