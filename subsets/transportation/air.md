@@ -42,11 +42,11 @@ ROTEL KA - yaw right
 ROTEZ KA - roll right
 
 
-DOTE - matrix
-DOTEX - facing matrix (roll)
-DOTEL - lateral matrix (yaw)
-DOTEZ - vertical matrix (pitch)
+SOTE - matrix
+SOTEX - facing matrix (roll)
+SOTEL - lateral matrix (yaw)
+SOTEZ - vertical matrix (pitch)
 
-DOTEX KA - roll right
-DOTEL DA - yaw left
-DOTEZ FA - pitch down
+SOTEX KA - roll right
+SOTEL DA - yaw left
+SOTEZ FA - pitch down

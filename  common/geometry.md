@@ -2,7 +2,7 @@ shapes
 AREM - dot, idea
 AKEM - line, action
 ATEM - triangle, event
-ADEM - quadrangle, result
+ASEM - quadrangle, result
 AVEM - tetragon 
 
 KELIS - shape
@@ -10,9 +10,9 @@ FELIS - freeshape
 
 AKEM LISOKU - many lines crossing one
 
-ADEMLIN - square
-ADEMLIT - rectangle 
-ADEMLINÜ - grid
+ASEMLIN - square
+ASEMLIT - rectangle 
+ASEMLINÜ - grid
 ATEMLINÜ - grid of triangles 
 
 UN - circle
@@ -32,12 +32,12 @@ KELISATE - ruler
 sizing
 RO - full
 KO - semi/half
-DO - quarter
+SO - quarter
 
 
 ROT - in line
 KOT - 180
-DOT - perpendicular 
+SOT - perpendicular 
 NOT - no angle
 TUS - angle
 
@@ -55,7 +55,7 @@ ROTEX - x axis
 ROTEL - y axis
 ROTEZ - z axis
 
-DOTE - matrix
-DOTEX - facing matrix (roll)
-DOTEL - lateral matrix (yaw)
-DOTEZ - vertical matrix (pitch)
+SOTE - matrix
+SOTEX - facing matrix (roll)
+SOTEL - lateral matrix (yaw)
+SOTEZ - vertical matrix (pitch)
