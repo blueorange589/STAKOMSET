@@ -69,9 +69,12 @@ SIPAT - increasing count
 SIPAN - decreasing count
 UNPAT - seperation, tension, voltage, injury
 UNPAN - unification, healing
-IROT - upside down 
-IDOT - lateral reverse
+
+IXOT - frontside back
+ILOT - rightside left
+IZOT - upside down 
 INOT - inverse
+
 ARKSIX - cathode 
 ARKNIX - anode
 AINVOS - colorful
