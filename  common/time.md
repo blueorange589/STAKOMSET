@@ -1,6 +1,6 @@
 daytime
 UN - moment
-RAMUNAS - millisecond
+RAMÜNAS - millisecond
 RAM - second
 RÜN - minute
 TÜN - hour
