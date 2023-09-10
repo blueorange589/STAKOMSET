@@ -28,7 +28,7 @@ UT - other
 ON - group belongs to
 OT - other group
 
-
+relation
 LIR - has relation
 LIN - parallel, equal, synchronized, aligned
 LIT - non-parallel, inequal, non-aligned
@@ -38,9 +38,10 @@ LIZ - non-related
 
 PAN - parallax in, decreasing 
 PAT - parallax out, increasing
-PÖN - concave, exponential decrease
-PÖT - convex, exponential increase
+PÖNÖ - concave, exponential decrease
+PÖTÖ - convex, exponential increase
 
+reference
 RAS - start, center, switch on, origin, straight, exact
 KAS - radius, direct, arrow, direction, range
 TAS - area, indirect, inclusion, in order, controlled, inside, in possession, amongst,  non-straight

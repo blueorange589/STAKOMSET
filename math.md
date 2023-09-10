@@ -58,10 +58,8 @@ TEKEMI - 32th
 operators
 ARTA - plus, sum
 ARTE - minus, subtract
-ARTO - times, multiply
-ARTU - divide, split
-ARTÜ - squared
-ARTÖ - exponential
+ARTÖ - times, multiply
+ARTÜ - divide, split
 
 
 
