@@ -29,109 +29,62 @@ FERATE = instrument to break it
 
 -----
 
-INA = to produce, create, draw, compose
-INARE = produced
-INARI = being produced
-INARO = will be produced
-INAT = person to produce
-INATE = instrument to produce it
-INAN = place to produce it
+IRA = to produce, create, draw, compose
 ------
 
 -----
 
-IRA = to destroy, get rid of, clean up, eat
-IRARE = destroyed
-IRARI = being destroyed
-IRARO = will be destroyed
-IRAT = person to destroy
-IRATE = instrument to destroy it
-IRAN = place to be destroy it
+INA = to destroy, get rid of, clean up, eat
 ------
 
 -----
 
-IKA = add, increase, copy, expedite, heat, fill, push, charge, feed
-IKARE = added
-IKARI = being added
-IKARO = will be added
-IKAT = person to increase
-IKATE = instrument to increase
-IKAN = place to increase
+IVA = add, increase, copy, expedite, heat, fill, push, charge, feed
 
-LITÖNIKA = fill gas
-LITÖNIKAT = pumpman
-LITÖNIKATE = pump
-LITÖNIKAN = gas station
-------
-
------
-
-ITA = merge
-ITARE = merged
-ITARI = being merged
-ITARO = will be merged
-ITAT = person to merge it
-ITATE = instrument to merge it
-ITAN = place to merge it
-
-ITASER - glue
-ITARUT = screw
-------
-
-
------
-
-ISA = remove, lessen, decrease, slow, cool, lighten, drain, pull, discharge
-ISARE = removed
-ISARI = being removed
-ISARO = will be removed
-ISAT = collector, barber
-ISATE = drain
-ISAN = barber shop
-
-ISALIS - scissor
-ISAVOS - lift vehicle
-------
-
------
-
-IVA = to seperate, split, branch, slice
-IVARE = seperated
-IVARI = being seperated
-IVARO = will be seperated
-IVAT = person to split it
-IVATE = tool to split it
-IVAN = place to split it
-
-...IVAT - traffic police
-...IVAN - trash factory
-...IVATE - slicer
+IVA LITÖN = to fill gas
+LITÖNIVAT = pumpman
+LITÖNIVATE = pump
+LITÖNIVAN = gas station
 ------
 
 
 
 -----
 
-IDA = to regulate, stabilize, tie, connect
-IDARE = stabilized
-IDARI = being stabilized
-IDARO = will be stabilized
-IDAT = person to stabilize it
-IDATE = instrument to stabilize it
-IDAN = place to stabilize it
+IDA = remove, lessen, decrease, slow, cool, lighten, drain, pull, discharge
+
+IDALIS - scissor (cross reducer)
+IDAVOS - lift vehicle
+------
+
+-----
+
+IVU = merge
+IVUSER - glue
+IVURUT = screw
+------
+
+-----
+
+IVÜ = to seperate, split, branch, slice
+
+... IVÜN - trash recycling factory
+MÜNASA IVÜTE - fruit slicer
+------
+
+
+
+-----
+
+ODA = to regulate, stabilize, tie, connect
+
+... ODAT - traffic police
 ------
 
 
 -----
 
 IBA = to search, seek
-IBARE = searched
-IBARI = being searched
-IBARO = will be searched
-IBAT = person to search it
-IBATE = instrument to search it
-IBAN = place to search it
 IBASI - found
 ------
 
@@ -140,17 +93,17 @@ IBASI - found
 ÜNA - to rotate
 ISA - to replace
 
-IMA - to handout, leave
-IMAP - to give
-IMAS - to send, transfer
-IMAK - to share
-IMAT - to sell
+ETA - to handout, leave, seperate
+ETAP - to give
+ETAS - to send, transfer
+ETAK - to share
+ETAT - to sell
 
-IPA - to obtain
-IPAP - to take
-IPAS - to receive
-IPAK - to gather, collect
-IPAT - to buy
+ENA - to obtain
+ENAP - to take
+ENAS - to receive
+ENAK - to gather, collect
+ENAT - to buy
 
 ITÖ - to throw, shoot
 ILA - to compare, measure
