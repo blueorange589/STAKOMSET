@@ -37,7 +37,10 @@ SO - quarter
 
 ROT - in line
 KOT - 180
-SOT - perpendicular 
+TOT - 120
+SOT - 90, perpendicular
+VOT - 72
+DOT - 60
 NOT - no angle
 TUS - angle
 

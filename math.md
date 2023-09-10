@@ -64,6 +64,6 @@ ROT - positive num.
 KOT - negative num.
 
 KOT DEKEM (-62)
-KOT SEKÖNAS (-4 millon)
+KOT SEKÖNAS (-4 million)
 
 ARTATE - calculator
