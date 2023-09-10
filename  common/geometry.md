@@ -39,7 +39,10 @@ DOT - perpendicular
 NOT - no angle
 TUS - angle
 
-NOTE - virtual
+NOTE - virtual (dimension)
+NOTES - x axis (virtual)
+NOTEL - y axis (virtual)
+NOTEM - z axis (virtual)
 
 ES - facing
 EL - right-left
