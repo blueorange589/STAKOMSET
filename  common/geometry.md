@@ -39,21 +39,21 @@ DOT - perpendicular
 NOT - no angle
 TUS - angle
 
-ES - facing
+EK - facing
 EL - right-left
 EZ - top-down
 
 NOTE - virtual (dimension)
-NOTES - x axis (virtual)
+NOTEK - x axis (virtual)
 NOTEL - y axis (virtual)
 NOTEZ - z axis (virtual)
 
 ROTE - axis
-ROTES - x axis
+ROTEK - x axis
 ROTEL - y axis
 ROTEZ - z axis
 
 DOTE - matrix
-DOTES - facing matrix (roll)
+DOTEK - facing matrix (roll)
 DOTEL - lateral matrix (yaw)
 DOTEZ - vertical matrix (pitch)
