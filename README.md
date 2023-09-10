@@ -10,8 +10,9 @@ RASIX FÖRINI
 - no manipulative words, such as [order, request... etc]
 
 
+- no word for "good/bad". Quality-wise case quality may be used.
 - no word in place of "for, because"
-- no word in place of "do, make, render", has no meaning in origin
+- no word in place of "do, make, render", has no meaning in 
 
 
 - plurals using relationships, alternatively by adding suffix "O"

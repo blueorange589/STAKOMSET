@@ -4,6 +4,14 @@ cases
 FEN - broken
 FER - running
 
+ZEN - no quality, useless
+ZER - quality at minimum
+ZEK - low on
+ZET - average
+ZED - high on
+ZEV - max. quality
+ZEF - in excess quality
+
 SIN - no amount, empty
 SIR - at minimum
 SIK - low on
