@@ -13,7 +13,7 @@ PRE - before
 PRO - after 
 PER - measured
 
-dual
+dual cases
 N - in
 T - out
 IN - match
@@ -22,10 +22,10 @@ AN - inclined
 AT - declined
 EN - inward, through, to, inbound, incoming
 ET - outward, outbound, outgoing
-ÜN - rotating, alive, changing, transforming, moment
-ÜT - balanced, still, stable
 UN - circular, self
 UT - other
+ÜN - rotating, alive, changing, transforming, moment
+ÜT - balanced, still, stable
 ON - group belongs to
 OT - other group
 
@@ -46,8 +46,8 @@ reference
 RAS - start, center, switch on, origin, straight, exact
 KAS - radius, direct, arrow, direction, range
 TAS - area, indirect, inclusion, in order, controlled, inside, in possession, amongst,  non-straight
-TUS - angle, part, slice, divide, split, ratio, dividends
-ITUS - relative, subjective
+TÜS - angle, part, slice, divide, split, ratio, dividends
+ITÜS - relative, subjective
 DAS - volume, dimensions
 VAS - end, borders, edges, circumference, switch off, destination
 FAS - out, free, exclusion, expire

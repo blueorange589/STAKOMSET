@@ -5,7 +5,7 @@ PE - role
 ZE - quality
 
 
-dual case
+dual cases
 AFE - functioning
 ASE - aesthetic
 AKE - privacy
