@@ -1,8 +1,8 @@
 case built with measurement & speciality
 
 cases
-FEN - broken
-FER - running
+AFEN - broken
+AFER - running
 
 ZEN - no quality, useless
 ZER - quality at minimum
@@ -11,6 +11,9 @@ ZET - average
 ZED - high on
 ZEV - max. quality
 ZEF - in excess quality
+
+ASEN - non-aesthetic
+ASER - aesthetic
 
 SIN - no amount, empty
 SIR - at minimum

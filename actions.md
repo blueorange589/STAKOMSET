@@ -2,31 +2,29 @@ cause taken from cases and speciality
 
 -----
 
-FEN = broken                    EXRAS?
-ENA = repair                    EXA?
-ENARE = repaired                
-ENARI = being repaired          EXARI?
-ENARO = will be repaired        
-ENAT = repairman, engineer      EXAT?
-ENATE = repair tool             EXATE?
-ENATA = repair method, process  EXATA?
-ENAN = garage, repair shop      EXAN?
-ENASI = repair success          EXASI?
-ENANI = repair fail             EXANI?
+AFEN = broken                    EXRAS?
+FENA = repair                    EXA?
+FENARE = repaired                
+FENARI = being repaired          EXARI?
+FENARO = will be repaired        
+FENAT = repairman, engineer      EXAT?
+FENATE = repair tool             EXATE?
+FENATA = repair method, process  EXATA?
+FENAN = garage, repair shop      EXAN?
+FENASI = repair success          EXASI?
+FENANI = repair fail             EXANI?
 ------
 
 -----
 
-FER = running
-ERA = to stop
-ERARE = shut
-ERARI = shutting down
-ERARO = will be shut
-ERAT = fireman
-ERATE = shutter, fire truck
-ERATA = shutdown procedure
-
-ERAROTI = time to shutdown
+AFER = functioning
+FERA = to break
+FERARE = broken
+FERARI = breaking up
+FERARO = will be broken
+FERAT = person to break it
+FERATA = method to break it
+FERATE = instrument to break it
 ------
 
 -----

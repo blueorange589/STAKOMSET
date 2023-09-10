@@ -2,6 +2,10 @@ speciality
 NE - color
 ME - age
 PE - role
-FE - functioning
-KE - privacy
 ZE - quality
+
+
+switch case
+AFE - functioning
+ASE - aesthetic
+AKE - privacy
