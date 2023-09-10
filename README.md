@@ -21,6 +21,9 @@ RASIX FÖRINI
 
 special thanks
 ATHENA :)
+pythagor
+ptolemy
+... many more
 
 
 public. open for further development. no license.
