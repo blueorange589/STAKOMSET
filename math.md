@@ -36,7 +36,7 @@ TEZÖNAS - 10^117
 TEKEVEMNAS SEREFEM (325.417)
 PESEM KÜN/LÜN/MÜN (84 days/months/years)
 KUVEMNAS MÜNI (55.000 people)
-ZEREM KUNAS (91 million)
+ZEREM KÖNAS (91 million)
 
 
 decimals
@@ -59,9 +59,11 @@ PERE - minus, subtract
 PERÖ - times, multiply
 PERÜ - divide, split
 
-RA - positive num.
-RE - negative num.
+# from geometry
+ROT - positive num.
+KOT - negative num.
 
-
+KOT DEKEM (-62)
+KOT SEKÖNAS (-4 millon)
 
 ARTATE - calculator
