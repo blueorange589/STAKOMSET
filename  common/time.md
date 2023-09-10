@@ -1,5 +1,6 @@
 daytime
-AREM - moment
+UN - moment
+RAMUNAS - millisecond
 RAM - second
 RÜN - minute
 TÜN - hour
@@ -22,12 +23,12 @@ KÜNEVAS - evening
 UNRAS - wakeup
 UNVAS - sleep
 
-SUNA DA - sunset
+SUNADA - sunset
 SUNAVA - sunrise
 
 ROLÜNA - full moon
 KOLÜNA - half moon
-DOLÜNA - quarter moon
+SOLÜNA - quarter moon
 
 KOKÜNE - afternoon
 

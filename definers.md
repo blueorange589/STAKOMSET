@@ -22,7 +22,7 @@ AN - inclined
 AT - declined
 EN - inward, through, to, inbound, incoming
 ET - outward, outbound, outgoing
-UN - circular, self
+UN - circular, self, moment
 UT - other
 ÜN - rotating, alive, changing, transforming, moment
 ÜT - balanced, still, stable

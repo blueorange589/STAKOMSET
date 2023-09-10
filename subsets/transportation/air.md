@@ -49,4 +49,4 @@ SOTEZ - vertical matrix (pitch)
 
 SOTEX KA - roll right
 SOTEL DA - yaw left
-SOTEZ  DA - pitch down
+SOTEZ DA - pitch down

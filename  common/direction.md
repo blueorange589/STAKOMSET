@@ -43,7 +43,7 @@ VOSIL - track (340)
 ESILATE - compass
 
 ESRA - facing forward, not moving
-ESDA, VIMTA (moonwalk)
+ESSA, VIMTA (moonwalk)
 
 ROTE - axis
 ROTEX - axis facing, (a.k.a roll axis)
