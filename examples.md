@@ -28,6 +28,8 @@ RIDAKIT (on left, ideal distance)
 
 KUN NIXIKA SUNA, KUN NIXÜNA RÜNAS, ROS KUN NIXFÖRANS
 
+VESI VIVA... REMI LITÖKAB IVARE
+
 PROVASI INITA ATKIMS
 PREVASI FÖRAS (border security forces)
 FÖRANOMI IKA KIKAS (remote controller)
