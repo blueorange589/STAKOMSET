@@ -18,12 +18,14 @@ AXITVA - thing on top
 AXU - thing circle
 AXUNA - roll, toilet paper
 
-AXO - group of thing
-
-
 AXÜ - thing rotating
 AXÜNA - gear, wheel, axle 
 
+AXO - group of thing
 
-AXTÜ - divided, split
+AXÖ - copy of thing
+
+
+
+
 
