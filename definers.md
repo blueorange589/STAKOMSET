@@ -7,7 +7,7 @@ ARA - new
 ATA - old
 AVA - next
 AVAN - in queue, upcoming
-AFA - previous
+ADA - previous
 
 PRE - before
 PRO - after 
@@ -74,10 +74,6 @@ IXOT - frontside back
 ILOT - rightside left
 IZOT - upside down 
 INOT - inverse
-
-ARKSIX - cathode 
-ARKNIX - anode
-AINVOS - colorful
 
 ROS - less
 VOS - more

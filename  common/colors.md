@@ -1,5 +1,6 @@
 colors
 AIN - color
+AINVOS - colorful
 
 NEN - non-colored, not painted, sketch
 NIXAI - transparent
