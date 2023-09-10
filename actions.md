@@ -50,6 +50,8 @@ LITÖNIVAT = pumpman
 LITÖNIVATE = pump
 LITÖNIVAN = gas station
 ------
+# IVA KELIS - copy the shape
+# LITIVA "CAKE" - bake a cake
 
 
 
