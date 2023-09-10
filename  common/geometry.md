@@ -19,7 +19,8 @@ UN - circle
 
 
 IKA KELIS - copy shape
-KELISINA - draw shape
+IKA KELIS DI - increase size of shape
+INA KELIS - draw shape
 AVA KELIS - new shape
 ÜNA KELIS - rotate shape
 ÜNAKA - rotate right
@@ -39,21 +40,21 @@ DOT - perpendicular
 NOT - no angle
 TUS - angle
 
-EK - facing
+EX - facing
 EL - right-left
 EZ - top-down
 
 NOTE - virtual (dimension)
-NOTEK - x axis (virtual)
+NOTEX - x axis (virtual)
 NOTEL - y axis (virtual)
 NOTEZ - z axis (virtual)
 
 ROTE - axis
-ROTEK - x axis
+ROTEX - x axis
 ROTEL - y axis
 ROTEZ - z axis
 
 DOTE - matrix
-DOTEK - facing matrix (roll)
+DOTEX - facing matrix (roll)
 DOTEL - lateral matrix (yaw)
 DOTEZ - vertical matrix (pitch)

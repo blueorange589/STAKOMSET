@@ -33,20 +33,20 @@ NORE RIKAKIR (path just at right)
 
 controls
 ROTE - axis
-ROTEK - axis facing, (a.k.a roll axis)
+ROTEX - axis facing, (a.k.a roll axis)
 ROTEL - axis lateral, (a.k.a pitch axis)
 ROTEZ - axis up, (a.k.a yaw axis)
 
+ROTEX VA - pitch up
 ROTEL KA - yaw right
-ROTEK VA - pitch up
 ROTEZ KA - roll right
 
 
 DOTE - matrix
-DOTEK - facing matrix (roll)
+DOTEX - facing matrix (roll)
 DOTEL - lateral matrix (yaw)
 DOTEZ - vertical matrix (pitch)
 
-DOTEK KA - roll right
+DOTEX KA - roll right
 DOTEL DA - yaw left
 DOTEZ FA - pitch down
