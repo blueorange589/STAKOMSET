@@ -44,14 +44,14 @@ PÖTÖ - convex, exponential increase
 
 reference
 RAS - start, center, switch on, origin, straight, exact
-KAS - radius, direct, arrow, direction, range
-TAS - area, indirect, inclusion, in order, controlled, inside, in possession, amongst,  non-straight
+KAS - radius, direct, arrow, direction, range, controlled
+TAS - area, indirect, inclusion, in order, inside, in possession, amongst, non-straight
 TÜS - angle, part, slice, divide, split, ratio, dividends
 ITÜS - relative, subjective
 SAS - volume
 VAS - end, borders, edges, circumference, switch off, destination
 DAS - size, dimension
-FAS - out, free, exclusion, expire
+FAS - out, free, exclusion, expire, non-controlled
 
 
 TASKI - padding

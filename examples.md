@@ -23,8 +23,8 @@ RIVAKIR (just above, floating)
 RIVAKIK (near above)
 RIVAKIS (way above)
 
-RIDAKIN (on left next to it)
-RIDAKIT (on left, ideal distance)
+RISAKIN (on left next to it)
+RISAKIT (on left, ideal distance)
 
 KUN NIXIKA SUNA, KUN NIXÜNA RÜNAS, ROS KUN NIXFÖRANS
 
@@ -55,7 +55,7 @@ KUN AXIN KEVEM POMIA
 SIROS POMIAS
 POMIAS DIPAT
 MERA INA POMIA
-POMIA AT MERA
+POMIA ET MERA
 
 EXA MIPER POMIA? (weight)
 EXA SAS POMIA? (number, count, amount)
