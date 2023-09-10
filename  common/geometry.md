@@ -17,6 +17,7 @@ ATEMLINÜ - grid of triangles
 
 UN - circle
 UNA - ball, sphere
+ÜNA - ball rotating
 
 
 IKA KELIS - copy shape
@@ -24,6 +25,7 @@ DIPAT KELIS - increase size of shape
 INA KELIS - draw shape
 AVA KELIS - new shape
 ÜNA KELIS - rotate shape
+KELIS ÜNA - shape rotating
 ÜNAKA - rotate right
 ÜNA DA - rotate upside down
 KELISATE - ruler
