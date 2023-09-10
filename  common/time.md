@@ -22,7 +22,7 @@ KÜNEVAS - evening
 UNRAS - wakeup
 UNVAS - sleep
 
-SUNAFA - sunset
+SUNA DA - sunset
 SUNAVA - sunrise
 
 ROLÜNA - full moon

@@ -69,8 +69,8 @@ SIPAT - increasing count
 SIPAN - decreasing count
 UNPAT - seperation, tension, voltage, injury
 UNPAN - unification, healing
-UFA - upside down 
-UDA - rightside left
+UDA - upside down 
+USA - rightside left
 UTA - inverse
 ARKSIX - cathode 
 ARKNIX - anode

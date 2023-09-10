@@ -25,7 +25,7 @@ INA KELIS - draw shape
 AVA KELIS - new shape
 ÜNA KELIS - rotate shape
 ÜNAKA - rotate right
-ÜNAFA - rotate upside down
+ÜNA DA - rotate upside down
 KELISATE - ruler
 
 

@@ -1,4 +1,4 @@
-UT VIFA ELIT UN VIVA
+UT VI DA ELIT UN VIVA
 
 TIX KIVAS UN SINAR
 
@@ -21,7 +21,7 @@ AVA FÖRI EN MÜNA
 RIVAKIN (on top of it)
 RIVAKIR (just above, floating)
 RIVAKIK (near above)
-RIVAKID (way above)
+RIVAKIS (way above)
 
 RIDAKIN (on left next to it)
 RIDAKIT (on left, ideal distance)

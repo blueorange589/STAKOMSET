@@ -3,20 +3,20 @@ NA - on/at
 RA - fore
 KA - right
 TA - back
-DA - left
+SA - left
 VA - up
-FA - down
+DA - down
 
 directions
 ORA - west
 OKA - north
 OTA - east
-ODA - south
+OSA - south
 
 ORAK - northwest (12) frontright
-ORAD - southwest (14) frontleft
+ORAS - southwest (14) frontleft
 OTAK - northeast (32) backright
-OTAD - southeast (34) backleft
+OTAS - southeast (34) backleft
 
 NORA - westward
 VORA - moving westward (track)
@@ -33,9 +33,9 @@ ES - facing
 ESRA - facing front
 ESKA - facing right
 ESTA - facing back
-ESDA - facing left
+ESSA - facing left
 ESVA - facing up
-ESFA - facing down
+ESDA - facing down
 
 NORA - direction of journey (london)
 ESIL - heading (350)
@@ -52,7 +52,7 @@ ROTEZ - axis up, (a.k.a yaw axis)
 
 ELIN ROTEL - horizontally aligned
 ROTEZ - standing up
-ROTEZ FA - upside down
+ROTEZ  DA - upside down
 ROTEZ KOT - upside inversed
 ROTEZ KA DOT - collapsed to right
 

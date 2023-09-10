@@ -26,7 +26,7 @@ ELIN NORE (on path)
 
 RIVAKIR NORE (just above path)
 RIVAKIK NORE (near above path)
-RIVAKID NORE (way above path)
+RIVAKIS NORE (way above path)
 
 RIDAKIR NORE (on left next to path)
 NORE RIKAKIR (path just at right)
@@ -49,4 +49,4 @@ SOTEZ - vertical matrix (pitch)
 
 SOTEX KA - roll right
 SOTEL DA - yaw left
-SOTEZ FA - pitch down
+SOTEZ  DA - pitch down
