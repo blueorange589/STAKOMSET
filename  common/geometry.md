@@ -20,7 +20,7 @@ UNA - ball, sphere
 
 
 IKA KELIS - copy shape
-IKA KELIS DI - increase size of shape
+DIPAT KELIS - increase size of shape
 INA KELIS - draw shape
 AVA KELIS - new shape
 ÜNA KELIS - rotate shape
