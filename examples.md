@@ -12,9 +12,9 @@ SINAR RIVA LUXOR (will over perfection)
 
 AVA FÖRI EN MÜNA
 
-- FÖRAK ENA
+- FÖRAK FENA
 - EXATA EXAT?
-- ISA RASFERA OKO, ENAT MANITOU
+- ISA RASFERA OKO, FENAT MANITOU
 
 (A LIT B) ARTO MÜN UKO
 
@@ -22,7 +22,9 @@ RIVAKIN (on top of it)
 RIVAKIR (just above, floating)
 RIVAKIK (near above)
 RIVAKID (way above)
+
 RIDAKIN (on left next to it)
+RIDAKIT (on left, ideal distance)
 
 KUN NIXIKA SUNA, KUN NIXÜNA RÜNAS, ROS KUN NIXFÖRANS
 
