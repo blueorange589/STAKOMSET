@@ -15,6 +15,7 @@ ZEF - in excess quality
 ASEN - non-aesthetic
 ASER - aesthetic
 
+SIRE - minus amount, borrowed
 SIN - no amount, empty
 SIR - at minimum
 SIK - low on
@@ -24,6 +25,7 @@ SIV - limit, max. amount
 SIF - in excess
 SIB - leak
 
+KIRE - minus distance, pressure
 KIN - no distance
 KIR - at start
 KIK - close
@@ -50,6 +52,7 @@ VIV - moving at limits
 VIF - excessive movement
 VIB - wrong move
 
+LIRE - minus temperature
 LIN - no temperature 
 LIR - lower limit
 LIK - cold
@@ -68,7 +71,7 @@ MIV - weight on limit
 MIF - excess weight
 MIB - wrong measured 
 
-DIN - no dimension
+DIN - no size
 DIR - on minimum size
 DIK - small
 DIT - on ideal size

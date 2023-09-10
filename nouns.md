@@ -10,11 +10,11 @@ PROXIT - algorithm
 PROXITA - solve
 PROXIO - problems
 
-KITE - pressure
-KITEN - hit 
-KITENÖ - crash, break
-KITENAR - kite  
-KITENARO - kites
+KIRE - pressure
+KIREN - hit 
+KIRENÖ - crash, break
+KIRENAR - kite  
+KIRENARO - kites
 
 INIT - exchange
 INITA - money

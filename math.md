@@ -46,8 +46,6 @@ ULAS FEKEM - (62/10) 6.2
 
 PEDEM UMAS DEREM - 84.41
 
-
-
 REMI - first
 KEMI - second
 TEMI - third
@@ -56,11 +54,13 @@ TEKEMI - 32th
 
 
 operators
-ARTA - plus, sum
-ARTE - minus, subtract
-ARTÖ - times, multiply
-ARTÜ - divide, split
+PERA - plus, sum
+PERE - minus, subtract
+PERÖ - times, multiply
+PERÜ - divide, split
 
+RA - positive num.
+RE - negative num.
 
 
 
