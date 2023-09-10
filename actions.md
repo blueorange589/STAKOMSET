@@ -82,16 +82,16 @@ ITARUT = screw
 
 -----
 
-IDA = remove, lessen, decrease, slow, cool, lighten, drain, pull, discharge
-IDARE = removed
-IDARI = being removed
-IDARO = will be removed
-IDAT = collector, barber
-IDATE = drain
-IDAN = barber shop
+ISA = remove, lessen, decrease, slow, cool, lighten, drain, pull, discharge
+ISARE = removed
+ISARI = being removed
+ISARO = will be removed
+ISAT = collector, barber
+ISATE = drain
+ISAN = barber shop
 
-IDALIS - scissor
-IDAVOS - lift vehicle
+ISALIS - scissor
+ISAVOS - lift vehicle
 ------
 
 -----
@@ -113,13 +113,13 @@ IVAN = place to split it
 
 -----
 
-IFA = to regulate, stabilize, tie, connect
-IFARE = stabilized
-IFARI = being stabilized
-IFARO = will be stabilized
-IFAT = person to stabilize it
-IFATE = instrument to stabilize it
-IFAN = place to stabilize it
+IDA = to regulate, stabilize, tie, connect
+IDARE = stabilized
+IDARI = being stabilized
+IDARO = will be stabilized
+IDAT = person to stabilize it
+IDATE = instrument to stabilize it
+IDAN = place to stabilize it
 ------
 
 
