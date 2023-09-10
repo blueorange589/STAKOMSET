@@ -70,10 +70,6 @@ SIPAN - decreasing count
 UNPAT - seperation, tension, voltage, injury
 UNPAN - unification, healing
 
-IXOT - frontside back
-ILOT - rightside left
-IZOT - upside down 
-INOT - inverse
 
 ROS - less
 VOS - more

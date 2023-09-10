@@ -56,5 +56,11 @@ ROTEZ  DA - upside down
 ROTEZ KOT - upside inversed
 ROTEZ KA DOT - collapsed to right
 
+reversing, objects with no face
+IXOT - frontside back
+ILOT - rightside left
+IZOT - upside down 
+INOT - inverse
+
 
 
