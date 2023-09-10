@@ -53,7 +53,8 @@ DITEMÖK - nightmare
 DITEMI - funny
 DITI - fictious
 DITIM - make up
-DITIN - movie, play
+DITIN - script
+DITINU - premade play, movie
 DITIX - lost
 DITO - illness
 DITOS - disease
