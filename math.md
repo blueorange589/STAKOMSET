@@ -44,7 +44,7 @@ decimals
 ÜMAS DEKEM - (62/100) 0.62
 ÜLAS DEKEM - (62/10) 6.2
 
-PESEM UMAS SEREM - 84.41
+PESEM ÜMAS SEREM - 84.41
 
 REMI - first
 KEMI - second
