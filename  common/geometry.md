@@ -36,18 +36,21 @@ DO - quarter
 ROT - in line
 KOT - 180
 DOT - perpendicular 
+NOT - no angle
 TUS - angle
 
+NOTE - virtual
 
 ES - facing
 EL - right-left
 EM - top-down
 
+ROTE - axis
 ROTES - x axis
 ROTEL - y axis
 ROTEM - z axis
 
-ROTEX - matrix
-ROTEXA - facing matrix (roll)
-ROTEXE - lateral matrix (yaw)
-ROTEXI - vertical matrix (pitch)
+DOTE - matrix
+DOTES - facing matrix (roll)
+DOTEL - lateral matrix (yaw)
+DOTEM - vertical matrix (pitch)
