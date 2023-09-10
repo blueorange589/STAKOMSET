@@ -50,7 +50,7 @@ TÜS - angle, part, slice, divide, split, ratio, dividends
 ITÜS - relative, subjective
 SAS - volume
 VAS - end, borders, edges, circumference, destination, skin, cover, switch off
-DAS - size, dimension
+DAS - size, dimension, entire, whole
 FAS - out, free, exclusion, expire, non-controlled
 
 
