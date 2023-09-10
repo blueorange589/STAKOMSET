@@ -16,6 +16,7 @@ ADEMLINÜ - grid
 ATEMLINÜ - grid of triangles 
 
 UN - circle
+UNA - ball, sphere
 
 
 IKA KELIS - copy shape
