@@ -61,14 +61,7 @@ VINIX - static, stationary
 KINIX - touching, meet, agreement
 KIKAS - remote controlled
 KIKASI - remote controller
-KIPAT - getting away
-KIPAN - getting closer
-DIPAT - expansion, grow
-DIPAN - shrink
-SIPAT - increasing count
-SIPAN - decreasing count
-UNPAT - seperation, tension, voltage, injury
-UNPAN - unification, healing
+
 
 
 ROS - less

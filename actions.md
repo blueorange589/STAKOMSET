@@ -113,11 +113,17 @@ ENAS - to receive
 ENAK - to gather, collect
 ENAT - to buy
 
-
-
 ILA - to compare, measure
 ISI - to seed, fertilize
 ISA - to replace
 ------
 
-
+actions happening itself, no interference
+KIPAT - getting away
+KIPAN - getting closer
+DIPAT - expansion, grow
+DIPAN - shrink
+SIPAT - increasing count
+SIPAN - decreasing count
+UNPAT - seperation, tension, voltage, injury
+UNPAN - unification, healing
