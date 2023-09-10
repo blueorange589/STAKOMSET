@@ -35,18 +35,18 @@ controls
 ROTE - axis
 ROTES - axis facing, (a.k.a roll axis)
 ROTEL - axis lateral, (a.k.a pitch axis)
-ROTEM - axis up, (a.k.a yaw axis)
+ROTEZ - axis up, (a.k.a yaw axis)
 
 ROTEL KA - yaw right
 ROTES VA - pitch up
-ROTEM KA - roll right
+ROTEZ KA - roll right
 
 
 DOTE - matrix
 DOTES - facing matrix (roll)
 DOTEL - lateral matrix (yaw)
-DOTEM - vertical matrix (pitch)
+DOTEZ - vertical matrix (pitch)
 
 DOTES KA - roll right
 DOTEL DA - yaw left
-DOTEM FA - pitch down
+DOTEZ FA - pitch down
