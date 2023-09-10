@@ -50,7 +50,7 @@ ROTES - axis facing, (a.k.a roll axis)
 ROTEL - axis lateral, (a.k.a pitch axis)
 ROTEM - axis up, (a.k.a yaw axis)
 
-LIN ROTEL - horizontally aligned
+ELIN ROTEL - horizontally aligned
 ROTEM - standing up
 ROTEM KOT - upside down
 ROTEM KA DOT - collapsed to right

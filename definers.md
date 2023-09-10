@@ -30,12 +30,12 @@ ON - group belongs to
 OT - other group
 
 relation
-LIR - has relation
-LIN - parallel, equal, synchronized, aligned
-LIT - non-parallel, inequal, non-aligned
-LIS - crossing, conflicting, similar, in conjunction, common
-LIM - between
-LIZ - non-related
+ELIR - has relation
+ELIN - parallel, equal, synchronized, aligned
+ELIT - non-parallel, inequal, non-aligned
+ELIS - crossing, conflicting, similar, in conjunction, common
+ELIM - between
+ELIZ - non-related
 
 PAN - parallax in, decreasing 
 PAT - parallax out, increasing
@@ -84,4 +84,4 @@ VUS - upper limit of
 
 NAT - reverse, undo
  
-LIMVI - pause, break, error, interruption, interference
+ELIMVI - pause, break, error, interruption, interference

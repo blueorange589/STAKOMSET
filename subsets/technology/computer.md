@@ -22,7 +22,7 @@ AXARAS - launch
 AXAVAS - close
 KAS - click
 KUKAS - double click
-LIMVIT - error
+ELIMVIT - error
 
 FÖRARAS - power on
 FÖRAVAS - power off

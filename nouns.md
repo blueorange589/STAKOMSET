@@ -69,9 +69,9 @@ VASIKAN - guard, policeman, soldier
 
 
 
-LINRAS - focus, lineup
-LINRASI - eyeglass, zoom, startbox
-LITRAS - peripheral 
+ELINRAS - focus, lineup
+ELINRASI - eyeglass, zoom, startbox
+ELITRAS - peripheral 
 
 INRAS - input, inlet, entry
 ITRAS - output, outlet, exit

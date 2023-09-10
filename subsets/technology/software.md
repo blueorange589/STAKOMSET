@@ -1,6 +1,6 @@
 IZA - execute
 
-LIMIZAT - error
+ELIMIZAT - error
 AXINIZA - reason of error
 
 IZATIBA - debugging
