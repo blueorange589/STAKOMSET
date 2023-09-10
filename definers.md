@@ -48,8 +48,9 @@ KAS - radius, direct, arrow, direction, range
 TAS - area, indirect, inclusion, in order, controlled, inside, in possession, amongst,  non-straight
 TÜS - angle, part, slice, divide, split, ratio, dividends
 ITÜS - relative, subjective
-DAS - volume, dimensions
+SAS - volume, dimensions
 VAS - end, borders, edges, circumference, switch off, destination
+DAS - size, dimension
 FAS - out, free, exclusion, expire
 
 
