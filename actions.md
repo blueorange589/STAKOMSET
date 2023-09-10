@@ -27,10 +27,14 @@ FERATA = method to break it
 FERATE = instrument to break it
 ------
 
+
 -----
 
 IRA = to produce, create, draw, compose
 ------
+# meaning by the context. 
+# IRA VISÜNA - to compose a song
+# IRA "CAKE" - to prepare a cake
 
 -----
 
@@ -91,13 +95,15 @@ IBASI - found
 ------
 
 ÜNA - to rotate
-ISA - to replace
+
 
 ETA - to handout, leave, seperate
 ETAP - to give
 ETAS - to send, transfer
 ETAK - to share
 ETAT - to sell
+ETÖM - to throw
+ETÖN - to shoot
 
 ENA - to obtain
 ENAP - to take
@@ -105,10 +111,11 @@ ENAS - to receive
 ENAK - to gather, collect
 ENAT - to buy
 
-ITÖ - to throw, shoot
+
+
 ILA - to compare, measure
 ISI - to seed, fertilize
-
+ISA - to replace
 ------
 
 
