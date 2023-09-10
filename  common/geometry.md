@@ -8,7 +8,7 @@ AVEM - tetragon
 KELIS - shape
 FELIS - freeshape
 
-AKEM LISOKU - many lines crossing one
+AKEM ELIS OKU - many lines crossing one
 
 ASEMLIN - square
 ASEMLIT - rectangle 
@@ -21,12 +21,14 @@ UNA - ball, sphere
 
 
 IKA KELIS - copy shape
-DIPAT KELIS - increase size of shape
+SIVA KELIS - increase size of shape
 INA KELIS - draw shape
 AVA KELIS - new shape
+
 ÜNA KELIS - rotate shape
 KELIS ÜNA - shape rotating
-ÜNAKA - rotate right
+
+ÜNA KA - rotate right
 ÜNA DA - rotate upside down
 KELISATE - ruler
 
