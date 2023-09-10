@@ -3,7 +3,7 @@ VI - movement
 RI - positioning
 KI - length, distance 
 TI - time
-SI - count, amount
+SI - count, quantity
 DI - size, volume
 MI - weight
 LI - temperature
