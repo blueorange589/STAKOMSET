@@ -38,7 +38,7 @@ INA = to destroy, get rid of, clean up, nullify
 ------
 
 # increment
-IVA = add, increase, copy, push
+IVA = add, increase
 SIVA = to fill
 LIVA = to heat
 TIKIVA = to expedite
@@ -52,15 +52,13 @@ LITÖNIVAN = gas station
 # IVA KELIS - copy the shape
 # LIVA "CAKE" - bake a cake
 
-
 # lessen
-IDA = remove, decrease, consume
+IDA = remove, decrease
 SIDA - to drain
 LIDA - to cool
 TIKIDA - to slow
 ZIDA - to discharge
 MIDA - to lighten
-KIDA - to pull
 
 IDALIS - scissor (cross reducer)
 IDAVOS - lift vehicle
@@ -119,18 +117,22 @@ ENAP - to take
 ENAS - to receive
 ENAK - to gather, collect
 ENAT - to buy
+ENODA - to pull
 
 ETA - to handout, leave
 ETAP - to give
 ETAS - to send, transfer
 ETAK - to share
 ETAT - to sell
+ETODA - to push
 ETÖM - to throw
 ETÖN - to shoot
 --------
 
 # other actions
 ÜNA - to rotate
+ASÖ - to copy
+ASÖN - copy, imitation
 ILA - to compare, measure
 ISI - to seed, fertilize
 IPA - to replace
@@ -138,7 +140,7 @@ IPA - to replace
 
 # actions fun
 IFA - to have fun
-IFAM = to eat
+IFAM = to eat, consume
 IFAS - to listen music
 IFAV - to watch movie
 IFAK - to play game

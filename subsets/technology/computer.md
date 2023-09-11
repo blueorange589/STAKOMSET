@@ -1,10 +1,10 @@
 ARTATEK - computer
 
 KASATE - mouse
-ENATE - keyboard
+ISATE - keyboard
 RUXAT - monitor
 KAB - case
-FÖRA IKATE - power supply
+FÖRA ISATE - power supply
 
 VITATE - processor
 ATAK - RAM
@@ -12,10 +12,10 @@ ATAK - RAM
 AREM - data
 AREMKAB - harddisk, storage
 AREMTAS - stored data
-IKA AREM - save data
-AREM IKASI - saved successfully
-IRATE - trash
-AREM IRASI - deleted successfully
+IVA AREM? - save data?
+AREM IVASI - saved successfully
+INATE - trash
+AREM INASI - deleted successfully
 
 AXA - program, software
 AXARAS - launch
@@ -33,7 +33,7 @@ AREMEN - data being downloaded
 IMAS AREM - send data (upload)
 AREMET - data being uploaded
 KASRI - progress (%)
-IZATE - transfer software
+ETATE - transfer software
 
 DIPAN - window shrink, minimize
 
@@ -45,5 +45,5 @@ IKA NODOT? - save to remote?
 IKA NODOT ASI - saved remote successfully
 UNKAB - local storage
 
-AVA VISÜNA - upcoming song
+AVA VISÜNA - next song
 VISÜN AVAN - songs in queue
