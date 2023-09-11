@@ -1,1 +1,1 @@
-TIKIKÜ - momentum
+TIKIKÜ - acceleration

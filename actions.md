@@ -110,24 +110,9 @@ IBASI - found
 ------
 
 
-# actions fun
------
-
-IZAM = to eat
-IZAS - to listen music
-IZAV - to watch movie
-IZAK - to play game
-IZAF - sportive activities
-IZAFI - fitness
-IZAFA - hiking
-IZAL - to travel, sightseeing
-------
-
-
 ------
 
 ÜNA - to rotate
-
 
 ETA - to handout, leave, seperate
 ETAP - to give
@@ -147,6 +132,20 @@ ILA - to compare, measure
 ISI - to seed, fertilize
 ISA - to replace
 ------
+
+# actions fun
+-----
+
+IZAM = to eat
+IZAS - to listen music
+IZAV - to watch movie
+IZAK - to play game
+IZAF - sportive activities
+IZAFI - fitness
+IZAFA - hiking
+IZAL - to travel, sightseeing
+------
+
 
 actions happening itself, no interference
 KIPAT - getting away
