@@ -72,6 +72,8 @@ DAS - unified
 DASA - to merge, join
 DÜS - parted
 DÜSA = to seperate, split, branch, slice
+DÖS - copy
+DÖSA - to copy
 ------
 MÜNASA DÜSATE - fruit slicer
 
@@ -144,8 +146,6 @@ ETÖN - to shoot
 
 ### other actions
 ÜNA - to rotate
-ASÖ - to copy
-ASÖN - copy, imitation
 ILA - to compare, measure
 ISI - to seed, fertilize
 IPA - to replace
