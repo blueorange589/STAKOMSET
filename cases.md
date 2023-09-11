@@ -10,7 +10,7 @@ ZENIX - no quality, useless
 ZENIR - quality at minimum
 ZENIK - low on
 ZENIT - average
-ZENIS - high on
+ZENISA - high on
 ZENIVA - max. quality
 ZENIF - in excess quality
 

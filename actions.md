@@ -35,7 +35,7 @@ FERANI = failed to launch
 
 ### creation / annihilation
 KIR - exist
-KIRA = to produce, create, draw, compose
+KIRA = to produce, create, draw, compose, build
 KIN - not exist
 KINA - to destroy, get rid of, clean up, nullify
 ------
@@ -118,8 +118,9 @@ PAVA = to end, finalize, finish, complete
 
 ### outcomes qualities
 ZENIX - no quality, poor
-ZENIR - has quality, average
-ZENIT - excellent
+ZENIR - poor
+ZENIT - average
+ZENISA - excellent
 ZENIVA - top class
 ------
 
