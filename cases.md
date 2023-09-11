@@ -6,13 +6,13 @@ AFEN - broken
 FER - running
 AFER - not running
 
-ZEN - no quality, useless
-ZER - quality at minimum
-ZEK - low on
-ZET - average
-ZES - high on
-ZEV - max. quality
-ZEF - in excess quality
+ZENIX - no quality, useless
+ZENIR - quality at minimum
+ZENIK - low on
+ZENIT - average
+ZENIS - high on
+ZENIVA - max. quality
+ZENIF - in excess quality
 
 ASEN - non-aesthetic
 ASER - aesthetic

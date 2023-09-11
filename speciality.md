@@ -2,7 +2,7 @@ speciality
 NE - color
 ME - age
 PE - role
-ZE - quality
+ZENI - quality
 
 
 dual cases
