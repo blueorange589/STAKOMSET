@@ -1,3 +1,5 @@
+IAP - action
+
 ### functioning / break
 AFEN = broken                    EXRAS?
 AFENA = to break
@@ -77,7 +79,7 @@ DOSA - to group
 DÖS - copy
 DÖSA - to copy
 ------
-MÜNASA DÜSATE - fruit slicer
+* MÜNASA DÜSATE - fruit slicer
 
 ### control / release
 KAS - controlled
@@ -87,8 +89,9 @@ AKASA - release
 
 KASE - to redirect
 KASI - to point
+KASU - to press, hit
 ------
-UNER KASATE - circuit regulator
+* UNER KASATE - circuit regulator
 
 ### provide / consume
 ISA - to provide, supply, input, feed
@@ -153,17 +156,19 @@ ISI - to seed, fertilize
 IPA - to replace
 ------
 
-### actions fun
+### activities
 IFA - to have fun
-IFAM = to eat
-IFAS - to listen music
-IFAV - to watch movie
-IFAK - to play game
-IFAL - to travel, sightseeing
-IFE - to do sports
-IFEM - to do fitness
-IFEL - hiking
-IFET - cycling
+IEMA = to eat
+IESA - to listen music
+IELA - to watch movie
+IEFA - to play game
+IEKA - to travel, sightseeing
+IETA - to do sports
+IETAK - fitness
+IETAM - hiking
+IETAL - cycling
+IETES - soccer
+IETEF - tennis
 ------
 
 
@@ -176,3 +181,8 @@ SIPAT - increasing count
 SIPAN - decreasing count
 UNPAT - seperation, tension, voltage, injury
 UNPAN - unification, healing
+
+
+
+place
+write/type/input

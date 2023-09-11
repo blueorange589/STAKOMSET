@@ -21,10 +21,10 @@ INITA - money
 INITAM - currency
 
 
-LITÖ - energy
-LITÖN - oil
-LITÖNAR - benzine 
-LITÖNAM - kerosene
+ZITÖ - energy
+ZITÖN - oil
+ZITÖNAR - benzine 
+ZITÖNAM - kerosene
 FÖRAK - engine
 RASFERA - igniter, lighter
 VINASI - brakes
