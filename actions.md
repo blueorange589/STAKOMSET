@@ -116,6 +116,13 @@ PASI - to continue, resume
 PAVA = to end, finalize, finish, complete
 ------
 
+### outcomes qualities
+ZENIX - no quality, poor
+ZENIR - has quality, average
+ZENIT - excellent
+ZENIVA - top class
+------
+
 ### in/out
 ENA - to obtain
 ENAP - to take
