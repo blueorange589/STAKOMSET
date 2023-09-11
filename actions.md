@@ -105,13 +105,13 @@ IBASI - found
 ------
 
 ### process
-PARA - to begin
-PARE - to start over
+PASA - to begin
+PASE - to start over
 PAKA - to reverse
 PAKO - to undo
 PAKU - to replay
 PAPA - to interrupt
-PASA - to continue, resume
+PASI - to continue, resume
 PAVA = to end, finalize, finish, complete
 ------
 
