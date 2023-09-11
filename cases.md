@@ -1,8 +1,10 @@
 case built with measurement & speciality
 
 cases
+FEN - functioning
 AFEN - broken
-AFER - running
+FER - running
+AFER - not running
 
 ZEN - no quality, useless
 ZER - quality at minimum

@@ -84,11 +84,9 @@ IKAP - to point
 IKAS - to redirect
 ------
 
-
 # provide
 ISA - to provide, supply, input, feed
 -------
-
 
 # reversal
 ITA = to reverse
@@ -116,6 +114,12 @@ IZA = to end, finalize, finish, complete
 ------
 
 # in/out
+ENA - to obtain
+ENAP - to take
+ENAS - to receive
+ENAK - to gather, collect
+ENAT - to buy
+
 ETA - to handout, leave
 ETAP - to give
 ETAS - to send, transfer
@@ -123,12 +127,6 @@ ETAK - to share
 ETAT - to sell
 ETÖM - to throw
 ETÖN - to shoot
-
-ENA - to obtain
-ENAP - to take
-ENAS - to receive
-ENAK - to gather, collect
-ENAT - to buy
 --------
 
 # other actions

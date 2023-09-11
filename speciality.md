@@ -6,6 +6,7 @@ ZE - quality
 
 
 dual cases
-AFE - functioning
+FEN - functioning
+FER - running
 ASE - aesthetic
 AKE - privacy
