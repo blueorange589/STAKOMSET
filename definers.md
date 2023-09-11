@@ -1,4 +1,5 @@
 # predefiners 
+A - opposite (non)
 I - inverse
 BE - simple, easy, basic
 KE - complex, advanced
