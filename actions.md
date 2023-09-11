@@ -67,7 +67,7 @@ TIKIDA - to slow
 ZIVA = to charge
 ZIDA - to discharge
 
-### seperation / unification
+### seperation / unification / multiplication
 DAS - unified
 DASA - to merge, join
 DÜS - parted
