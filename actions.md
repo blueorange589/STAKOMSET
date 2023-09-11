@@ -1,6 +1,10 @@
-# repair
+# functioning / break
 AFEN = broken                    EXRAS?
+AFENA = to break
+
+FEN = functioning
 FENA = repair                    EXA?
+
 FENARE = repaired                
 FENARI = being repaired          EXARI?
 FENARO = will be repaired        
@@ -12,9 +16,13 @@ FENASI = repair success          EXASI?
 FENANI = repair fail             EXANI?
 ------
 
-# launch
+# launch / stop
 AFER = not running
+AFERA = to stop, halt, switch off
+
+FER = running
 FERA = to start, launch, ignite
+
 FERARE = started
 FERARI = starting up
 FERARO = will be started
@@ -25,17 +33,15 @@ FERASI = launched successfully
 FERANI = failed to launch
 ------
 
-# creation
-IRA = to produce, create, draw, compose
+# creation / annihilation
+KIR - exist
+KIRA = to produce, create, draw, compose
+AKIR - not exist
+AKIRA - to destroy, get rid of, clean up, nullify
 ------
 # meaning by the context. 
-# IRA VISÜNA - to compose a song
-# IRA "CAKE" - to prepare a cake
-
-
-# annihilation
-INA = to destroy, get rid of, clean up, nullify
-------
+# KIRA VISÜNA - to compose a song
+# KIRA "CAKE" - to prepare a cake
 
 # increment
 IVA = add, increase
@@ -64,23 +70,26 @@ IDALIS - scissor (cross reducer)
 IDAVOS - lift vehicle
 ------
 
-# seperation
+# seperation / unification
+IVUM - unified
+IVU - to merge, join
+IDÜM - parted
 IDÜ = to seperate, split, branch, slice
+
 ... IDÜN - trash recycling factory
 MÜNASA IDÜTE - fruit slicer
 ------
 
-# unification
-IVU = to merge, join
-IVUSER - glue
-IVURUT = screw
-------
+# control / release
+AKAS - uncontrolled
+AKASA - release
+KAS - controlled
+KASA - to control, manage, direct, regulate, stabilize
 
-# control
-IKA = to control, manage, direct
-IKAP - to point
-IKAS - to redirect
+KASE - to redirect
+KASI - to point
 ------
+UNER KASATE - circuit regulator
 
 # provide
 ISA - to provide, supply, input, feed
@@ -93,12 +102,13 @@ ITAP - to replay
 ITAR - to start over
 ------
 
-# connect
-ODA = to regulate, stabilize, tie, connect
-ODAP - to hang
+# connect / disconnect
+ANOD - disconnected
+ANODA - to disconnect
+NOD - connected
+NODA - to tie, connect
+NODE - to hang
 
-... ODAT - traffic police
-UNER ODATE - circuit regulator
 NODATE - router
 ------
 
@@ -107,8 +117,12 @@ IBA = to search, seek
 IBASI - found
 ------
 
-# finalize
-IZA = to end, finalize, finish, complete
+# process
+PARA - to start
+PARE - to restart
+PATA - to continue, resume
+PAPA - to interrupt
+PAVA = to end, finalize, finish, complete
 ------
 
 # in/out
