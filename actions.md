@@ -61,6 +61,7 @@ LIDA - to cool
 ### expedite / slow
 TIKIVA = to expedite
 TIKIDA - to slow
+* TIKIDATE : brakes
 
 ### charge / discharge
 ZIVA = to charge
