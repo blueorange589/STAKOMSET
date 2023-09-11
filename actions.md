@@ -44,8 +44,13 @@ KINA - to destroy, get rid of, clean up, nullify
 # KIRA "CAKE" - to prepare a cake
 
 # increment / decrement
-SIDA - to remove, decrease, drain
-SIVA - to add, increase, fill
+IDA - to decrease
+IVA - to increase
+# IVA "opacity"
+
+# add / remove
+SIDA - to remove, drain
+SIVA - to add, fill
 
 # heat / cool
 LIVA = to heat
@@ -59,9 +64,6 @@ TIKIDA - to slow
 # charge / discharge
 ZIVA = to charge
 ZIDA - to discharge
-
-# lessen
-MIDA - to lighten
 
 IDALIS - scissor (cross reducer)
 IDAVOS - lift vehicle
