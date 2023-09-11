@@ -67,15 +67,9 @@ KINIX - touching, meet, agreement
 KIKAS - remote controlled
 KIKASI - remote controller
 
-
-
 ROS - less
 VOS - more
 RÖS - very least
 VÖS - very much
 RUS - lower limit of 
 VUS - upper limit of
-
-NAT - reverse, undo
- 
-ELIMVI - pause, break, error, interruption, interference
