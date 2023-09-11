@@ -132,6 +132,11 @@ IBA = to search, seek
 IBASI - found
 ------
 
+-----
+
+IZA = to end, finalize, finish, complete
+------
+
 
 ------
 
