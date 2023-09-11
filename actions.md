@@ -76,18 +76,19 @@ DÜSA = to seperate, split, branch, slice
 MÜNASA DÜSATE - fruit slicer
 
 # control / release
-AKAS - uncontrolled
-AKASA - release
 KAS - controlled
 KASA - to control, manage, direct, regulate, stabilize
+AKAS - uncontrolled
+AKASA - release
 
 KASE - to redirect
 KASI - to point
 ------
 UNER KASATE - circuit regulator
 
-# provide
+# provide / consume
 ISA - to provide, supply, input, feed
+IKA - to consume
 -------
 
 # reversal
@@ -149,7 +150,7 @@ IPA - to replace
 
 # actions fun
 IFA - to have fun
-IFAM = to eat, consume
+IFAM = to eat
 IFAS - to listen music
 IFAV - to watch movie
 IFAK - to play game
