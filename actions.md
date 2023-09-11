@@ -8,8 +8,8 @@ FENARE = repaired
 FENARI = being repaired          EXARI?
 FENARO = will be repaired        
 FENAT = repairman, engineer      EXAT?
-FENATE = repair tool             EXATE?
 FENATA = repair method, process  EXATA?
+FENATE = repair tool             EXATE?
 FENAN = garage, repair shop      EXAN?
 FENASI = repair success          EXASI?
 FENANI = repair fail             EXANI?
@@ -17,14 +17,15 @@ FENANI = repair fail             EXANI?
 
 -----
 
-AFER = functioning
-FERA = to break
-FERARE = broken
-FERARI = breaking up
-FERARO = will be broken
-FERAT = person to break it
-FERATA = method to break it
-FERATE = instrument to break it
+FERA = to start, launch, ignite
+FERARE = started
+FERARI = starting up
+FERARO = will be started
+FERAT = person to start it
+FERATA = method to start it
+FERATE = instrument to start it
+FERASI = launched successfully 
+FERANI = failed to launch
 ------
 
 
@@ -38,12 +39,17 @@ IRA = to produce, create, draw, compose
 
 -----
 
-INA = to destroy, get rid of, clean up, eat
+INA = to destroy, get rid of, clean up
 ------
 
 -----
 
-IVA = add, increase, copy, expedite, heat, fill, push, charge, feed
+IVA = add, increase, copy, push, feed
+SIVA = to fill
+LIVA = to heat
+TIKIVA = to expedite
+ZIVA = to charge
+
 
 IVA LITÖN = to fill gas
 LITÖNIVAT = pumpman
@@ -51,17 +57,25 @@ LITÖNIVATE = pump
 LITÖNIVAN = gas station
 ------
 # IVA KELIS - copy the shape
-# LITIVA "CAKE" - bake a cake
+# LIVA "CAKE" - bake a cake
 
 
 
 -----
 
-IDA = remove, lessen, decrease, slow, cool, lighten, drain, pull, discharge, consume
+IDA = remove, lessen, decrease, consume
+
+SIDA - to drain
+LIDA - to cool
+TIKIDA - to slow
+ZIDA - to discharge
+MIDA - to lighten
+KIDA - to pull
 
 IDALIS - scissor (cross reducer)
 IDAVOS - lift vehicle
 ------
+
 
 -----
 
@@ -83,6 +97,7 @@ MÜNASA IVÜTE - fruit slicer
 -----
 
 ODA = to regulate, stabilize, tie, connect
+ODAP - to hang
 
 ... ODAT - traffic police
 ------
@@ -93,6 +108,21 @@ ODA = to regulate, stabilize, tie, connect
 IBA = to search, seek
 IBASI - found
 ------
+
+
+# actions fun
+-----
+
+IZAM = to eat
+IZAS - to listen music
+IZAV - to watch movie
+IZAK - to play game
+IZAF - sportive activities
+IZAFI - fitness
+IZAFA - hiking
+IZAL - to travel, sightseeing
+------
+
 
 ------
 
