@@ -36,34 +36,31 @@ FERANI = failed to launch
 # creation / annihilation
 KIR - exist
 KIRA = to produce, create, draw, compose
-AKIR - not exist
-AKIRA - to destroy, get rid of, clean up, nullify
+KIN - not exist
+KINA - to destroy, get rid of, clean up, nullify
 ------
 # meaning by the context. 
 # KIRA VISÜNA - to compose a song
 # KIRA "CAKE" - to prepare a cake
 
-# increment
-IVA = add, increase
-SIVA = to fill
-LIVA = to heat
-TIKIVA = to expedite
-ZIVA = to charge
+# increment / decrement
+SIDA - to remove, decrease, drain
+SIVA - to add, increase, fill
 
-IVA LITÖN = to fill gas
-LITÖNIVAT = pumpman
-LITÖNIVATE = pump
-LITÖNIVAN = gas station
-------
-# IVA KELIS - copy the shape
-# LIVA "CAKE" - bake a cake
+# heat / cool
+LIVA = to heat
+LIDA - to cool
+# LIVA "CAKE" : bake the cake
+
+# expedite / slow
+TIKIVA = to expedite
+TIKIDA - to slow
+
+# charge / discharge
+ZIVA = to charge
+ZIDA - to discharge
 
 # lessen
-IDA = remove, decrease
-SIDA - to drain
-LIDA - to cool
-TIKIDA - to slow
-ZIDA - to discharge
 MIDA - to lighten
 
 IDALIS - scissor (cross reducer)
@@ -71,14 +68,12 @@ IDAVOS - lift vehicle
 ------
 
 # seperation / unification
-IVUM - unified
-IVU - to merge, join
-IDÜM - parted
-IDÜ = to seperate, split, branch, slice
-
-... IDÜN - trash recycling factory
-MÜNASA IDÜTE - fruit slicer
+DAS - unified
+DASA - to merge, join
+DÜS - parted
+DÜSA = to seperate, split, branch, slice
 ------
+MÜNASA DÜSATE - fruit slicer
 
 # control / release
 AKAS - uncontrolled
