@@ -49,7 +49,7 @@ TAS - area, indirect, inclusion, in order, inside, in possession, amongst, non-s
 TÜS - angle, part, slice, divide, split, ratio, dividends
 ITÜS - relative, subjective
 SAS - volume
-VAS - end, borders, edges, circumference, destination, skin, cover, switch off
+VAS - end, borders, edges, circumference, destination, skin, cover, switch off, peak, apex
 DAS - size, dimension, entire, whole
 FAS - out, free, exclusion, expire, non-controlled
 PAS - process
