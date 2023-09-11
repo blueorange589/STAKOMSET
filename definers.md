@@ -1,4 +1,4 @@
-predefiners 
+# predefiners 
 I - inverse
 BE - simple, easy, basic
 KE - complex, advanced
@@ -13,7 +13,7 @@ PRE - before
 PRO - after 
 PER - measured
 
-dual cases
+# dual cases
 N - in
 T - out
 IN - match
@@ -29,7 +29,7 @@ UT - other
 ON - group belongs to
 OT - other group
 
-relation
+# relation
 ELIR - has relation
 ELIN - parallel, equal, synchronized, aligned, means
 ELIT - non-parallel, inequal, non-aligned
@@ -42,7 +42,7 @@ PAT - parallax out, increasing
 PÖNÖ - concave, exponential decrease
 PÖTÖ - convex, exponential increase
 
-reference
+# reference
 RAS - start, center, switch on, origin, straight, exact
 KAS - radius, direct, arrow, direction, range, controlled
 TAS - area, indirect, inclusion, in order, inside, in possession, amongst, non-straight

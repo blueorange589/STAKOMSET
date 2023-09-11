@@ -44,7 +44,7 @@ INA = to destroy, get rid of, clean up
 
 -----
 
-IVA = add, increase, copy, push, feed
+IVA = add, increase, copy, push
 SIVA = to fill
 LIVA = to heat
 TIKIVA = to expedite
@@ -76,6 +76,27 @@ IDALIS - scissor (cross reducer)
 IDAVOS - lift vehicle
 ------
 
+-----
+
+IKA = to control, manage, direct
+IKAP - to point
+IKAS - to redirect
+------
+
+------
+
+ISA - to provide, input, feed
+-------
+
+-----
+
+ITA = to reverse
+ITAL - to undo
+ITAP - to replay
+ITAR - to start over
+------
+
+
 
 -----
 
@@ -100,6 +121,8 @@ ODA = to regulate, stabilize, tie, connect
 ODAP - to hang
 
 ... ODAT - traffic police
+UNER ODATE - circuit regulator
+NODATE - router
 ------
 
 
@@ -136,18 +159,20 @@ ISA - to replace
 # actions fun
 -----
 
-IZAM = to eat
-IZAS - to listen music
-IZAV - to watch movie
-IZAK - to play game
-IZAF - sportive activities
-IZAFI - fitness
-IZAFA - hiking
-IZAL - to travel, sightseeing
+IFA - to have fun
+IFAM = to eat
+IFAS - to listen music
+IFAV - to watch movie
+IFAK - to play game
+IFAL - to travel, sightseeing
+IFE - to do sports
+IFEM - to do fitness
+IFEL - hiking
+IFET - cycling
 ------
 
 
-actions happening itself, no interference
+# actions happening itself, no interference
 KIPAT - getting away
 KIPAN - getting closer
 DIPAT - expansion, grow
