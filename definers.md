@@ -4,11 +4,13 @@ I - inverse
 BE - simple, easy, basic
 KE - complex, advanced
 
-ARA - new
-ATA - old
-AVA - next
-AVAN - in queue, upcoming
-ADA - previous
+ARA - future
+ARAN - in queue, upcoming
+ATA - past
+AKA - next
+ASA - previous
+AVA - new
+ADA - old
 
 PRE - before
 PRO - after 
