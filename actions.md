@@ -90,13 +90,6 @@ ISA - to provide, supply, input, feed
 IKA - to consume
 -------
 
-### reversal
-ITA = to reverse
-ITAL - to undo
-ITAP - to replay
-ITAR - to start over
-------
-
 ### connect / disconnect
 ANOD - disconnected
 ANODA - to disconnect
@@ -112,10 +105,13 @@ IBASI - found
 ------
 
 ### process
-PARA - to start
-PARE - to restart
-PATA - to continue, resume
+PARA - to begin
+PARE - to start over
+PAKA - to reverse
+PAKO - to undo
+PAKU - to replay
 PAPA - to interrupt
+PASA - to continue, resume
 PAVA = to end, finalize, finish, complete
 ------
 
