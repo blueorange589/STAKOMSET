@@ -9,4 +9,4 @@ dual cases
 FEN - functioning
 FER - running
 ASE - aesthetic
-ETO - public (privacy)
+ETOFA - public (privacy)

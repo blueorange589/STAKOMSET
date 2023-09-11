@@ -14,8 +14,8 @@ ZENIS - high on
 ZENIVA - max. quality
 ZENIF - in excess quality
 
-ETON - private
-ETOR - public
+ETOFAN - private
+ETOFAR - public
 
 ASEN - non-aesthetic
 ASER - aesthetic
