@@ -72,6 +72,8 @@ DAS - unified
 DASA - to merge, join
 DÜS - parted
 DÜSA = to seperate, split, branch, slice
+DOS - grouped
+DOSA - to group
 DÖS - copy
 DÖSA - to copy
 ------
