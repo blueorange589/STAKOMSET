@@ -1,4 +1,4 @@
-numbers
+# numbers
 0 NEM
 1 REM
 2 KEM
@@ -39,7 +39,7 @@ KUVEMNAS MÜNI (55.000 people)
 ZEREM KÖNAS (91 million)
 
 
-decimals
+# decimals
 ÜNAS DEKEM - (62/1000) 0.062
 ÜMAS DEKEM - (62/100) 0.62
 ÜLAS DEKEM - (62/10) 6.2
@@ -53,7 +53,7 @@ TEMI - third
 TEKEMI - 32th
 
 
-operators
+# operators
 PERA - plus, sum
 PERE - minus, subtract
 PERÖ - times, multiply

@@ -1,4 +1,4 @@
-shapes 
+# shapes 
 AREM - dot, idea
 AKEM - line, action
 ATEM - triangle, event
@@ -33,7 +33,7 @@ KELIS ÜNA - shape rotating
 KELISATE - ruler
 
 
-sizing
+# sizing
 RO - full
 KO - semi/half
 SO - quarter
