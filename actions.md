@@ -1,7 +1,4 @@
-cause taken from cases and speciality
-
------
-
+# repair
 AFEN = broken                    EXRAS?
 FENA = repair                    EXA?
 FENARE = repaired                
@@ -15,8 +12,8 @@ FENASI = repair success          EXASI?
 FENANI = repair fail             EXANI?
 ------
 
------
-
+# launch
+AFER = not running
 FERA = to start, launch, ignite
 FERARE = started
 FERARI = starting up
@@ -28,28 +25,24 @@ FERASI = launched successfully
 FERANI = failed to launch
 ------
 
-
------
-
+# creation
 IRA = to produce, create, draw, compose
 ------
 # meaning by the context. 
 # IRA VISÜNA - to compose a song
 # IRA "CAKE" - to prepare a cake
 
------
 
-INA = to destroy, get rid of, clean up
+# annihilation
+INA = to destroy, get rid of, clean up, nullify
 ------
 
------
-
+# increment
 IVA = add, increase, copy, push
 SIVA = to fill
 LIVA = to heat
 TIKIVA = to expedite
 ZIVA = to charge
-
 
 IVA LITÖN = to fill gas
 LITÖNIVAT = pumpman
@@ -60,11 +53,8 @@ LITÖNIVAN = gas station
 # LIVA "CAKE" - bake a cake
 
 
-
------
-
-IDA = remove, lessen, decrease, consume
-
+# lessen
+IDA = remove, decrease, consume
 SIDA - to drain
 LIDA - to cool
 TIKIDA - to slow
@@ -76,47 +66,38 @@ IDALIS - scissor (cross reducer)
 IDAVOS - lift vehicle
 ------
 
------
+# seperation
+IDÜ = to seperate, split, branch, slice
+... IDÜN - trash recycling factory
+MÜNASA IDÜTE - fruit slicer
+------
 
+# unification
+IVU = to merge, join
+IVUSER - glue
+IVURUT = screw
+------
+
+# control
 IKA = to control, manage, direct
 IKAP - to point
 IKAS - to redirect
 ------
 
-------
 
-ISA - to provide, input, feed
+# provide
+ISA - to provide, supply, input, feed
 -------
 
------
 
+# reversal
 ITA = to reverse
 ITAL - to undo
 ITAP - to replay
 ITAR - to start over
 ------
 
-
-
------
-
-IVU = merge
-IVUSER - glue
-IVURUT = screw
-------
-
------
-
-IVÜ = to seperate, split, branch, slice
-
-... IVÜN - trash recycling factory
-MÜNASA IVÜTE - fruit slicer
-------
-
-
-
------
-
+# connect
 ODA = to regulate, stabilize, tie, connect
 ODAP - to hang
 
@@ -125,24 +106,17 @@ UNER ODATE - circuit regulator
 NODATE - router
 ------
 
-
------
-
+# search
 IBA = to search, seek
 IBASI - found
 ------
 
------
-
+# finalize
 IZA = to end, finalize, finish, complete
 ------
 
-
-------
-
-ÜNA - to rotate
-
-ETA - to handout, leave, seperate
+# in/out
+ETA - to handout, leave
 ETAP - to give
 ETAS - to send, transfer
 ETAK - to share
@@ -155,15 +129,16 @@ ENAP - to take
 ENAS - to receive
 ENAK - to gather, collect
 ENAT - to buy
+--------
 
+# other actions
+ÜNA - to rotate
 ILA - to compare, measure
 ISI - to seed, fertilize
 IPA - to replace
 ------
 
 # actions fun
------
-
 IFA - to have fun
 IFAM = to eat
 IFAS - to listen music
