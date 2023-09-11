@@ -153,7 +153,7 @@ ENAT - to buy
 
 ILA - to compare, measure
 ISI - to seed, fertilize
-ISA - to replace
+IPA - to replace
 ------
 
 # actions fun
