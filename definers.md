@@ -53,6 +53,7 @@ VAS - end, borders, edges, circumference, destination, skin, cover, switch off
 DAS - size, dimension, entire, whole
 FAS - out, free, exclusion, expire, non-controlled
 PAS - process
+ZAS - result, outcome, output
 
 
 TASKI - padding
