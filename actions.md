@@ -1,4 +1,4 @@
-# functioning / break
+### functioning / break
 AFEN = broken                    EXRAS?
 AFENA = to break
 
@@ -16,7 +16,7 @@ FENASI = repair success          EXASI?
 FENANI = repair fail             EXANI?
 ------
 
-# launch / stop
+### launch / stop
 AFER = not running
 AFERA = to stop, halt, switch off
 
@@ -33,43 +33,40 @@ FERASI = launched successfully
 FERANI = failed to launch
 ------
 
-# creation / annihilation
+### creation / annihilation
 KIR - exist
 KIRA = to produce, create, draw, compose
 KIN - not exist
 KINA - to destroy, get rid of, clean up, nullify
 ------
-# meaning by the context. 
-# KIRA VISÜNA - to compose a song
-# KIRA "CAKE" - to prepare a cake
+* meaning by the context. 
+* KIRA VISÜNA - to compose a song
+* KIRA "CAKE" - to prepare a cake
 
-# increment / decrement
+### increment / decrement
 IDA - to decrease
 IVA - to increase
-# IVA "opacity"
+* IDALIS - scissor (cross reducer)
+* IDAVOS - lift vehicle
 
-# add / remove
+### add / remove
 SIDA - to remove, drain
 SIVA - to add, fill
 
-# heat / cool
+### heat / cool
 LIVA = to heat
 LIDA - to cool
-# LIVA "CAKE" : bake the cake
+* LIVA "CAKE" : bake the cake
 
-# expedite / slow
+### expedite / slow
 TIKIVA = to expedite
 TIKIDA - to slow
 
-# charge / discharge
+### charge / discharge
 ZIVA = to charge
 ZIDA - to discharge
 
-IDALIS - scissor (cross reducer)
-IDAVOS - lift vehicle
-------
-
-# seperation / unification
+### seperation / unification
 DAS - unified
 DASA - to merge, join
 DÜS - parted
@@ -77,7 +74,7 @@ DÜSA = to seperate, split, branch, slice
 ------
 MÜNASA DÜSATE - fruit slicer
 
-# control / release
+### control / release
 KAS - controlled
 KASA - to control, manage, direct, regulate, stabilize
 AKAS - uncontrolled
@@ -88,34 +85,33 @@ KASI - to point
 ------
 UNER KASATE - circuit regulator
 
-# provide / consume
+### provide / consume
 ISA - to provide, supply, input, feed
 IKA - to consume
 -------
 
-# reversal
+### reversal
 ITA = to reverse
 ITAL - to undo
 ITAP - to replay
 ITAR - to start over
 ------
 
-# connect / disconnect
+### connect / disconnect
 ANOD - disconnected
 ANODA - to disconnect
 NOD - connected
 NODA - to tie, connect
 NODE - to hang
-
-NODATE - router
 ------
+NODATE - router
 
-# search
+### search
 IBA = to search, seek
 IBASI - found
 ------
 
-# process
+### process
 PARA - to start
 PARE - to restart
 PATA - to continue, resume
@@ -123,7 +119,7 @@ PAPA - to interrupt
 PAVA = to end, finalize, finish, complete
 ------
 
-# in/out
+### in/out
 ENA - to obtain
 ENAP - to take
 ENAS - to receive
@@ -141,7 +137,7 @@ ETÖM - to throw
 ETÖN - to shoot
 --------
 
-# other actions
+### other actions
 ÜNA - to rotate
 ASÖ - to copy
 ASÖN - copy, imitation
@@ -150,7 +146,7 @@ ISI - to seed, fertilize
 IPA - to replace
 ------
 
-# actions fun
+### actions fun
 IFA - to have fun
 IFAM = to eat
 IFAS - to listen music
@@ -164,7 +160,7 @@ IFET - cycling
 ------
 
 
-# actions happening itself, no interference
+### actions happening itself, no interference
 KIPAT - getting away
 KIPAN - getting closer
 DIPAT - expansion, grow
