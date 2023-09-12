@@ -156,12 +156,16 @@ RIPA - to move
 RIPAN - to pull
 RIPAT - to push
 
-### protection, store, save
+### store
+TAS - inside, included
+TASA - to include
+TASI - to store
+* TASARI - being included
+
+### protection, save
 VAS - border
-INVAS - stored
-INVASI - to store
-VASAR - protected
-VASARI - to protect, save
+VASA - to border
+VASE - to protect, save
 
 
 ### other actions
