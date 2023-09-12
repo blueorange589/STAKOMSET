@@ -82,6 +82,9 @@ DÖSA - to copy
 DÖSE - to record
 ------
 * DÜSAR - slicer
+* DESAF - version, revision
+* DESAFE - versioning
+* DESAFER - versioning tool
 
 ### control / release
 KAS - controlled
