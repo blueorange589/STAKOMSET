@@ -35,7 +35,7 @@ FERANI = failed to launch
 
 ### creation / annihilation
 KIR - exist
-KIRA = to produce, create, draw, compose, build
+KIRA = to produce, create, draw, compose, build, develop
 KIN - not exist
 KINA - to destroy, get rid of, clean up, nullify
 ------
@@ -131,17 +131,17 @@ ZENIVA - top class
 
 ### in/out
 ENA - to obtain
-ENAP - to take
-ENAS - to receive
-ENAK - to gather, collect
-ENAT - to buy
+ENAL - to take
+ENAK - to receive
+ENAM - to gather, collect
+ENAS - to buy
 ENODA - to pull
 
 ETA - to handout, leave
-ETAP - to give
-ETAS - to send, transfer
-ETAK - to share
-ETAT - to sell
+ETAL - to give
+ETAK - to send, transfer
+ETAM - to share
+ETAS - to sell
 ETODA - to push
 ETÖM - to throw
 ETÖN - to shoot
@@ -157,12 +157,14 @@ ARI - to displace, move
 TAS - inside, included
 TASA - to include
 TASI - to store
+TASIK - container
+TASIKA - to contain
 * TASARI - being included
 
 ### protection, save
 VAS - border
 VASA - to border
-VASE - to protect, save
+VASE - to protect, save, preserve
 
 ### exclude, take out
 FAS - out, excluded
@@ -178,6 +180,9 @@ IMADA - to press
 IMASA - to compress
 IMAFA - to extract
 
+### senses
+INKA - to see
+INKAN - to watch, observe
 
 ### other actions
 ÜNA - to rotate
@@ -214,5 +219,8 @@ UNPAN - unification, healing
 
 
 
-place
 write/type/input
+record
+show
+possess
+hide
