@@ -167,6 +167,10 @@ VAS - border
 VASA - to border
 VASE - to protect, save
 
+### exclude, take out
+FAS - out, excluded
+FASA - to exclude, take out
+
 
 ### other actions
 ÜNA - to rotate
