@@ -120,6 +120,7 @@ PARE - to start over
 PATA - to reverse, revert
 PATO - to undo
 PATU - to replay
+PAKA - to interfere
 PAPA - to interrupt
 PANA - to wait
 PAFA - to defer, delay
@@ -139,27 +140,27 @@ ZENIVA - top class
 
 ### in/out
 ENA - to obtain
-ENAL - taken (object, noun)
+ENAL - items taken
 ENALE - to take
-ENAK - received (object, noun)
+ENAK - items received
 ENAKE - to receive
-ENAM - collected (noun)
+ENAM - items collected
 ENAME - to gather, collect
-ENAS - bought (noun)
+ENAS - items bought
 ENASE - to buy, acquire
 ENODA - to pull (network)
 
 * PATA ENAS - to return stuff bought
-* PATA INITA - to refund
+* PATA INITAM - to refund payment
 
 ETA - to handout, leave
-ETAL - given (noun)
+ETAL - items given
 ETALE - to give
-ETAK - sent (noun)
+ETAK - items sent
 ETAKE - to send, transfer
-ETAM - shared
+ETAM - items shared
 ETAME - to share
-ETAS - sold (noun)
+ETAS - items sold
 ETASE - to sell
 ETODA - to push (network)
 ETÖM - to throw
