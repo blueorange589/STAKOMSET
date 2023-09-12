@@ -10,9 +10,9 @@ FENAT = repairman, engineer      EXAT?
 FENAR = repair tool              EXAR?
 FENAM = repair method, process   EXAM?
 
-FENALT = repaired                
-FENALI = being repaired          EXARI?
-FENALO = will be repaired        
+FENALT = repaired                EXALT?
+FENALI = being repaired          EXALI?
+FENALS = will be repaired        
 FENASI = repair success          EXASI?
 FENANI = repair fail             EXANI?
 ------
@@ -34,6 +34,7 @@ NIXA - to destroy, get rid of, clean up, nullify
 * meaning by the context. 
 * SIXA VISÜNA - to compose a song
 * SIXA "CAKE" - to prepare a cake
+* SIXALT : built
 
 ### increment / decrement
 IDA - to decrease
@@ -59,18 +60,26 @@ TIKIDA - to slow
 ZIVA = to charge
 ZIDA - to discharge
 
-### seperation / unification / multiplication
+### volume operations
+SAVA - to grow, inflate
+SAVÖ - to explode
+SADA - to shrink, deflate
+SADÖ - to empty
+
+### object operations
 DAS - unified
 DASA - to merge, join
 DÜS - parted
 DÜSA = to seperate, split, branch, slice
+DES - modified
+DESA - to alter, modify, transform
 DOS - grouped
 DOSA - to group
 DÖS - copy, replica, imitation
 DÖSA - to copy
 DÖSE - to record
 ------
-* MÜNASA DÜSATE - fruit slicer
+* DÜSAR - slicer
 
 ### control / release
 KAS - controlled
@@ -82,7 +91,7 @@ KASE - to redirect
 KASI - to point
 KASU - to press, hit
 ------
-* UNER KASATE - circuit regulator
+* UNER KASAR - circuit regulator
 
 ### provide / consume
 ISA - to provide, supply, input, feed
@@ -166,7 +175,7 @@ TASA - to include, acquire
 TASI - to store
 TASIK - container
 TASIKA - to contain
-* TASARI - being included
+* TASALI - being included
 
 ### protection, save
 VAS - border
@@ -190,6 +199,7 @@ IMAVA - to lift
 IMADA - to press
 IMASA - to compress
 IMAFA - to extract
+* IMAFASA - to force out
 
 ### senses
 INKAN - to see
