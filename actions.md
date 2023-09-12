@@ -156,6 +156,14 @@ RIPA - to move
 RIPAN - to pull
 RIPAT - to push
 
+### protection, store, save
+VAS - border
+INVAS - stored
+INVASI - to store
+VASAR - protected
+VASARI - to protect, save
+
+
 ### other actions
 ÜNA - to rotate
 ILA - to compare, measure
