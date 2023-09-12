@@ -6,6 +6,13 @@ NEN - non-colored, not painted, sketch
 NIXAI - transparent
 PIXAI - opacity
 
+ABI - contrast
+ABINA - neutral contrast
+ABIK - light
+ABIS - dark
+ABIVA - darken
+ABIDA - lighten
+
 RAI - red
 PAI - green
 MAI - blue
