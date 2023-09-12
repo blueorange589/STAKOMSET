@@ -5,13 +5,14 @@ AFENA = to break
 FEN = functioning
 FENA = repair                    EXA?
 
-FENARE = repaired                
-FENARI = being repaired          EXARI?
-FENARO = will be repaired        
-FENAT = repairman, engineer      EXAT?
-FENATA = repair method, process  EXATA?
-FENATE = repair tool             EXATE?
 FENAN = garage, repair shop      EXAN?
+FENAT = repairman, engineer      EXAT?
+FENAR = repair tool              EXAR?
+FENAM = repair method, process   EXAM?
+
+FENALT = repaired                
+FENALI = being repaired          EXARI?
+FENALO = will be repaired        
 FENASI = repair success          EXASI?
 FENANI = repair fail             EXANI?
 ------
@@ -22,15 +23,6 @@ AFERA = to halt, switch off
 
 FER = running
 FERA = to launch, ignite
-
-FERARE = started
-FERARI = starting up
-FERARO = will be started
-FERAT = person to start it
-FERATA = method to start it
-FERATE = instrument to start it
-FERASI = launched successfully 
-FERANI = failed to launch
 ------
 
 ### creation / annihilation
@@ -74,8 +66,9 @@ DÜS - parted
 DÜSA = to seperate, split, branch, slice
 DOS - grouped
 DOSA - to group
-DÖS - copy
+DÖS - copy, replica, imitation
 DÖSA - to copy
+DÖSE - to record
 ------
 * MÜNASA DÜSATE - fruit slicer
 
@@ -138,8 +131,10 @@ ENAS - to buy
 ENODA - to pull
 
 ETA - to handout, leave
-ETAL - to give
-ETAK - to send, transfer
+ETAL - given (noun)
+ETALE - to give
+ETAK - sent (noun)
+ETAKE - to send, transfer
 ETAM - to share
 ETAS - to sell
 ETODA - to push
@@ -162,6 +157,8 @@ VIN - no movement
 VINA - to stop
 VIR - moving
 VIRA - to move
+VIMA - to walk
+VIMÖ - to run
 
 ### store
 TAS - inside, included
@@ -175,6 +172,8 @@ TASIKA - to contain
 VAS - border
 VASA - to border, to pack, cover
 VASE - to protect, save, preserve
+VASÖ - to shield
+VASÖTE - shield
 
 ### exclude, take out
 FAS - out, excluded
@@ -259,4 +258,3 @@ UNPAN - unification, healing
 
 
 write/type/input
-record
