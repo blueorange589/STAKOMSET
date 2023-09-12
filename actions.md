@@ -81,7 +81,7 @@ DÖSA - to copy
 
 ### control / release
 KAS - controlled
-KASA - to control, manage, direct, regulate, stabilize
+KASA - to use, control, manage, direct, regulate, stabilize
 AKAS - uncontrolled
 AKASA - release
 
@@ -155,7 +155,7 @@ ARI - to displace, move
 
 ### store
 TAS - inside, included
-TASA - to include
+TASA - to include, acquire
 TASI - to store
 TASIK - container
 TASIKA - to contain
@@ -181,14 +181,20 @@ IMASA - to compress
 IMAFA - to extract
 
 ### senses
-INKA - to see
-INKAN - to watch, observe
+INKAN - to see
+INKANE - to watch, observe
+INKAM - to think
+INKAMI - to learn
 
 ### hide, show, display
 PRONA - to hide
 IPRONA - to uncover
-PRENA - to show, display
+PRENA - to show, display, present
 PRENI - to possess
+
+### relations
+ELIR - has relation
+ELIRA - to depend on
 
 ### other actions
 ÜNA - to rotate

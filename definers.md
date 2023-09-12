@@ -46,8 +46,8 @@ PÖNÖ - concave, exponential decrease
 PÖTÖ - convex, exponential increase
 
 # reference
-RAS - start, center, switch on, origin, straight, exact
-KAS - radius, direct, arrow, direction, range, controlled
+RAS - start, center, switch on, origin, straight, exact, precise
+KAS - radius, direct, arrow, direction, range, controlled, refer
 TAS - area, indirect, inclusion, in order, inside, in possession, amongst, non-straight
 TÜS - angle, part, slice, divide, split, ratio, dividends
 ITÜS - relative, subjective
