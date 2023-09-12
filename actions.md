@@ -1,5 +1,3 @@
-IAP - action
-
 ### functioning / break
 AFEN = broken                    EXRAS?
 AFENA = to break
@@ -149,6 +147,15 @@ ETÖM - to throw
 ETÖN - to shoot
 --------
 
+### positioning
+RIN - placed
+RINA - to place
+ARIN - displaced
+ARI - to displace
+RIPA - to move
+RIPAN - to pull
+RIPAT - to push
+
 ### other actions
 ÜNA - to rotate
 ILA - to compare, measure
@@ -157,18 +164,18 @@ IPA - to replace
 ------
 
 ### activities
-IFA - to have fun
-IEMA = to eat
-IESA - to listen music
-IELA - to watch movie
-IEFA - to play game
-IEKA - to travel, sightseeing
-IETA - to do sports
-IETAK - fitness
-IETAM - hiking
-IETAL - cycling
-IETES - soccer
-IETEF - tennis
+IFA - to enjoy, have fun
+IFAM = to eat
+IFAS - to listen music
+IFAL - to watch movie
+IFAF - to play game
+IFAK - to travel, sightseeing
+IFE - to do sports
+IFEK - fitness
+IFEM - hiking
+IFEL - cycling
+IFES - soccer
+IFEF - tennis
 ------
 
 
