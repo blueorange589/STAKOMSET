@@ -1,3 +1,11 @@
+ARA - future
+ARAN - in queue, upcoming
+ATA - past
+AKA - next
+ASA - previous
+AVA - new
+ADA - old
+
 daytime
 UN - moment
 RAMÜNAS - millisecond

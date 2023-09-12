@@ -13,8 +13,8 @@ PROXITA - solve
 
 FÖRIN - language
 FÖRINT - code
-FÖRINTINA - development, coding
-INAFÖRINT - creating new software language
+KIRA - development, coding
+KIRA FÖRINT - creating new software language
 
 FÖRINTA - composer
 FÖRINTE - interpreter

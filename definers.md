@@ -1,16 +1,11 @@
 # predefiners 
 A - opposite (non)
 I - inverse
+
+BIS - unintentional, by mistake
+
 BE - simple, easy, basic
 KE - complex, advanced
-
-ARA - future
-ARAN - in queue, upcoming
-ATA - past
-AKA - next
-ASA - previous
-AVA - new
-ADA - old
 
 PRE - before
 PRO - after 
@@ -37,7 +32,7 @@ ELIR - has relation
 ELIN - parallel, equal, synchronized, aligned, means
 ELIT - non-parallel, inequal, non-aligned
 ELIS - crossing, conflicting, similar, in conjunction, common
-ELIK - between
+ELIM - between
 ELIZ - non-related
 
 PAN - parallax in, decreasing 

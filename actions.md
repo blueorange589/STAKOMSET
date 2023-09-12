@@ -16,12 +16,12 @@ FENASI = repair success          EXASI?
 FENANI = repair fail             EXANI?
 ------
 
-### launch / stop
+### launch / halt
 AFER = not running
-AFERA = to stop, halt, switch off
+AFERA = to halt, switch off
 
 FER = running
-FERA = to start, launch, ignite
+FERA = to launch, ignite
 
 FERARE = started
 FERARI = starting up
@@ -34,14 +34,14 @@ FERANI = failed to launch
 ------
 
 ### creation / annihilation
-KIR - exist
-KIRA = to produce, create, draw, compose, build, develop
-KIN - not exist
-KINA - to destroy, get rid of, clean up, nullify
+SIX - exist
+SIXA = to produce, create, draw, compose, build, develop
+NIX - not exist
+NIXA - to destroy, get rid of, clean up, nullify
 ------
 * meaning by the context. 
-* KIRA VISÜNA - to compose a song
-* KIRA "CAKE" - to prepare a cake
+* SIXA VISÜNA - to compose a song
+* SIXA "CAKE" - to prepare a cake
 
 ### increment / decrement
 IDA - to decrease
@@ -150,8 +150,18 @@ ETÖN - to shoot
 ### positioning
 RIN - placed
 RINA - to place
-ARIN - displaced
-ARI - to displace, move
+RIT - displaced
+RITA - to displace
+
+KIN - no distance
+KINA - to meet
+KIR - has distance
+KIRA - to move away
+
+VIN - no movement
+VINA - to stop
+VIR - moving
+VIRA - to move
 
 ### store
 TAS - inside, included
@@ -200,7 +210,10 @@ ELIRA - to relate, to depend
 ELINA - to match
 ELITA - to unmatch
 ELIZA - to unrelate
-ELIKA - to insert, place between
+
+ELIMA - to insert, place between
+ELIMO - to stick
+ELIMON - stuck
 
 # outputs
 ZAS - outcome, output
