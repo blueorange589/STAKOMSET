@@ -121,6 +121,8 @@ PATA - to reverse, revert
 PATO - to undo
 PATU - to replay
 PAPA - to interrupt
+PANA - to wait
+PAFA - to defer, delay
 PANI - to cancel
 PASI - to confirm
 PARI - to continue, resume
