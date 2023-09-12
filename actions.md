@@ -45,6 +45,8 @@ IVA - to increase
 ### add / remove
 SIDA - to remove, drain
 SIVA - to add, fill
+SIDÖ - to empty
+SIVÖ - to fullfil
 
 ### heat / cool
 LIVA = to heat
@@ -64,7 +66,7 @@ ZIDA - to discharge
 SAVA - to grow, inflate
 SAVÖ - to explode
 SADA - to shrink, deflate
-SADÖ - to empty
+SAFA - to filter
 
 ### object operations
 DAS - unified
@@ -115,10 +117,12 @@ IBASI - found
 ### process
 PARA - to begin
 PARE - to start over
-PATA - to reverse
+PATA - to reverse, revert
 PATO - to undo
 PATU - to replay
 PAPA - to interrupt
+PANI - to cancel
+PASI - to confirm
 PARI - to continue, resume
 PAVA = to end, finalize, finish, complete
 ------
@@ -142,6 +146,9 @@ ENAME - to gather, collect
 ENAS - bought (noun)
 ENASE - to buy, acquire
 ENODA - to pull (network)
+
+* PATA ENAS - to return stuff bought
+* PATA INITA - to refund
 
 ETA - to handout, leave
 ETAL - given (noun)
@@ -190,6 +197,9 @@ VASA - to border, to pack, cover
 VASE - to protect, save, preserve
 VASÖ - to shield
 VASÖTE - shield
+AVAS - crack, bug, weakness
+AVASI - to exploit
+AVASILT - hacked
 
 ### exclude, take out
 FAS - out, excluded
