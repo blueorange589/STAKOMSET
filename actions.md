@@ -83,7 +83,7 @@ DÖSA - to copy
 KAS - controlled
 KASA - to use, control, manage, direct, regulate, stabilize
 AKAS - uncontrolled
-AKASA - release
+AKASA - to release
 
 KASE - to redirect
 KASI - to point
@@ -163,12 +163,14 @@ TASIKA - to contain
 
 ### protection, save
 VAS - border
-VASA - to border
+VASA - to border, to pack, cover
 VASE - to protect, save, preserve
 
 ### exclude, take out
 FAS - out, excluded
 FASA - to exclude, take out
+FASE - to reject, deny
+FASI - to ignore, disregard
 
 ### forces
 IM - force
@@ -198,6 +200,15 @@ ELIRA - to relate, to depend
 ELINA - to match
 ELITA - to unmatch
 ELIZA - to unrelate
+ELIKA - to insert, place between
+
+# outputs
+ZAS - outcome, output
+ZASA - to render, print
+ZASI - to conclude
+ZASIN - conclusion
+FÖRANA - to understand
+UNZA - to decide
 
 ### other actions
 ÜNA - to rotate
