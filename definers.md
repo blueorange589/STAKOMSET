@@ -22,7 +22,7 @@ EN - inward, through, to, inbound, incoming
 ET - outward, outbound, outgoing
 UN - circular, self, moment
 UT - other
-ÜN - rotating, alive, changing, transforming, moment
+ÜN - rotating, alive, changing, transforming
 ÜT - balanced, still, stable
 ON - group belongs to
 OT - other group

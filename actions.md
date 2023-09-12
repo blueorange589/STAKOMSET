@@ -133,20 +133,26 @@ ZENIVA - top class
 
 ### in/out
 ENA - to obtain
-ENAL - to take
-ENAK - to receive
-ENAM - to gather, collect
-ENAS - to buy
-ENODA - to pull
+ENAL - taken (object, noun)
+ENALE - to take
+ENAK - received (object, noun)
+ENAKE - to receive
+ENAM - collected (noun)
+ENAME - to gather, collect
+ENAS - bought (noun)
+ENASE - to buy
+ENODA - to pull (network)
 
 ETA - to handout, leave
 ETAL - given (noun)
 ETALE - to give
 ETAK - sent (noun)
 ETAKE - to send, transfer
-ETAM - to share
-ETAS - to sell
-ETODA - to push
+ETAM - shared
+ETAME - to share
+ETAS - sold (noun)
+ETASE - to sell
+ETODA - to push (network)
 ETÖM - to throw
 ETÖN - to shoot
 --------
