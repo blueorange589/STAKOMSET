@@ -1,6 +1,10 @@
 # STAKOMSET
 RASIX FÖRINI
-(everything starts with a letter)
+
+(everything starts with a letter) 
+e.g. letter "A" :)
+
+New language framework for world.
 
 - no disturbing letters (H, CH, SH, SCH)
 - no derivative letters (W, Q, G, J)
@@ -10,12 +14,13 @@ RASIX FÖRINI
 - no manipulative words, such as [order, request... etc]
 
 
-- no word for "good/bad". Quality-wise case quality may be used.
+- no word in place of "good/bad". Quality-wise case quality may be used.
 - no word in place of "for, because"
 - no word in place of "do, make, render", has no meaning in 
 
 
 - plurals using relationships, alternatively by adding suffix "O"
+- actions to end with a vovel
 
 
 

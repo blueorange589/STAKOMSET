@@ -122,7 +122,7 @@ PAVA = to end, finalize, finish, complete
 ------
 
 ### outcomes qualities
-ZENIX - no quality, poor
+ZENIX - no quality
 ZENIR - poor
 ZENIT - average
 ZENISA - excellent

@@ -4,8 +4,8 @@ VIX - or, without
 MIX - random
 PIX - some
 TIX - each
-NIX - none, nothing, no, no one
-SIX - all, everything, yes, everyone
+NIX - none, nothing, no, no one, not exist
+SIX - all, everything, yes, everyone, exist
 
 
 relationships 
