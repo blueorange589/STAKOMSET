@@ -140,7 +140,7 @@ ENAKE - to receive
 ENAM - collected (noun)
 ENAME - to gather, collect
 ENAS - bought (noun)
-ENASE - to buy
+ENASE - to buy, acquire
 ENODA - to pull (network)
 
 ETA - to handout, leave
@@ -161,7 +161,7 @@ ETÖN - to shoot
 RIN - placed
 RINA - to place
 RIT - displaced
-RITA - to displace
+RITA - to displace (object)
 
 KIN - no distance
 KINA - to meet
@@ -171,17 +171,18 @@ KIRA - to move away
 VIN - no movement
 VINA - to stop
 VIR - moving
-VIRA - to move
+VIRA - to move (self)
 VIMA - to walk
 VIMÖ - to run
 
 ### store
 TAS - inside, included
-TASA - to include, acquire
+TASA - to include
 TASI - to store
 TASIK - container
 TASIKA - to contain
 * TASALI - being included
+* TASIKAM - storage method
 
 ### protection, save
 VAS - border
