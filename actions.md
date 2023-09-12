@@ -151,10 +151,7 @@ ETÖN - to shoot
 RIN - placed
 RINA - to place
 ARIN - displaced
-ARI - to displace
-RIPA - to move
-RIPAN - to pull
-RIPAT - to push
+ARI - to displace, move
 
 ### store
 TAS - inside, included
@@ -170,6 +167,16 @@ VASE - to protect, save
 ### exclude, take out
 FAS - out, excluded
 FASA - to exclude, take out
+
+### forces
+IM - force
+IMA - to apply force
+IMENA - to pull
+IMETA - to push
+IMAVA - to lift
+IMADA - to press
+IMASA - to compress
+IMAFA - to extract
 
 
 ### other actions
