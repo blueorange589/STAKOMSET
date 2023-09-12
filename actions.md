@@ -194,7 +194,10 @@ PRENI - to possess
 
 ### relations
 ELIR - has relation
-ELIRA - to depend on
+ELIRA - to relate, to depend
+ELINA - to match
+ELITA - to unmatch
+ELIZA - to unrelate
 
 ### other actions
 ÜNA - to rotate
