@@ -184,6 +184,12 @@ IMAFA - to extract
 INKA - to see
 INKAN - to watch, observe
 
+### hide, show, display
+PRONA - to hide
+IPRONA - to uncover
+PRENA - to show, display
+PRENI - to possess
+
 ### other actions
 ÜNA - to rotate
 ILA - to compare, measure
@@ -221,6 +227,3 @@ UNPAN - unification, healing
 
 write/type/input
 record
-show
-possess
-hide
