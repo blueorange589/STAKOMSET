@@ -1,8 +1,11 @@
 logic
 KIX - and, both, with, together
 VIX - or, without
+RIX - one of
+ARIX - all except one
 MIX - random
 PIX - some
+APIX - else, others
 TIX - each
 NIX - none, nothing, no, no one, not exist
 SIX - all, everything, yes, everyone, exist

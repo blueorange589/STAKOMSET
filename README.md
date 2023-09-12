@@ -16,7 +16,8 @@ New language framework for world.
 
 - no word in place of "good/bad". Quality-wise case quality may be used.
 - no word in place of "for, because"
-- no word in place of "do, make, render", has no meaning in 
+- no word in place of "do, make, render", has no meaning in origin.
+- no "if" conditional.
 
 
 - plurals using relationships, alternatively by adding suffix "O"
