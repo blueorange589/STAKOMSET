@@ -104,8 +104,10 @@ KASU - to press, hit
 * UNER KASAR - circuit regulator
 
 ### provide / consume
-ISA - to provide, supply, input, feed
-IKA - to consume
+SIR - has
+SIRA - to provide, supply, input, feed
+SIN - no amount
+SINA - to consume
 -------
 
 ### connect / disconnect
@@ -124,7 +126,7 @@ IBASI - found
 
 ### process
 IPA - to reverse, revert
-PAR - start
+PAR - start, origin, from
 PARA - to begin
 PARE - to start over
 PAS - progress
@@ -139,7 +141,7 @@ PANA - to wait
 PAFA - to abort, cancel
 PAFE - to defer, delay
 PARI - to continue, resume
-PAV - end
+PAV - end, target, to
 PAVA = to end, finalize, finish, complete
 
 ### outcomes qualities
@@ -151,30 +153,18 @@ ZENIVA - top class
 ------
 
 ### in/out
-ENA - to obtain
-ENAL - items taken
-ENALE - to take
-ENAK - items received
-ENAKE - to receive
-ENAM - items collected
-ENAME - to gather, collect
-ENAS - items bought
-ENASE - to buy, acquire
-ENODA - to pull (network)
+ENA - to obtain, take, receive, gather, collect, buy, acquire, download
+ENAS - items obtained
+
+ETA - to handout, leave, give, send, transfer, share, sell
+ETAS - items sent out
 
 * IPA ENAS - to return stuff bought
 * IPA INITAM - to refund
+* KUN ENALT POMIA PAR "GROCERY", ETALT INITAM, ETALS POMIA TON
+* PARA ENA - to start downloading
 
-ETA - to handout, leave
-ETAL - items given
-ETALE - to give
-ETAK - items sent
-ETAKE - to send, transfer
-ETAM - items shared
-ETAME - to share
-ETAS - items sold
-ETASE - to sell
-ETODA - to push (network)
+
 ETÖM - to throw
 ETÖN - to shoot
 --------
