@@ -8,6 +8,9 @@ AVA - new
 ADA - old
 ANA - current
 
+PRE - before
+PRO - after 
+
 daytime
 UN - moment
 RAMÜNAS - millisecond

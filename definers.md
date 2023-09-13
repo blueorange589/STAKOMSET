@@ -1,14 +1,12 @@
 # predefiners 
-A - opposite (non)
-I - inverse
-
+A - opposite, non-
+I - inverse, de-
+NI - zero, no-
 BIS - unintentional, by mistake
 
 BE - simple, easy, basic
 KE - complex, advanced
 
-PRE - before
-PRO - after 
 PER - measured
 
 # dual cases

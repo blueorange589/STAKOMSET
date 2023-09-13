@@ -2,6 +2,8 @@
 AFEN = broken                    EXRAS?
 AFENA = to break
 
+NIFEN = has no function
+
 FEN = functioning
 FENA = repair                    EXA?
 
@@ -127,21 +129,18 @@ PARE - to start over
 PATA - to reverse, revert
 PATO - to undo
 PATU - to replay
-PEN - progress, parallax in
-PENI - to progress
-PENIX - no progress, not started
+PAS - progress
+PASI - to progress
+NIPAS - no progress, not started
 PAK - middle
 PAKA - to interfere
 PAPA - to interrupt
 PANA - to wait
-PAFA - to abort
+PAFA - to abort, cancel
 PAFE - to defer, delay
-PANI - to cancel
-PASI - to confirm
 PARI - to continue, resume
 PAV - end
 PAVA = to end, finalize, finish, complete
-
 
 ### outcomes qualities
 ZENIX - no quality
@@ -221,7 +220,9 @@ AVASILT - hacked
 FAS - out, excluded
 FASA - to exclude, take out
 FASE - to reject, deny
-FASI - to ignore, disregard
+FASI - to ignore, disregard, neglect
+
+RASE - to confirm, approve
 
 ### forces
 IM - force
