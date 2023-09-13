@@ -5,14 +5,14 @@ AFENA = to break
 FEN = functioning
 FENA = repair                    EXA?
 
-FENAN = garage, repair shop      EXAN?
-FENAT = repairman, engineer      EXAT?
-FENAR = repair tool              EXAR?
-FENAM = repair method, process   EXAM?
+FENANT = garage, repair shop      EXANT?
+FENART = repairman, engineer      EXART?
+FENARM = repair tool              EXARM?
+FENAMP = repair method, process   EXAMP?
 
 FENALT = repaired                EXALT?
-FENALI = being repaired          EXALI?
-FENALS = will be repaired        
+FENALS = being repaired          EXALS?
+FENALM = will be repaired        
 FENASI = repair success          EXASI?
 FENANI = repair fail             EXANI?
 ------
@@ -34,7 +34,7 @@ NIXA - to destroy, get rid of, clean up, nullify
 * meaning by the context. 
 * SIXA VISÜNA - to compose a song
 * SIXA "CAKE" - to prepare a cake
-* SIXALT : built
+* SIXART : builder, developer, composer
 
 ### increment / decrement
 IDA - to decrease
@@ -46,7 +46,7 @@ IVA - to increase
 SIDA - to remove, drain
 SIVA - to add, fill
 SIDÖ - to empty
-SIVÖ - to fullfil
+SIVÖ - to top off
 
 ### heat / cool
 LIVA = to heat
@@ -56,7 +56,8 @@ LIDA - to cool
 ### expedite / slow
 TIKIVA = to expedite
 TIKIDA - to slow
-* TIKIDATE : brakes
+* TIKIDARM : brakes
+* TIKIVARM : throttle
 
 ### charge / discharge
 ZIVA = to charge
@@ -81,10 +82,12 @@ DÖS - copy, replica, imitation
 DÖSA - to copy
 DÖSE - to record
 ------
-* DÜSAR - slicer
+* DÜSARM - slicer
+* KODÜSA - to split into two equal parts
 * DESAS - version, revision
 * DESASI - versioning
-* DESASIR - versioning tool
+* DESASIRM - versioning tool
+
 
 ### control / release
 KAS - controlled
@@ -118,11 +121,15 @@ IBASI - found
 ------
 
 ### process
+PAR - start
 PARA - to begin
 PARE - to start over
 PATA - to reverse, revert
 PATO - to undo
 PATU - to replay
+PAM - progress
+PAMI - to progress
+PAK - middle
 PAKA - to interfere
 PAPA - to interrupt
 PANA - to wait
@@ -130,8 +137,9 @@ PAFA - to defer, delay
 PANI - to cancel
 PASI - to confirm
 PARI - to continue, resume
+PAV - end
 PAVA = to end, finalize, finish, complete
-------
+
 
 ### outcomes qualities
 ZENIX - no quality
@@ -154,7 +162,7 @@ ENASE - to buy, acquire
 ENODA - to pull (network)
 
 * PATA ENAS - to return stuff bought
-* PATA INITAM - to refund payment
+* PATA INITAM - to refund
 
 ETA - to handout, leave
 ETAL - items given
@@ -239,7 +247,7 @@ PRENI - to possess
 ### relations
 ELIR - has relation
 ELIRA - to relate, to depend
-ELINA - to match
+ELINA - to match, to fulfill
 ELITA - to unmatch
 ELIZA - to unrelate
 
@@ -291,3 +299,6 @@ UNPAN - unification, healing
 
 
 write/type/input
+define, explain, mean
+effect
+calculate
