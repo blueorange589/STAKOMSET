@@ -35,8 +35,8 @@ ELIS - crossing, conflicting, similar, in conjunction, common
 ELIM - between
 ELIZ - non-related
 
-PAN - parallax in, decreasing 
-PAT - parallax out, increasing
+PEN - parallax in, decreasing 
+PET - parallax out, increasing
 PÖNÖ - concave, exponential decrease
 PÖTÖ - convex, exponential increase
 

@@ -127,13 +127,15 @@ PARE - to start over
 PATA - to reverse, revert
 PATO - to undo
 PATU - to replay
-PAM - progress
-PAMI - to progress
+PEN - progress, parallax in
+PENI - to progress
+PENIX - no progress, not started
 PAK - middle
 PAKA - to interfere
 PAPA - to interrupt
 PANA - to wait
-PAFA - to defer, delay
+PAFA - to abort
+PAFE - to defer, delay
 PANI - to cancel
 PASI - to confirm
 PARI - to continue, resume
@@ -287,14 +289,14 @@ IFEF - tennis
 
 
 ### actions happening itself, no interference
-KIPAT - getting away
-KIPAN - getting closer
-DIPAT - expansion, grow
-DIPAN - shrink
-SIPAT - increasing count
-SIPAN - decreasing count
-UNPAT - seperation, tension, voltage, injury
-UNPAN - unification, healing
+KIPET - getting away
+KIPEN - getting closer
+DIPET - expansion, grow
+DIPEN - shrink
+SIPET - increasing count
+SIPEN - decreasing count
+UNPET - seperation, tension, voltage, injury
+UNPEN - unification, healing
 
 
 
