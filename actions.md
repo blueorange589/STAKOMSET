@@ -133,7 +133,7 @@ PAS - progress
 PASI - to progress
 IPASI - to undo
 NIPAS - no progress, not started
-PASRE - to replay
+PASRE - to redo, replay
 PAT - middle
 PATA - to interfere
 PAPA - to interrupt
@@ -159,11 +159,11 @@ ENAS - items obtained
 ETA - to handout, leave, give, send, transfer, share, sell
 ETAS - items sent out
 
-* IPA ENAS - to return stuff bought
+* IPA ENAS - to return obtained
 * IPA INITAM - to refund
-* KUN ENALT POMIA PAR "GROCERY", ETALT INITAM, ETALS POMIA TON
-* PARA ENA - to start downloading
-
+* KUN ENALT "GROCERY" POMIA, ETALM TON POMIA
+* ENALS MÜNAR PAPIA
+* PARA ENA - to begin downloading
 
 ETÖM - to throw
 ETÖN - to shoot
@@ -261,7 +261,6 @@ UNZA - to decide
 ÜNA - to rotate
 ILA - to compare, measure
 ISI - to seed, fertilize
-IPA - to replace
 ------
 
 ### activities
