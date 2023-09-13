@@ -128,6 +128,9 @@ IBASI - found
 IPA - to reverse, revert
 PAR - start, origin, from
 PARA - to begin
+PREPARA - to prepare, intro
+PARAM - entry
+PARAMI - to enter
 PARE - to start over
 PAS - progress
 PASI - to progress
@@ -141,8 +144,11 @@ PANA - to wait
 PAFA - to abort, cancel
 PAFE - to defer, delay
 PARI - to continue, resume
+PREPAVA - outro
 PAV - end, target, to
 PAVA = to end, finalize, finish, complete
+PAVAM - exit
+PAVAMI - to exit, quit
 
 ### outcomes qualities
 ZENIX - no quality
