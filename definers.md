@@ -27,8 +27,8 @@ OT - other group
 
 # relation
 ELIR - has relation
-ELIN - parallel, equal, synchronized, aligned, means
-ELIT - non-parallel, inequal, non-aligned
+ELIN - parallel, equal, synchronized, aligned, means, true
+ELIT - non-parallel, inequal, non-aligned, false
 ELIS - crossing, conflicting, similar, in conjunction, common
 ELIM - between
 ELIZ - non-related

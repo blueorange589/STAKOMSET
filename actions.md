@@ -123,17 +123,17 @@ IBASI - found
 ------
 
 ### process
+IPA - to reverse, revert
 PAR - start
 PARA - to begin
 PARE - to start over
-PATA - to reverse, revert
-PATO - to undo
-PATU - to replay
 PAS - progress
 PASI - to progress
+IPASI - to undo
 NIPAS - no progress, not started
-PAK - middle
-PAKA - to interfere
+PASRE - to replay
+PAT - middle
+PATA - to interfere
 PAPA - to interrupt
 PANA - to wait
 PAFA - to abort, cancel
@@ -162,8 +162,8 @@ ENAS - items bought
 ENASE - to buy, acquire
 ENODA - to pull (network)
 
-* PATA ENAS - to return stuff bought
-* PATA INITAM - to refund
+* IPA ENAS - to return stuff bought
+* IPA INITAM - to refund
 
 ETA - to handout, leave
 ETAL - items given
@@ -248,9 +248,10 @@ PRENA - to show, display, present
 PRENI - to possess
 
 ### relations
+ELI - to relate
 ELIR - has relation
-ELIRA - to relate, to depend
-ELINA - to match, to fulfill
+ELIRA - to depend
+ELINA - to match, fulfill, satisfy
 ELITA - to unmatch
 ELIZA - to unrelate
 
