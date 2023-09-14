@@ -52,4 +52,6 @@ BONIAP - for loop
 
 // check on range size
 [3, 4, 5] BELIS SI [9, 8, 4] : SIX
+
+[3, 4, 5] BELIS [3, 4, 5, 6, 7] : SIX
 [3, 4, 5] BELIS SI [3, 4, 5, 6] : NIX
