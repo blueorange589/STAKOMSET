@@ -37,9 +37,11 @@ BEK - greater than
 BENK - equal or greater than
 BES - lower than
 BENS - equal or lower than
+
 BON - range
-BONA - to insert, place between
-BONAT - item in range, between
+BONI - to insert, place between
+BONIN - item in range, between
+BONIT - item out of range
 
 BEL - has relation
 BELIN - parallel, synchronized, aligned, means
