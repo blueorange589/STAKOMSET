@@ -3,7 +3,7 @@ KIX - and, both, with, together
 VIX - or, without
 RIX - one of them, only
 ARIX - all except one
-MIX - random
+MIX - random, any
 PIX - some
 APIX - else, others
 TIX - each
