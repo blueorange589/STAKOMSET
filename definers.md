@@ -30,26 +30,6 @@ PET - parallax out, increasing
 PÖNÖ - concave, exponential decrease
 PÖTÖ - convex, exponential increase
 
-### relation & comparison
-BEN - equal, exact match, stuck
-NIBEN - inequal
-BEK - greater than
-BENK - equal or greater than
-BES - lower than
-BENS - equal or lower than
-
-BON - range, array
-BONI - to insert, place between
-BONIN - item in range, between
-BONIT - item out of range
-
-BEL - has relation
-BELIN - parallel, synchronized, aligned, means
-BELIT - non-parallel, non-aligned, async
-BELIS - crossing, conflicting, similar, in conjunction, common, partial match
-NIBEL - non-related
-
-
 # reference
 RAS - start, center, switch on, origin, straight, exact, precise
 KAS - radius, direct, arrow, direction, range, controlled, refer
