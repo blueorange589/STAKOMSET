@@ -8,7 +8,7 @@ AVEM - tetragon
 KELIS - shape
 FELIS - freeshape
 
-AKEM ELIS OKU - many lines crossing one
+AKEM BELIS OKU - many lines crossing one
 
 ASEMLIN - square
 ASEMLIT - rectangle 

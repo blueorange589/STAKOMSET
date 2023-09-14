@@ -50,7 +50,7 @@ ROTEX - axis facing, (a.k.a roll axis)
 ROTEL - axis lateral, (a.k.a pitch axis)
 ROTEZ - axis up, (a.k.a yaw axis)
 
-ELIN ROTEL - horizontally aligned
+BELIN ROTEL - horizontally aligned
 ROTEZ - standing up
 ROTEZ  DA - upside down
 ROTEZ KOT - upside inversed

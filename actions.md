@@ -254,15 +254,15 @@ PRENA - to show, display, present
 PRENI - to possess
 
 ### relations
-ELI - to relate
-ELIR - has relation
-ELIRA - to depend
-ELINA - to match, fulfill, satisfy
-ELITA - to unmatch
-ELIZA - to unrelate
+BELI - to relate
+BELIR - has relation
+BELIRA - to depend
+BELINA - to match, fulfill, satisfy
+BELITA - to unmatch
+BELIZA - to unrelate
 
-ELITAM - various
-ELITAMO - to shuffle
+BELITAM - various
+BELITAMO - to shuffle
 
 BON - between
 BONA - to insert, place between

@@ -25,26 +25,25 @@ UT - other
 ON - group belongs to
 OT - other group
 
-# relation
-ELIR - has relation
-ELIN - parallel, synchronized, aligned, means, true
-ELIT - non-parallel, non-aligned, false
-ELIS - crossing, conflicting, similar, in conjunction, common
-ELIZ - non-related
-
 PEN - parallax in, decreasing 
 PET - parallax out, increasing
 PÖNÖ - concave, exponential decrease
 PÖTÖ - convex, exponential increase
 
-### comparison
+### relation & comparison
 BIN - equal
-NIXBIN - inequal
-BAN - greater than
-BAL - equal or greater than
-BEN - lower than
-BEL - equal or lower than
-BON - between
+NIBIN - inequal
+BIKA - greater than
+BINKA - equal or greater than
+BISA - lower than
+BINSA - equal or lower than
+BISKA - between
+BEL - has relation
+BELIN - parallel, synchronized, aligned, means, true
+BELIT - non-parallel, non-aligned, false
+BELIS - crossing, conflicting, similar, in conjunction, common
+NIBEL - non-related
+
 
 # reference
 RAS - start, center, switch on, origin, straight, exact, precise
