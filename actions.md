@@ -270,7 +270,12 @@ BONI - to insert, place between
 BONIN - item in range
 BONIT - item out of range
 BONIS - partially in range
-BONITA - to get in range
+BONITA - to go out of range
+BONINA - to get in range
+
+BONISENA - entering range, to appear
+BONISETA - leaving range, to disappear
+
 BONA - to transfer
 BENI - to stick
 
