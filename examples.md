@@ -27,6 +27,7 @@ RISAKIN (on left next to it)
 RISAKIT (on left, ideal distance)
 
 KAPIA MIBEKA TENEM (corn more than 30 kg)
+KIX KAP VIX KAP? :)
 
 KUN NIXISA SUNA, KUN NIXÜNA RÜNAS, RÖS KUN NIXFÖRANS
 
