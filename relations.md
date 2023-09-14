@@ -92,4 +92,9 @@ TIXIAP- for loop
 // 0 to 0 comparison
 
 ### with number of matches check
+
 [1, 2, 3, 4, 5] BELIS [3, 4, 5, 6, 7] BEK 2 : SIX
+
+[1, 2, 3, 4, 5] BELIS [3, 4, 5, 6, 7] BEN 3 : SIX
+
+[1, 2, 3, 4, 5] BELIS [3, 4, 5, 6, 7] BEN "3" : NIX
