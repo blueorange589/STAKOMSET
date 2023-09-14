@@ -48,3 +48,8 @@ BONIAP - for loop
 [3, 4, 5] BELIS [6, 8, "10"] : SIX
 [3, 4, 5] BELIS SIP [6, 8, "10"] : NIX
 [3, 4, 5] BELIS LIP [9, 8, 4] : SIX
+
+
+// check on range size
+[3, 4, 5] BELIS SI [9, 8, 4] : SIX
+[3, 4, 5] BELIS SI [3, 4, 5, 6] : NIX
