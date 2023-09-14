@@ -1,7 +1,7 @@
 logic
 KIX - and, both, with, together
 VIX - or, without
-RIX - one of them
+RIX - one of them, only
 ARIX - all except one
 MIX - random
 PIX - some

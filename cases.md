@@ -49,6 +49,16 @@ TIV - time out
 TIF - too late
 TIB - wrong timing
 
+ATI - time ago
+ATIR - just
+ATIK - before
+ATIS - long time ago
+
+ETI - time ahead
+ETIR - just
+ETIK - soon
+ETIS - later
+
 VIN - no movement
 VIR - moving
 VIK - less moving
