@@ -267,6 +267,7 @@ ZASI - to conclude
 ZASIN - conclusion
 FÖRANA - to understand
 UNZA - to decide
+LINZAN - determined
 
 ### other actions
 ÜNA - to rotate

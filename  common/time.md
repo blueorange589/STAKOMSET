@@ -14,6 +14,11 @@ PRÜ - transit
 PRÜN - transition
 PRUN - opacity
 
+SIXTI - always, forever
+PIXTI - sometimes
+TIXTI - each time
+RIXTI - once
+NIXTI - never
 
 daytime
 UN - moment

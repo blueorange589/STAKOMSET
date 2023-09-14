@@ -19,3 +19,4 @@ KIRA FÖRINT - creating new software language
 FÖRINTA - composer
 FÖRINTE - interpreter
 
+SIXAMS - development software / IDE
