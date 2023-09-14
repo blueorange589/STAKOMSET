@@ -25,6 +25,7 @@ LIP : string
 
 3 BEN 3 : SIX
 3 BEN "3" : NIX
+"A" BEN "A" : SIX
 
 3 BENS 4 : SIX
 3 BENS "4" : NIX
