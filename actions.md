@@ -264,10 +264,12 @@ ELIZA - to unrelate
 ELITAM - various
 ELITAMO - to shuffle
 
-ELIMA - to insert, place between
-ELIMO - to stick
-ELIMON - stuck
-ELIMI - to transfer
+BON - between
+BONA - to insert, place between
+BONE - to transfer
+BONI - to stick
+BONIT - stuck
+
 
 # outputs
 ZAS - outcome, output

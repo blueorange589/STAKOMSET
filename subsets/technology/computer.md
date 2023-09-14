@@ -33,7 +33,7 @@ AREMEN - data being downloaded
 ETA AREM - send data (upload)
 AREMET - data being uploaded
 PARIS - progress (%)
-PRÜDAMS - transfer software
+EKONEMS - transfer software
 
 DIPAN - window shrink, minimize
 
