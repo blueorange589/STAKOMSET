@@ -33,10 +33,10 @@ PÖTÖ - convex, exponential increase
 ### relation & comparison
 BEN - equal, exact match, stuck
 NIBEN - inequal
-BEKA - greater than
-BENKA - equal or greater than
-BESA - lower than
-BENSA - equal or lower than
+BEK - greater than
+BENK - equal or greater than
+BES - lower than
+BENS - equal or lower than
 BON - range
 BONA - to insert, place between
 BONAT - item in range, between

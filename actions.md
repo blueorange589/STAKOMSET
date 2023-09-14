@@ -271,6 +271,10 @@ BONAT - item between
 BONATE - to transfer
 BENI - to stick
 
+BENA - to equalize
+BEKA - to pass, go ahead, go over
+BESA - to go below
+
 
 # outputs
 ZAS - outcome, output
