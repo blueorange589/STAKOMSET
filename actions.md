@@ -267,9 +267,9 @@ BELITAMO - to shuffle
 
 BON - between
 BONA - to insert, place between
-BONE - to transfer
+BONAT - item between
+BONATE - to transfer
 BONI - to stick
-BONIT - stuck
 
 
 # outputs

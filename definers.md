@@ -31,13 +31,13 @@ PÖNÖ - concave, exponential decrease
 PÖTÖ - convex, exponential increase
 
 ### relation & comparison
-BEN - equal
+BEN - equal, exact match, stuck
 NIBEN - inequal
 BEKA - greater than
 BENKA - equal or greater than
 BESA - lower than
 BENSA - equal or lower than
-BESKA - between
+BON - between, partial match
 
 BEL - has relation
 BELIN - parallel, synchronized, aligned, means
