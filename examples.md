@@ -26,6 +26,8 @@ RIVAKIS (way above)
 RISAKIN (on left next to it)
 RISAKIT (on left, ideal distance)
 
+KAPIA MIBEKA TENEM (corn more than 30 kg)
+
 KUN NIXISA SUNA, KUN NIXÜNA RÜNAS, RÖS KUN NIXFÖRANS
 
 VESI VIVA... REMI ZITÖKAB ETALT
