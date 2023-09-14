@@ -135,18 +135,18 @@ PREPARA - to prepare, intro
 PARAT - entry
 PARATE - to enter
 PARE - to start over
-PAS - progress
-PASI - to progress
-IPASI - to undo
-NIPAS - no progress, not started
-PASRE - to redo, replay
+PARI - to continue, resume
+PARIS - progress
+PARISA - to progress
+IPARISA - to undo
+NIPARIS - no progress, not started
+PARISRE - to redo, replay
 PAT - middle
 PATA - to interfere
 PAPA - to interrupt
 PANA - to wait
 PAFA - to abort, cancel
 PAFE - to defer, delay
-PARI - to continue, resume
 PREPAVA - outro
 PAV - end, target, to
 PAVA = to end, finalize, finish, complete
