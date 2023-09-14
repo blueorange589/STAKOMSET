@@ -27,7 +27,7 @@ FÖRINI - letter
 FÖRINE - word
 FÖRINER - dictionary
 FÖRINA - sentence
-FÖRIVOS - comics
+FÖRIVOS - humor
 FÖRIVOSA - comedy 
 FÖRIVOSAN - comedian
 FÖRIF - senses
