@@ -9,8 +9,9 @@ FENA = repair                    EXA?
 
 FENANT = garage, repair shop      EXANT?
 FENART = repairman, engineer      EXART?
-FENAMP = repair method, process   EXAMP?
 FENARM = repair tool              EXARM?
+
+FENAMP = repair method, process   EXAMP?
 FENAMI = repair device
 FENAMS = repair software
 
@@ -210,9 +211,10 @@ VASA - to border, to pack, cover
 VASE - to protect, save, preserve
 VASÖ - to shield
 VASÖTE - shield
-AVAS - crack, bug, weakness
-AVASI - to exploit
-AVASILT - hacked
+AFENVAS - crack, bug, weakness
+AFENVASI - to exploit
+AFENVASILT - hacked
+NIVAS - borderless
 
 ### exclude, take out
 FAS - out, excluded
@@ -224,6 +226,7 @@ RASE - to confirm, approve
 
 ### forces
 IM - force
+UM - centrifugal force
 IMA - to apply force
 IMENA - to pull
 IMETA - to push
