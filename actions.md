@@ -79,8 +79,6 @@ DAS - unified
 DASA - to merge, join
 DÜS - parted
 DÜSA = to seperate, split, branch, slice
-DES - modified
-DESA - to alter, modify, transform
 DOS - grouped
 DOSA - to group
 DÖS - copy, replica, imitation
@@ -89,10 +87,6 @@ DÖSE - to record
 ------
 * DÜSARM - slicer
 * KODÜSA - to split into two equal parts
-* DESAS - version, revision
-* DESASI - versioning
-* DESASIMS - versioning software
-
 
 ### control / release
 KAS - controlled
@@ -200,22 +194,29 @@ VIRA - to move (self)
 VIMA - to walk
 VIMÖ - to run
 
-### store
+### content ops
 TAS - inside, included
 TASA - to include
 TASI - to store
 TASIK - container
 TASIKA - to contain
+TES - modified
+TESA - to alter, modify, transform
+TASO - to tidy up
 * TASALI - being included
 * TASIKAM - storage method
+* TESAS - version, revision
+* TESASI - versioning
+* TESASIMS - versioning software
 
-### protection, save
+### protection, cover, guard
 VAS - border
 VASA - to border, to pack, cover
 VASE - to protect, save, preserve
 VASÖ - to shield
 VASÖTE - shield
 AFENVAS - crack, bug, weakness
+AFENVASA - to leak
 AFENVASI - to exploit
 AFENVASILT - hacked
 NIVAS - borderless
@@ -259,6 +260,9 @@ ELIRA - to depend
 ELINA - to match, fulfill, satisfy
 ELITA - to unmatch
 ELIZA - to unrelate
+
+ELITAM - various
+ELITAMO - to shuffle
 
 ELIMA - to insert, place between
 ELIMO - to stick
