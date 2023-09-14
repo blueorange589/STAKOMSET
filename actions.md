@@ -136,11 +136,15 @@ PARAT - entry
 PARATE - to enter
 PARE - to start over
 PARI - to continue, resume
+
 PARIS - progress
 PARISA - to progress
-IPARISA - to undo
 NIPARIS - no progress, not started
-PARISRE - to redo, replay
+PARIT - last action
+PARITA - to undo
+PARIRE - to redo, replay
+PARIN - next action
+
 PAT - middle
 PATA - to interfere
 PAPA - to interrupt
