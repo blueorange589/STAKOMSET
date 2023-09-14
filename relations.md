@@ -35,8 +35,8 @@ LIP : string
 5 BONIT 2 VAS "8" : SIX
 
 IAP - action
-TIXIAP - foreach loop
-BONIAP - for loop, range loop
+TIXIAP - foreach loop, range loop
+BONIAP - for loop
 
 [3, 4, 5] BELIN [6, 8 ,10] : SIX
 [3, 4, 5] BELIN [6, 8, "10"] : NIX
