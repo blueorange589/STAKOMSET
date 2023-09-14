@@ -56,6 +56,9 @@ TIXIAP- for loop
 [3, 4, 5] BELIN BEN [6, 8, 10] : SIX
 [3, 4, 5] BEN [6, 8, 10] : NIX
 
+// all range checks on BEN is a NIX, except 2 identical ranges
+[3, 4, 5] BEN [3, 4, 5] : SIX
+
 [3, 4, 5] BELIT [6, 8, 10] : NIX
 
 ### loose check
