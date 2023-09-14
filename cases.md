@@ -40,7 +40,7 @@ KIV - at destination
 KIF - out of sight, unreachable 
 KIB - displaced
 
-TIN - no time
+TIN - now
 TIR - time start, on time
 TIK - early
 TIT - half time
