@@ -267,6 +267,7 @@ ELITAMO - to shuffle
 ELIMA - to insert, place between
 ELIMO - to stick
 ELIMON - stuck
+ELIMI - to transfer
 
 # outputs
 ZAS - outcome, output

@@ -66,4 +66,6 @@ KOT - negative num.
 KOT DEKEM (-62)
 KOT SEKÖNAS (-4 million)
 
-ARTATE - calculator
+PERIN - calculation
+PERINA - to calculate
+PERINAMI - calculator

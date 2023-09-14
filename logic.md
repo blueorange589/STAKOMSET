@@ -11,6 +11,8 @@ NIX - none, nothing, no, no one, not exist
 SIX - all, everything, yes, everyone, exist
 
 
+
+
 relationships 
 UKU - one to one
 UKO - one to many
