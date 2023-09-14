@@ -266,12 +266,11 @@ BELITAM - various
 BELITAMO - to shuffle
 
 BON - range
-BONA - to insert, place between
-BONAT - item between
-BONATE - to transfer
-BONI - to go out of range
+BONI - to insert, place between
+BONIN - item between
 BONIT - item out of range
 BONITA - to get in range
+BONA - to transfer
 BENI - to stick
 
 BENA - to equalize
