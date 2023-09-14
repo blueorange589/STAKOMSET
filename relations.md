@@ -46,12 +46,16 @@ TIXIAP- for loop
 
 ## range checks
 
-### strict check on parallel
+### loose check on parallel
 
 [3, 4, 5] BELIN [6, 8, 10] : SIX // parallel
 [3, 4, 5] BELIN [6, 8, "10"] : NIX
 
 [3, 4, 5] BELIN [6, 8, 10, 12, 14] : SIX // size not included
+
+[3, 4, 5] BELIT [6, 8, 10] : NIX
+
+### strict check on parallel
 [3, 4, 5] BELIN BEN [6, 8, 10, 12, 14] : NIX // due to array size. Most strict check.
 
 [3, 4, 5] BELIN BEN [6, 8, 10] : SIX
@@ -59,8 +63,6 @@ TIXIAP- for loop
 
 // all range checks on BEN is a NIX, except 2 identical ranges
 [3, 4, 5] BEN [3, 4, 5] : SIX
-
-[3, 4, 5] BELIT [6, 8, 10] : NIX
 
 ### loose check on cross/match
 
