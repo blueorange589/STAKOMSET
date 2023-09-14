@@ -265,11 +265,11 @@ BELIZA - to unrelate
 BELITAM - various
 BELITAMO - to shuffle
 
-BON - between
+BON - range
 BONA - to insert, place between
 BONAT - item between
 BONATE - to transfer
-BONI - to stick
+BENI - to stick
 
 
 # outputs

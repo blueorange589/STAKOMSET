@@ -37,7 +37,9 @@ BEKA - greater than
 BENKA - equal or greater than
 BESA - lower than
 BENSA - equal or lower than
-BON - between
+BON - range
+BONA - to insert, place between
+BONAT - item in range, between
 
 BEL - has relation
 BELIN - parallel, synchronized, aligned, means
