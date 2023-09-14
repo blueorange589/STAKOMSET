@@ -11,6 +11,7 @@ FENANT = garage, repair shop      EXANT?
 FENART = repairman, engineer      EXART?
 FENARM = repair tool              EXARM?
 FENAMP = repair method, process   EXAMP?
+FENAMI = repair device
 
 FENALT = repaired                EXALT?
 FENALS = being repaired          EXALS?
@@ -129,8 +130,8 @@ IPA - to reverse, revert
 PAR - start, origin, from
 PARA - to begin
 PREPARA - to prepare, intro
-PARAM - entry
-PARAMI - to enter
+PARAT - entry
+PARATE - to enter
 PARE - to start over
 PAS - progress
 PASI - to progress
@@ -147,8 +148,8 @@ PARI - to continue, resume
 PREPAVA - outro
 PAV - end, target, to
 PAVA = to end, finalize, finish, complete
-PAVAM - exit
-PAVAMI - to exit, quit
+PAVAT - exit
+PAVATE - to exit, quit
 
 ### outcomes qualities
 ZENIX - no quality
@@ -234,8 +235,8 @@ IMAFA - to extract
 ### senses
 INKAN - to see
 INKANE - to watch, observe
-INKAM - to think
-INKAMI - to learn
+INKAS - to think
+INKASE - to learn
 
 ### hide, show, display
 PRONA - to hide

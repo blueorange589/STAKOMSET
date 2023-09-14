@@ -10,6 +10,10 @@ ANA - current
 
 PRE - before
 PRO - after 
+PRÜ - transit
+PRÜN - transition
+PRUN - opacity
+
 
 daytime
 UN - moment

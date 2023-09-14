@@ -4,7 +4,7 @@ AINVOS - colorful
 
 NEN - non-colored, not painted, sketch
 NIXAI - transparent
-PIXAI - opacity
+PRUN - opacity
 
 ABI - contrast
 ABINA - neutral contrast
