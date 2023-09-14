@@ -39,8 +39,8 @@ BISA - lower than
 BINSA - equal or lower than
 BISKA - between
 BEL - has relation
-BELIN - parallel, synchronized, aligned, means, true
-BELIT - non-parallel, non-aligned, false
+BELIN - parallel, synchronized, aligned, means
+BELIT - non-parallel, non-aligned
 BELIS - crossing, conflicting, similar, in conjunction, common
 NIBEL - non-related
 

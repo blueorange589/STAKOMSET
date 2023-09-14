@@ -7,8 +7,8 @@ MIX - random, any
 PIX - some
 APIX - else, others
 TIX - each
-NIX - none, nothing, no, no one, not exist
-SIX - all, everything, yes, everyone, exist
+NIX - none, nothing, no, no one, not exist, false
+SIX - all, everything, yes, everyone, exist, true
 
 
 
