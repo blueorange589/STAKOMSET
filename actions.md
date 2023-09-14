@@ -202,6 +202,7 @@ TASIK - container
 TASIKA - to contain
 TES - modified
 TESA - to alter, modify, transform
+TESI - to effect
 TASO - to tidy up
 * TASALI - being included
 * TASIKAM - storage method
@@ -258,7 +259,7 @@ BELI - to relate
 BELIR - has relation
 BELIRA - to depend
 BELINA - to match, fulfill, satisfy
-BELINE - to explain
+BELINE - to define, explain
 BELITA - to unmatch
 BELIZA - to unrelate
 
@@ -272,11 +273,12 @@ BONIT - item out of range
 BONIS - partially in range
 BONITA - to go out of range
 BONINA - to get in range
+ABON - area out of range
 
 BONISENA - entering range, to appear
 BONISETA - leaving range, to disappear
 
-BONA - to transfer
+BONINE - to transfer
 BENI - to stick
 
 BENA - to equalize
@@ -328,6 +330,3 @@ UNPEN - unification, healing
 
 
 write/type/input
-define, explain, mean
-effect
-calculate
