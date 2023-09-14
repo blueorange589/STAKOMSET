@@ -55,3 +55,6 @@ BONIAP - for loop
 
 [3, 4, 5] BELIS [3, 4, 5, 6, 7] : SIX
 [3, 4, 5] BELIS SI [3, 4, 5, 6] : NIX
+
+// string check on all integers : true
+[3, 4, 5] BELIS LIP [1, 4, 7, 8] : SIX
