@@ -60,6 +60,9 @@ LIP : string
 3 BELIS SIP "3" : SIX
 3 BELIS LIP "3" : NIX
 
+5 BON 3 VAS 9 : SIX
+5 BON 3 VAS "9" : NIX
+
 # reference
 RAS - start, center, switch on, origin, straight, exact, precise
 KAS - radius, direct, arrow, direction, range, controlled, refer
