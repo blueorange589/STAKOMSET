@@ -37,12 +37,12 @@ BEKA - greater than
 BENKA - equal or greater than
 BESA - lower than
 BENSA - equal or lower than
-BON - between, partial match
+BON - between
 
 BEL - has relation
 BELIN - parallel, synchronized, aligned, means
 BELIT - non-parallel, non-aligned
-BELIS - crossing, conflicting, similar, in conjunction, common
+BELIS - crossing, conflicting, similar, in conjunction, common, partial match
 NIBEL - non-related
 
 
