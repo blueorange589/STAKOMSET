@@ -25,6 +25,10 @@ LIP : string
 
 3 BEN 3 : SIX
 3 BEN "3" : NIX
+
+3 BENS 4 : SIX
+3 BENS "4" : NIX
+
 3 BELIS "3" : SIX
 3 BELIS SIP "3" : SIX
 3 BELIS LIP "3" : NIX
