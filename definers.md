@@ -31,13 +31,14 @@ PÖNÖ - concave, exponential decrease
 PÖTÖ - convex, exponential increase
 
 ### relation & comparison
-BIN - equal
-NIBIN - inequal
-BIKA - greater than
-BINKA - equal or greater than
-BISA - lower than
-BINSA - equal or lower than
-BISKA - between
+BEN - equal
+NIBEN - inequal
+BEKA - greater than
+BENKA - equal or greater than
+BESA - lower than
+BENSA - equal or lower than
+BESKA - between
+
 BEL - has relation
 BELIN - parallel, synchronized, aligned, means
 BELIT - non-parallel, non-aligned

@@ -10,6 +10,7 @@ LI - temperature
 PI - angle, direction
 FI - pressure
 ZI - energy
+BI - 
 
 TIKI - speed
 TISI - frequency, beat 

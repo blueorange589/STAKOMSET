@@ -4,6 +4,9 @@ ME - age
 PE - role
 ZENI - quality
 
+BE - comparison & relation
+
+
 
 dual cases
 FEN - functioning
