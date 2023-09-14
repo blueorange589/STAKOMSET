@@ -45,7 +45,7 @@ TIXIAP- for loop
 
 ## range checks
 
-### strict check
+### strict check on parallel
 
 [3, 4, 5] BELIN [6, 8, 10] : SIX // parallel
 [3, 4, 5] BELIN [6, 8, "10"] : NIX
@@ -61,20 +61,20 @@ TIXIAP- for loop
 
 [3, 4, 5] BELIT [6, 8, 10] : NIX
 
-### loose check
+### loose check on cross/match
 
-[3, 4, 5] BELIS [6, 8, "10"] : SIX
+[3, 4, 5] BELIS [6, 8, 10] : NIX
 [3, 4, 5] BELIS [1, 5, 9] : SIX // one matching element
 
-### loose check on type (strict)
+### strict check on cross/match
 
-[3, 4, 5] BELIS SIP [6, 8, "10"] : NIX
-[3, 4, 5] BELIS LIP [9, 8, 4] : SIX
+[3, 4, 5] BELIS SIP [1, 2, "5"] : NIX
+[3, 4, 5] BELIS SIP [9, 8, 4] : SIX
 
 
 ### check on range size
 
-[3, 4, 5] BELIS SI [9, 8, 4] : SIX
+[3, 4, 5] BELIS SI [9, 8, 7] : SIX
 [3, 4, 5] BELIS SI [3, 4, 5, 6] : NIX
 
 ### string check on all integers
