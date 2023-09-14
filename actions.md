@@ -258,6 +258,7 @@ BELI - to relate
 BELIR - has relation
 BELIRA - to depend
 BELINA - to match, fulfill, satisfy
+BELINE - to explain
 BELITA - to unmatch
 BELIZA - to unrelate
 
