@@ -43,7 +43,7 @@ BONAT - item in range, between
 
 BEL - has relation
 BELIN - parallel, synchronized, aligned, means
-BELIT - non-parallel, non-aligned
+BELIT - non-parallel, non-aligned, async
 BELIS - crossing, conflicting, similar, in conjunction, common, partial match
 NIBEL - non-related
 

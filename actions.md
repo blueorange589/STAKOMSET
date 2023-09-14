@@ -267,8 +267,9 @@ BELITAMO - to shuffle
 
 BON - range
 BONI - to insert, place between
-BONIN - item between
+BONIN - item in range
 BONIT - item out of range
+BONIS - partially in range
 BONITA - to get in range
 BONA - to transfer
 BENI - to stick
