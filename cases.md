@@ -41,9 +41,9 @@ KIF - out of sight, unreachable
 KIB - displaced
 
 TIN - now
-TIR - time start, on time
+TIR - time start
 TIK - early
-TIT - half time
+TIT - on time
 TIS - late
 TIV - time out
 TIF - too late
