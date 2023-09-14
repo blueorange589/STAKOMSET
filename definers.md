@@ -49,9 +49,16 @@ BELIT - non-parallel, non-aligned, async
 BELIS - crossing, conflicting, similar, in conjunction, common, partial match
 NIBEL - non-related
 
+### types
+
+SIP : integer
+LIP : string
+
 3 BEN 3 : SIX
 3 BEN "3" : NIX
 3 BELIS "3" : SIX
+3 BELIS SIP "3" : SIX
+3 BELIS LIP "3" : NIX
 
 # reference
 RAS - start, center, switch on, origin, straight, exact, precise
