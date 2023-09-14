@@ -63,6 +63,7 @@ LIP : string
 5 BONIN 3 VAS 9 : SIX
 5 BONIN 3 VAS "9" : NIX
 5 BONIT 2 VAS 8 : NIX
+5 BONIT 2 VAS "8" : SIX
 
 # reference
 RAS - start, center, switch on, origin, straight, exact, precise
