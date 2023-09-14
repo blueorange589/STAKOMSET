@@ -19,4 +19,8 @@ KIRA FÖRINT - creating new software language
 FÖRINTA - composer
 FÖRINTE - interpreter
 
-SIXAMS - development software / IDE
+SIXAMS - development software
+
+IAP - action
+TIXIAP - foreach loop
+BONIAP - for loop, range loop

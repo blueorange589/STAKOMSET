@@ -65,6 +65,10 @@ LIP : string
 5 BONIT 2 VAS 8 : NIX
 5 BONIT 2 VAS "8" : SIX
 
+IAP - action
+TIXIAP - foreach loop
+BONIAP - for loop, range loop
+
 # reference
 RAS - start, center, switch on, origin, straight, exact, precise
 KAS - radius, direct, arrow, direction, range, controlled, refer
