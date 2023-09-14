@@ -90,3 +90,6 @@ TIXIAP- for loop
 
 [3, 4, 5] BELIS LIP [1, 4, 7, 8] : SIX
 // 0 to 0 comparison
+
+### with number of matches check
+[1, 2, 3, 4, 5] BELIS [3, 4, 5, 6, 7] BEK 2 : SIX
