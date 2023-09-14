@@ -34,6 +34,8 @@ LIP : string
 
 3 BELIS "3" : SIX // cross on value
 "3" BELIS "5" : SIX // cross on type string
+3 BELIS 5 : SIX // cross on type int
+3 BELIS "7" : NIX // completely different
 
 3 BELIS SIP "3" : SIX  // value cross
 3 BELIS LIP "3" : NIX // type no crosd
