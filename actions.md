@@ -9,9 +9,10 @@ FENA = repair                    EXA?
 
 FENANT = garage, repair shop      EXANT?
 FENART = repairman, engineer      EXART?
-FENARM = repair tool              EXARM?
 FENAMP = repair method, process   EXAMP?
+FENARM = repair tool              EXARM?
 FENAMI = repair device
+FENAMS = repair software
 
 FENALT = repaired                EXALT?
 FENALS = being repaired          EXALS?
@@ -89,7 +90,7 @@ DÖSE - to record
 * KODÜSA - to split into two equal parts
 * DESAS - version, revision
 * DESASI - versioning
-* DESASIRM - versioning tool
+* DESASIMS - versioning software
 
 
 ### control / release
