@@ -24,7 +24,7 @@ NIBEL - non-related
 
 ### types
 
-SIP : integer
+SIP : integer, float
 LIP : string
 
 ### equality check
@@ -58,21 +58,25 @@ LIP : string
 
 ### check on parallel
 
-[3, 4, 5] BELIN [8, 9, 10] : SIX // parallel
-[3, 4, 5] BELIN [8, 9, "10"] : NIX
+[3, 4, 5] BELIN [8, 9, 10] : 3 // parallel
+[3, 4, 5] BELIN [8, 9, "10"] : 0
+[3, 4, 5] BELIN [6, 7, 8, 9, 10] : 3
 
-[3, 4, 5] BELIN [6, 7, 8, 9, 10] : SIX // size not included
+[3, 4, 5] BELIT [6, 7, 8] : 3
 
-[3, 4, 5] BELIT [6, 7, 8] : SIX
+[4, 4, 4, 6, 2] BELIN [5, 5, 5, 7, 3, 8] : 5
+[4, 4, 4, 6, 2] BELIN [8, 5, 5, 5, 7, 3] : 5
 
-[4, 4, 4, 6, 2] BELIN [5, 5, 5, 7, 3] : SIX // parallel
+[4, 4, 4, 6, 2] BELIN [8, 5, 5, 5, 7, 3] BENK 3 : 5
+[4, 4, 4, 6, 2] BELIN [8, 5, 5, 5, 7, 3] BENK 6 : 0 // min. 6 points to match
+
 
 ### check on type/size on parallel
-[3, 4, 5] BELIN SIP [8, 9, "10"] : SIX
+[3, 4, 5] BELIN SIP [8, 9, "10"] : 3
 
-[3, 4, 5] BELIN BEN [6, 7, 8, 9, 10] : NIX // due to array size. Most strict check.
+[3, 4, 5] BELIN BEN [6, 7, 8, 9, 10] : 0 // due to array size. Most strict check.
 
-[3, 4, 5] BELIN BEN [6, 7, 8] : SIX
+[3, 4, 5] BELIN BEN [6, 7, 8] : 3
 [3, 4, 5] BEN [6, 7, 8] : NIX
 
 // all range checks on BEN is a NIX, except 2 identical ranges
@@ -113,8 +117,10 @@ LIP : string
 
 [3, 4, 5] BELÖN [6, 8, "10"] : 0
 
+[3, 4, 5] BELÖN [6, 8, 10, 15] : 0
+
 ### check on type on factor
 
-[3, 4, 5] BELÖN SIP [6, 8, "10"] : 2
+[3, 4, 5] BELÖN SIP [6, 7.5, "9"] : 1.5
 
-[3, 4, 5] BELÖN BEN [6, 8, 10, 12, 14] : 2 // array size like no effect. Still factor 2
+[3, 4, 5] BELÖN BEN [6, 8, 10, 12, 14] : 0
