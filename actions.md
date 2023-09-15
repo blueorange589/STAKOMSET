@@ -129,15 +129,15 @@ PREPARA - to prepare, intro
 PARAT - entry
 PARATE - to enter
 PARE - to start over
-PARI - to continue, resume
 
-PARIS - progress
-PARISA - to progress
-NIPARIS - no progress, not started
-PARIT - last action
-PARITA - to undo
+PARI - to continue, resume
+PARIN - progress
+PARINA - to progress
+NIPARIN - no progress, not started
+PARIS - last action
+PARISA - to undo
 PARIRE - to redo, replay
-PARIN - next action
+PARIK - next action
 
 PAT - middle
 PATA - to interfere
