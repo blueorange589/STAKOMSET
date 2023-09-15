@@ -289,6 +289,8 @@ BELIZA - to unrelate
 BELITAM - various
 BELITAMO - to shuffle
 
+### range ops
+
 BON - range
 BONI - to insert, place between
 BONIN - item in range
@@ -303,6 +305,8 @@ BONISETA - leaving range, to disappear
 
 BONINE - to transfer
 BENI - to stick
+
+### comparison actions
 
 BENA - to equalize
 BEKA - to pass, go ahead, go over
