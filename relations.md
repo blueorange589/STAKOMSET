@@ -57,6 +57,8 @@ TIXIAP- for loop
 [3, 4, 5] BELIN [8, 9, 10] : SIX // parallel
 [3, 4, 5] BELIN [8, 9, "10"] : NIX
 
+[3, 4, 5] BELIN SIP [8, 9, "10"] : SIX
+
 [3, 4, 5] BELIN [6, 7, 8, 9, 10] : SIX // size not included
 
 [3, 4, 5] BELIT [6, 7, 8] : SIX
