@@ -138,6 +138,7 @@ PARIS - last action
 PARISA - to undo
 PARIRE - to redo, replay
 PARIK - next action
+PARIKA - to skip
 
 PAT - middle
 PATA - to interfere
