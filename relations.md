@@ -15,6 +15,7 @@ BEL - has relation
 BELIN - parallel, synchronized, aligned, means
 BELIT - non-parallel, non-aligned, async
 BELIS - crossing, conflicting, similar, in conjunction, common, partial match
+BELÖN - factor
 NIBEL - non-related
 
 
@@ -57,8 +58,6 @@ TIXIAP- for loop
 [3, 4, 5] BELIN [8, 9, 10] : SIX // parallel
 [3, 4, 5] BELIN [8, 9, "10"] : NIX
 
-[3, 4, 5] BELIN SIP [8, 9, "10"] : SIX
-
 [3, 4, 5] BELIN [6, 7, 8, 9, 10] : SIX // size not included
 
 [3, 4, 5] BELIT [6, 7, 8] : SIX
@@ -66,6 +65,8 @@ TIXIAP- for loop
 [4, 4, 4, 6, 2] BELIN [5, 5, 5, 7, 3] : SIX // parallel
 
 ### strict check on parallel
+[3, 4, 5] BELIN SIP [8, 9, "10"] : SIX
+
 [3, 4, 5] BELIN BEN [6, 7, 8, 9, 10] : NIX // due to array size. Most strict check.
 
 [3, 4, 5] BELIN BEN [6, 7, 8] : SIX
@@ -76,21 +77,20 @@ TIXIAP- for loop
 
 ### loose check on cross/match
 
-[3, 4, 5] BELIS [6, 7, 8] : NIX
-[3, 4, 5] BELIS [1, 5, 9] : SIX // one matching element
+[3, 4, 5] BELIS [6, 7, 8] : 0
+[3, 4, 5] BELIS [1, 5, 9] : 1 // one matching element
 
 ### strict check on cross/match
 
-[3, 4, 5] BELIS SIP [1, 2, "5"] : NIX
-[3, 4, 5] BELIS SIP [9, 8, 4] : SIX
-
+[3, 4, 5] BELIS SIP [1, 2, "5"] : 0
+[3, 4, 5, 8] BELIS SIP [9, 8, 4] : 2
 
 ### check on range size
 
 [3, 4, 5] BELIS SI [9, 8, 7] : SIX
 [3, 4, 5] BELIS SI [3, 4, 5, 6] : NIX
 
-### string check on all integers
+### string check on all integer ranges
 
 [3, 4, 5] BELIS LIP [1, 2, 7, 8] : SIX
 // 0 to 0 comparison
@@ -102,3 +102,15 @@ TIXIAP- for loop
 [1, 2, 3, 4, 5] BELIS [3, 4, 5, 6, 7] BEN 3 : SIX
 
 [1, 2, 3, 4, 5] BELIS [3, 4, 5, 6, 7] BEN "3" : NIX
+
+### loose factor check
+
+[3, 4, 5] BELÖN [6, 8, 10, 12, 14] : 2
+
+[3, 4, 5] BELÖN [6, 8, "10"] : 0
+
+### strict factor check
+
+[3, 4, 5] BELÖN SIP [6, 8, "10"] : 2
+
+[3, 4, 5] BELÖN BEN [6, 8, 10, 12, 14] : 2 // array size like no effect. Still factor 2
