@@ -53,7 +53,7 @@ TIXIAP- for loop
 
 ## range checks
 
-### loose check on parallel
+### check on parallel
 
 [3, 4, 5] BELIN [8, 9, 10] : SIX // parallel
 [3, 4, 5] BELIN [8, 9, "10"] : NIX
@@ -64,7 +64,7 @@ TIXIAP- for loop
 
 [4, 4, 4, 6, 2] BELIN [5, 5, 5, 7, 3] : SIX // parallel
 
-### strict check on parallel
+### check on type/size on parallel
 [3, 4, 5] BELIN SIP [8, 9, "10"] : SIX
 
 [3, 4, 5] BELIN BEN [6, 7, 8, 9, 10] : NIX // due to array size. Most strict check.
@@ -75,14 +75,15 @@ TIXIAP- for loop
 // all range checks on BEN is a NIX, except 2 identical ranges
 [3, 4, 5] BEN [3, 4, 5] : SIX
 
-### loose check on cross/match
+### check on cross/match
 
 [3, 4, 5] BELIS [6, 7, 8] : 0
+[3, 4, 5] BELIS [1, 2, "5"] : 0
 [3, 4, 5] BELIS [1, 5, 9] : 1 // one matching element
 
-### strict check on cross/match
+### check on type on cross/match
 
-[3, 4, 5] BELIS SIP [1, 2, "5"] : 0
+[3, 4, 5] BELIS SIP [1, 2, "5"] : 1
 [3, 4, 5, 8] BELIS SIP [9, 8, 4] : 2
 
 ### check on range size
@@ -103,13 +104,13 @@ TIXIAP- for loop
 
 [1, 2, 3, 4, 5] BELIS [3, 4, 5, 6, 7] BEN "3" : NIX
 
-### loose factor check
+### factor check
 
 [3, 4, 5] BELÖN [6, 8, 10, 12, 14] : 2
 
 [3, 4, 5] BELÖN [6, 8, "10"] : 0
 
-### strict factor check
+### check on type on factor
 
 [3, 4, 5] BELÖN SIP [6, 8, "10"] : 2
 
