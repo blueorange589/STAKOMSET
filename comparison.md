@@ -120,6 +120,6 @@ LIP : string
 
 ### check on type on factor
 
-[3, 4, 5] BELÖN SIP [6, 7.5, "9"] : 1.5
+[3, 4, 5] BELÖN SIP [4.5, 6, "7.5"] : 1.5
 
 [3, 4, 5] BELÖN BEN [6, 8, 10, 12, 14] : 0
