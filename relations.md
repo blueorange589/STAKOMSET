@@ -59,7 +59,9 @@ TIXIAP- for loop
 
 [3, 4, 5] BELIN [6, 7, 8, 9, 10] : SIX // size not included
 
-[3, 4, 5] BELIT [6, 7, 8] : NIX
+[3, 4, 5] BELIT [6, 7, 8] : SIX
+
+[4, 4, 4, 6, 2] BELIN [5, 5, 5, 7, 3] : SIX // parallel
 
 ### strict check on parallel
 [3, 4, 5] BELIN BEN [6, 7, 8, 9, 10] : NIX // due to array size. Most strict check.
