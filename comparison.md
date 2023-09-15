@@ -123,3 +123,10 @@ LIP : string
 [3, 4, 5] BELÖN SIP [4.5, 6, "7.5"] : 1.5
 
 [3, 4, 5] BELÖN BEN [6, 8, 10, 12, 14] : 0
+
+### float check
+
+4 BEN 4.000000 : SIX
+4 BEN 4.000001 : NIX
+
+4 BES 4.000001 : SIX
