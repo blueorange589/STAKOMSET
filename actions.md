@@ -184,7 +184,7 @@ ETAS - items sent out
 * IPA INITAM - to refund
 * KUN ENALT "GROCERY" POMIA, ETALM TON POMIA
 * ENALS MÜNAR PAPIA
-* PARA ENA - to begin downloading
+* PARA ENA - to begin to download
 
 ETÖM - to throw
 ETÖN - to shoot
@@ -231,6 +231,8 @@ TASO - to tidy up
 VAS - border
 VASA - to border, to pack, cover
 VASE - to protect, save, preserve
+VASEK - lock
+VASEKA - to lock
 VASÖ - to shield
 VASÖTE - shield
 AFENVAS - crack, bug, weakness
