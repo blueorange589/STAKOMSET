@@ -100,8 +100,7 @@ LIP : string
 
 ### string check on all integer ranges
 
-[3, 4, 5] BELIS LIP [1, 2, 7, 8] : SIX
-// 0 to 0 comparison
+[3, "4", 5] BELIS LIP ["1", 2, "7", 8] : 1
 
 ### with number of matches check
 
