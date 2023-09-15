@@ -1,4 +1,5 @@
-### relation & comparison
+### comparison
+
 BEN - equal, exact match, stuck
 NIBEN - inequal
 BEK - greater than
@@ -10,6 +11,8 @@ BON - range, array
 BONI - to insert, place between
 BONIN - item in range, between
 BONIT - item out of range
+
+### relation
 
 BEL - has relation
 BELIN - parallel, synchronized, aligned, means
@@ -24,12 +27,11 @@ NIBEL - non-related
 SIP : integer
 LIP : string
 
+### equality check
+
 3 BEN 3 : SIX
 3 BEN "3" : NIX
 "A" BEN "A" : SIX
-
-3 BENS 4 : SIX
-3 BENS "4" : NIX
 
 ### loose check on equality, cross
 
@@ -39,17 +41,18 @@ LIP : string
 3 BELIS "7" : NIX // completely different, both on type and value
 
 3 BELIS SIP "3" : SIX  // value cross
-3 BELIS LIP "3" : NIX // type no crosd
-"5" BELIS LIP "9" : SIX // check on type string
+3 BELIS LIP "3" : NIX // type no cross
+"5" BELIS LIP "9" : SIX // type cross
+
+### comparison checks
+
+3 BENS 4 : SIX
+3 BENS "4" : NIX
 
 5 BONIN 3 VAS 9 : SIX
 5 BONIN 3 VAS "9" : NIX
 5 BONIT 2 VAS 8 : NIX
 5 BONIT 2 VAS "8" : SIX
-
-IAP - action
-BONIAP - foreach loop, range loop
-TIXIAP- for loop
 
 ## range checks
 
