@@ -49,8 +49,10 @@ FASKI - margin
 VASNIX - infinity
 VINIX - static, stationary
 KINIX - touching, meet, agreement
+
 KIKAS - remote controlled
-KIKASI - remote controller
+KIKASA - to remote control
+KIKASAMI - remote controller
 
 ROS - less
 VOS - more
