@@ -54,25 +54,25 @@ TIXIAP- for loop
 
 ### loose check on parallel
 
-[3, 4, 5] BELIN [6, 8, 10] : SIX // parallel
-[3, 4, 5] BELIN [6, 8, "10"] : NIX
+[3, 4, 5] BELIN [8, 9, 10] : SIX // parallel
+[3, 4, 5] BELIN [8, 9, "10"] : NIX
 
-[3, 4, 5] BELIN [6, 8, 10, 12, 14] : SIX // size not included
+[3, 4, 5] BELIN [6, 7, 8, 9, 10] : SIX // size not included
 
-[3, 4, 5] BELIT [6, 8, 10] : NIX
+[3, 4, 5] BELIT [6, 7, 8] : NIX
 
 ### strict check on parallel
-[3, 4, 5] BELIN BEN [6, 8, 10, 12, 14] : NIX // due to array size. Most strict check.
+[3, 4, 5] BELIN BEN [6, 7, 8, 9, 10] : NIX // due to array size. Most strict check.
 
-[3, 4, 5] BELIN BEN [6, 8, 10] : SIX
-[3, 4, 5] BEN [6, 8, 10] : NIX
+[3, 4, 5] BELIN BEN [6, 7, 8] : SIX
+[3, 4, 5] BEN [6, 7, 8] : NIX
 
 // all range checks on BEN is a NIX, except 2 identical ranges
 [3, 4, 5] BEN [3, 4, 5] : SIX
 
 ### loose check on cross/match
 
-[3, 4, 5] BELIS [6, 8, 10] : NIX
+[3, 4, 5] BELIS [6, 7, 8] : NIX
 [3, 4, 5] BELIS [1, 5, 9] : SIX // one matching element
 
 ### strict check on cross/match
@@ -88,7 +88,7 @@ TIXIAP- for loop
 
 ### string check on all integers
 
-[3, 4, 5] BELIS LIP [1, 4, 7, 8] : SIX
+[3, 4, 5] BELIS LIP [1, 2, 7, 8] : SIX
 // 0 to 0 comparison
 
 ### with number of matches check
