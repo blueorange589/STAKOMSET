@@ -19,6 +19,7 @@ FÖRANS - knowledge
 FÖRATA - fit
 FÖRATE - healthy
 FÖRATI - skilled
+FÖRAK - engine, motivation
 FÖRE - Has quality
 FÖREM - sensible
 FÖRI - real
