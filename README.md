@@ -27,10 +27,10 @@ New language framework for world.
 
 special thanks
 ATHENA :)
-pythagor
+pythagoras
 ptolemy
 anachymedes
-... many more
+Ludwig Wittgenstein "language is the base of thinking"
 
 
 public. open for further development. no license.
