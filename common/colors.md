@@ -7,7 +7,7 @@ NIXAIN - transparent
 NIXAINA - to erase/remove colors
 NIXAINALT - transparized :D
 NIXAINASI - transparization succesful :DDD
-PRUN - opacity
+AINSI - opacity
 
 ABI - contrast
 ABINA - neutral contrast
