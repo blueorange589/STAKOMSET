@@ -3,7 +3,8 @@ AIN - color
 AINVOS - colorful
 
 NEN - non-colored, not painted, sketch
-NIXAI - transparent
+NIXAIN - transparent
+NIXAINA - to erase/remove colors
 PRUN - opacity
 
 ABI - contrast
