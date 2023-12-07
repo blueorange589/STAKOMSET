@@ -5,6 +5,8 @@ AINVOS - colorful
 NEN - non-colored, not painted, sketch
 NIXAIN - transparent
 NIXAINA - to erase/remove colors
+NIXAINALT - transparized :D
+NIXAINASI - transparization succesful :DDD
 PRUN - opacity
 
 ABI - contrast
