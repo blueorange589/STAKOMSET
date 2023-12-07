@@ -1,14 +1,8 @@
-VES - vehicle
-VESA - airplane
-VESE - ship
-VESTA - car
-VESTÖ - truck
-VESI - rocket
-
-
 VERNORAS - airways/airlines
-VESO - fleet
+VESAMO - fleet
 
+KAVITAN - driver, captain
+KÜVITAN - autopilot
 
 VERA - wind
 RAVERA - tailwind
