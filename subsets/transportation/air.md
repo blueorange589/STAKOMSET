@@ -12,9 +12,6 @@ LISVERA - crosswind
 KISERA - elevation, altitude
 KIMER - distance to ground
 
-ROTELATE - rudder
-ROTATE - flight control
-
 path alignment
 BELIN NORE (on path)
 
@@ -44,3 +41,7 @@ SOTEZ - vertical matrix (pitch)
 SOTEX KA - roll right
 SOTEL DA - yaw left
 SOTEZ DA - pitch down
+
+ROTELATE - rudder
+ROTATE - flight control
+
