@@ -1,4 +1,5 @@
 VERNORAS - airways/airlines
+VESAM - pax. airplane
 VESAMO - fleet
 
 KAVITAN - driver, captain
@@ -19,7 +20,7 @@ RIVAKIR NORE (just above path)
 RIVAKIK NORE (near above path)
 RIVAKIS NORE (way above path)
 
-RIDAKIR NORE (on left next to path)
+RISAKIR NORE (on left next to path)
 NORE RIKAKIR (path just at right)
 
 controls
