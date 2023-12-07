@@ -7,6 +7,8 @@ NIXAIN - transparent
 NIXAINA - to erase/remove colors
 NIXAINALT - transparized :D (operation complete)
 NIXAINASI - transparization succesful :DDD
+NIXAINPEN - getting transparized
+NIXAINPET = AINPEN - getting colorized
 AINSI - opacity
 
 ABI - contrast
