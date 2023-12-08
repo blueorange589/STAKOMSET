@@ -1,6 +1,9 @@
 ** format: Day of Century (PL-18901)
+
 ** solar and lunar returns has own calculations. so months are calculated over moon referenced movement. not sun.
+
 ** no weeks (unmeaningful. has no base)
+
 
 ## Solar ~
 
