@@ -1,5 +1,6 @@
 ** format: Day of Century (PL-18901)
 ** solar and lunar returns has own calculations. so months are calculated over moon referenced movement. not sun.
+** no weeks (unmeaningful. has no base)
 
 ## Solar ~
 
@@ -22,3 +23,6 @@ AA-29234 = AA-MERITIS-MAI
 
 ### Sirius B referenced ¿
 AA-29234 = ¿AA-0.00241-47
+
+
+AA-29234 = ~AA-80-14 = °AA-989-28 = AA-MERITIS-MAI = ¿AA-0.00241-47
