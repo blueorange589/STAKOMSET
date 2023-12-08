@@ -16,7 +16,7 @@ AA-29234 = ~AA-80-14 = °AA-989-28
 
 ## Fancy
 
-AA-29234 = AA-Octopus-Blue
+AA-29234 = AA-MERITIS-MAI
 
 ## Universal (literally)
 
