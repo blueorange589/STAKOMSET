@@ -13,3 +13,8 @@ AA-29234 = AA-989-28
 (29234 divided by 29.53) (century AA month 989 day 28)
 
 AA-29234 = ~AA-80-14 = °AA-989-28
+
+## Universal (literally)
+
+### Sirius B referenced ¿
+AA-29234 = ¿AA-0.00241-47
