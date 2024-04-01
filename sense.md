@@ -21,7 +21,6 @@ FÖRATE - healthy
 FÖRATI - skilled
 FÖRAK - engine, motivation
 FÖRE - Has quality
-FÖREM - sensible
 FÖRI - real
 FÖRIN - language
 FÖRINI - letter
@@ -31,7 +30,9 @@ FÖRINA - sentence
 FÖRIVOS - humor
 FÖRIVOSA - comedy 
 FÖRIVOSAN - comedian
-FÖRIF - senses
+FÖRIF - sense, mean
+FÖRIFA - sensible
+NIFÖRIFA - person with detached, non-responsible, unmeaningful perspective for life.
 
 PROFÖR - feeder of existence
 INFÖR - mortal, variable, transforming
