@@ -1,8 +1,5 @@
 # STAKOMSET
-RASIX FÖRINI
-
-(everything starts with a letter) 
-e.g. letter "A" :)
+RASIX FÖRINI (everything starts with a letter) e.g. letter "M" :)
 
 New language framework for world.
 
@@ -26,11 +23,11 @@ New language framework for world.
 
 
 special thanks
+Ludwig Wittgenstein "language is the base of thinking"
 ATHENA :)
 pythagoras
 ptolemy
 anachymedes
-Ludwig Wittgenstein "language is the base of thinking"
 
 
 public. open for further development. no license.
