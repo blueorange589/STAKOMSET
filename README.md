@@ -22,12 +22,12 @@ New language framework for world.
 
 
 
-special thanks
-Ludwig Wittgenstein "language is the base of thinking"
-ATHENA :)
-pythagoras
-ptolemy
-anachymedes
+### special thanks
+- Ludwig Wittgenstein "language is the base of thinking"
+- ATHENA :)
+- pythagoras
+- ptolemy
+- anachymedes
 
 
 public. open for further development. no license.
