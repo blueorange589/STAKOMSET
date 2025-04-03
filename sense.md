@@ -25,8 +25,8 @@ FÖRI - real
 FÖRIN - language
 FÖRINI - letter
 FÖRINE - word
-FÖRINEM - meaning, synonym (incl. other languages)
 FÖRINER - dictionary
+FÖRINUM - meaning, synonym (incl. other languages)
 FÖRINA - sentence
 FÖRIVOS - humor
 FÖRIVOSA - comedy 
