@@ -31,9 +31,9 @@ FÖRINA - sentence
 FÖRIVOS - humor
 FÖRIVOSA - comedy 
 FÖRIVOSAN - comedian
-FÖRIF - sense, mean
+FÖRIF - sense
 FÖRIFA - sensible
-NIFÖRIFA - person with detached, non-responsible, unmeaningful perspective for life.
+NIFÖRIFA - senseless. non-sense.
 
 PROFÖR - feeder of existence
 INFÖR - mortal, variable, transforming
